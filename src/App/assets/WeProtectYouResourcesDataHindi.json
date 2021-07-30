@@ -1,0 +1,2601 @@
+[
+    {
+        "key": "default",
+        "related_data": [
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>पर्सनल <span>एक्सीडेंट </span></p>"
+            },
+            {
+                "resource_icon": "zero-depreciation-icon.svg",
+                "label": "जीरो<span>डेप्रिसिएशन </span>"
+            },
+            {
+                "resource_icon": "ncb-protection-icon.svg",
+                "label": "<p>NCB <span>सुरक्षा </span></p>"
+            },
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p> रिटर्न टू <span>इनवॉइस</span></p>"                
+            },
+            {
+                "resource_icon": "belongings-icon.svg",
+                "label": "<p>निजी चीजों का नुकसान </p>"
+            },
+            {
+                "resource_icon": "bi-fule-icon.svg",
+                "label": "<p>  बाई-फ्यूएल <span>किट</span></p>"               
+            }
+        ]
+    },
+    {
+        "key": "two-wheeler-insurance",
+        "related_data": [
+            {
+                "resource_icon": "accidental-damage-icon.svg",
+                "label": "<p>एक्सीडेंट के कारण  <span> वाहन</span> को होने वाले नुकसान"
+                
+            },
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p> थर्ड पार्टी  <span> लायबिलिटी</span></p>"
+               
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>एक्सीडेंट के कारण  <span> वाहन</span> को होने वाले नुकसान"
+            },
+            {
+                "resource_icon": "ncb-protection-icon.svg",
+                "label": "<p>क्लेम नहीं करने पर <span>बोनस</span></p>"
+                 
+            },
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p>ऐड ऑन: <span>रिटर्न टू इनवॉइस</span></p>"
+                  
+            },
+            {
+                "resource_icon": "add-on-covers-icon.svg",
+                "label": "<p>ऐड ऑन: <span>NCB की सुरक्षा </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "motor-act-only-two-wheeler-insurance",
+        "related_data": [
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p>थर्ड पार्टी लायबिलिटी <span> 5 वर्षों के लिए</span></p>"
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>पर्सनल एक्सीडेंट  <span>व्यक्तिगत मालिक का</span></p>"
+                
+
+            },
+            {
+                "resource_icon": "no-annual-renewal-icon.svg",
+                "label": "<p> न होना  एनुअल <span> रिन्यूअल </span></p>"
+               
+            },
+            {
+                "resource_icon": "long-term-policy-icon.svg",
+                "label": "<p>लॉन्ग-टर्म <span>पॉलिसी  </span></p>"
+                
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p> PA कवर का <span> पिछली सीट पर बैठने वाले व्यक्ति </span></p>"
+                
+            },
+            {
+                "resource_icon": "bi-fule-icon.svg",
+                "label": "<p>  बाई-फ्यूएल <span>किट</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "private-car-insurance",
+        "related_data": [
+            {
+                "resource_icon": "accidental-damage-icon.svg",
+                "label":"<p>एक्सीडेंट के कारण  <span> वाहन</span> को होने वाले नुकसान"
+            },
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p> थर्ड पार्टी  <span>लायबिलिटी</span></p>"
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>पर्सनल एक्सीडेंट  <span>to Owner Driver</span></p>"
+            },
+            {
+                "resource_icon": "ncb-protection-icon.svg",
+                "label": "<p>क्लेम नहीं करने पर <span>बोनस</span></p>"
+            },
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p>ऐड ऑन: <span>रिटर्न टू इनवॉइस</span></p>"
+            },
+            {
+                "resource_icon": "zero-depreciation-icon.svg",
+                "label": "<p>ऐडऑन: <span>कीमत में कमी का रिइंब्रस्मेंट </span></p>"
+                 
+            },
+            {
+                "resource_icon": "addons-motor-icon.svg",
+                "label": "<p>ऐडऑन:  <span>इंजन गार्ड </span></p>"
+                
+            },
+            {
+                "resource_icon": "road-side-assistance.svg",
+                "label": "<p> ऐडऑन: <span>हर जगह सहायता </span></p>"
+                
+
+
+
+            },
+            {
+                "resource_icon": "wide-covarage-icon.svg",
+                "label": "<p> ऐडऑन:  <span> उपभोग की जाने वाली चीजों का कवर </span></p>"
+               
+            }
+        ]
+    },
+    {
+        "key": "long-term-two-wheeler-insurance",
+        "related_data": [
+            {
+                "resource_icon": "accidental-damage-icon.svg",
+                "label":"<p>एक्सीडेंट के कारण  <span> वाहन</span> को होने वाले नुकसान"
+            },
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p>थर्ड पार्टी लायबिलिटी <span>for 2 / 3 Years</span></p>"
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>पर्सनल एक्सीडेंट  <span>to Owner Driver</span></p>"
+            },
+            {
+                "resource_icon": "no-annual-renewal-icon.svg",
+                "label": "<p> न होना  एनुअल <span> रिन्यूअल </span></p>"
+            },
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p>ऐड ऑन: <span>रिटर्न टू इनवॉइस</span></p>"
+            },
+            {
+                "resource_icon": "add-on-covers-icon.svg",
+                "label": "<p>ऐड ऑन: <span>Protection of NCB</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "motor-act-only-private-car-insurance",
+        "related_data": [
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p>थर्ड पार्टी लायबिलिटी <span>for 3 Years</span></p>"
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>पर्सनल एक्सीडेंट  <span>व्यक्तिगत मालिक का</span></p>"
+            },
+            {
+                "resource_icon": "no-annual-renewal-icon.svg",
+                "label": "<p> न होना  एनुअल <span> रिन्यूअल </span></p>"
+            },
+            {
+                "resource_icon": "bi-fule-icon.svg",
+                "label": "<p>  बाई-फ्यूएल <span>किट</span></p>"
+            },
+            {
+                "resource_icon": "liability-for-paid-driver-icon.svg",
+                "label": "<p> पैसे पर रखे गए ड्राइवर <span>की कानूनी लायबिलिटी </span></p>"
+                
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p> यात्री के लिए <span> PA कवर </span></p>"
+               
+
+            }
+        ]
+    },
+    {
+        "key": "long-term-home-insurance",
+        "related_data": [
+            {
+                "resource_icon": "impact-damage-icon.svg",
+                "label": "<p>स्ट्रक्चर <span>कवर</span></p>"
+               
+
+            },
+            {
+                "resource_icon": "earthquake-icon.svg",
+                "label": "<p>भूकंप</p>"
+            },
+            {
+                "resource_icon": "floods-icon.svg",
+                "label": "<p>बाढ़</p>"
+            },
+            {
+                "resource_icon": "storm-cyclone-icon.svg",
+                "label": "<p>आंधी</p>"
+            },
+            {
+                "resource_icon": "riot-and-strike-icon.svg",
+                "label": "<p>दंगा और स्ट्राइक </p>"
+                
+            },
+            {
+                "resource_icon": "malicious-damage-icon.svg",
+                "label": "<p>दुर्भावनापूर्ण <span>क्षति</span></p>"
+                 
+
+            }
+        ]
+    },
+    {
+        "key": "simple-home-insurance",
+        "related_data": [
+            {
+                "resource_icon": "impact-damage-icon.svg",
+                "label": "<p>कवर किए जाने वाले स्ट्रक्चर और वस्तुएँ </p>"
+                
+
+            },
+            {
+                "resource_icon": "burglary-icon.svg",
+                "label": "<p> चोरी या लुटपाट  <span>की वस्तुओं </span></p>"
+               
+            },
+            {
+                "resource_icon": "earthquake-icon.svg",
+                "label": "<p>  ब्रेकडाउन कवर </p>"
+               
+
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>पर्सनल  <span>एक्सीडेंट</span></p>"
+                  
+            },
+            {
+                "resource_icon": "all-risk-cover-icon.svg",
+                "label": "<p>ऑल रिस्क   <span>कवर</span></p>"
+            },
+            {
+                "resource_icon": "key-replacement-icon.svg",
+                "label": "<p> प्रमुख <span> विस्थापन</span></p>"
+               
+            }
+        ]
+    },
+    {
+        "key": "individual-pa-insurance",
+        "related_data": [
+            {
+                "resource_icon": "accidental-death-icon.svg",
+                "label": "<p>एक्सीडेंटल <span>डेथ</span></p>"
+                 
+            },
+            {
+                "resource_icon": "permanent-total-disability-icon.svg",
+                "label": "<p>स्थायी रूप से पूरी तरह  <span> विकलांग होना </span></p>"
+               
+
+            },
+            {
+                "resource_icon": "add-on-covers-icon.svg",
+                "label": "<p>ऐड-ऑन <span>कवर </span></p>"
+            },
+            {
+                "resource_icon": "cumulative-bonus-icon.svg",
+                "label": "<p>संचयी   <span>बोनस</span></p>"
+               
+         
+            },
+            {
+                "resource_icon": "no-medical-cost-icon.svg",
+                "label": "<p> कोई मेडिकल <span>  टेस्ट नहीं </span></p>"
+              
+
+            },
+            {
+                "resource_icon": "comprehensive-protection-icon.svg",
+                "label": "<p>व्यापक   <span>कवरेज</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "arogya-premier-policy",
+        "related_data": [
+            {
+                "resource_icon": "no-medical-cost-icon.svg",
+                "label": "<p>कोई मेडिकल चेकअप नहीं  <span> 55 वर्ष की आयु तक </span></p>"
+               
+
+            },
+            {
+                "resource_icon": "no-sub-limits-icon.svg",
+                "label": "<p>आयुष कवरेज </p>"
+            },
+            {
+                "resource_icon": "cumulative-bonus-icon.svg",
+                "label":  "<p>संचयी   <span>बोनस</span></p>"
+            },
+            {
+                "resource_icon": "exempt-from-icon.svg",
+                "label": "<p> धारा 80D  <span>के तहत टैक्स में छूट </span></p>"
+               
+
+            },
+            {
+                "resource_icon": "pre-and-post-hospitalisation-expenses-icon.svg",
+                "label": "<p> प्रि और पोस्ट हॉस्पिटलाइजेशन<span>खर्च </span></p>"
+                
+            },
+            {
+                "resource_icon": "domiciliary-hospitalisation-icon.svg",
+                "label": "<p>डोमिसिलरी  <span> हॉस्पिटलाइजेशन </span></p>"
+                
+
+            }
+        ]
+    },
+    {
+        "key": "retail-health",
+        "related_data": [
+            {
+                "resource_icon": "wide-covarage-icon.svg",
+                "label": "<p> विस्तृत<span>कवरेज </span></p>"
+                
+
+            },
+            {
+                "resource_icon": "no-medical-check-up-icon.svg",
+                "label": "<p>कोई मेडिकल चेकअप नहीं <span>45 वर्ष की आयु तक  </span></p>"
+                
+
+            },
+            {
+                "resource_icon": "coverage-for-entire-family-icon.svg",
+                "label": "<p>पूरे परिवार के लिए <span>कवरेज </span></p>"
+                 
+            },
+            {
+                "resource_icon": "exempt-from-icon.svg",
+                "label": "<p> धारा 80D  <span>के तहत टैक्स में छूट </span></p>"
+            },
+            {
+                "resource_icon": "pre-and-post-hospitalisation-expenses-icon.svg",
+                "label": "<p> प्रि और पोस्ट हॉस्पिटलाइजेशन<span>खर्च </span></p>"
+            },
+            {
+                "resource_icon": "nursing-expenses-icon.svg",
+                "label": "<p> नर्सिंग<span>  से जुड़े खर्च</span></p>"
+              
+
+            }
+        ]
+    },
+    {
+        "key": "group-health-insurance",
+        "related_data": [
+            {
+                "resource_icon": "wide-covarage-icon.svg",
+                "label": "<p> विस्तृत<span>कवरेज</span></p>"
+                
+
+            },
+            {
+                "resource_icon": "no-medical-check-up-icon.svg",
+                "label": "<p>कोई मेडिकल चेकअप नहीं <span>65 वर्ष की आयु तक  </span></p>"
+            },
+            {
+                "resource_icon": "coverage-for-entire-family-icon.svg",
+                "label":"<p>पूरे परिवार के लिए <span>कवरेज </span></p>"
+            },
+            {
+                "resource_icon": "exempt-from-icon.svg",
+                "label": "<p>धारा 80D  <span>के तहत टैक्स में छूट </span></p>"
+                 
+            },
+            {
+                "resource_icon": "pre-and-post-hospitalisation-expenses-icon.svg",
+                "label": "<p> प्रि और पोस्ट हॉस्पिटलाइजेशन<span>खर्च </span></p>"
+            },
+            {
+                "resource_icon": "nursing-expenses-icon.svg",
+                "label":  "<p> नर्सिंग<span>  से जुड़े खर्च</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "critical-illness-insurance",
+        "related_data": [
+            {
+                "resource_icon": "critical-illness-icon.svg",
+                "label": "<p>13 क्रिटिकल इलनेस</p>"
+                
+
+            },
+            {
+                "resource_icon": "no-medical-check-up-icon.svg",
+                "label": "<p>कोई मेडिकल चेकअप नहीं 45 वर्ष की आयु तक</p>"
+                
+            },
+            {
+                "resource_icon": "entry-age-icon.svg",
+                "label": "<p>एंट्री आयु 65 वर्ष </p>"
+            },
+            {
+                "resource_icon": "exempt-from-icon.svg",
+                "label": "<p>धारा 80D  <span>के तहत टैक्स में छूट </span></p>"
+            },
+            {
+                "resource_icon": "multiple-plan-options-icon.svg",
+                "label": "<p>एकाधिक प्लान का विकल्प </p>"
+            },
+            {
+                "resource_icon": "free-lock-period-icon.svg",
+                "label": "<p>15 दिनों का फ्री लुक पीरियड </p>"
+            }
+        ]
+    },
+    {
+        "key": "hospital-daily-cash",
+        "related_data": [
+            {
+                "resource_icon": "daily-cash-benefit-icon.svg",
+                "label": "<p> डेली कैश <span>  बेनीफिट </span></p>"
+              
+
+            },
+            {
+                "resource_icon": "no-medical-check-up-icon.svg",
+                "label": "<p>कोई मेडिकल चेकअप नहीं <span>45 वर्ष की आयु तक  </span></p>"
+            },
+            {
+                "resource_icon": "convalescence-expenses-icon.svg",
+                "label": "<p> बीमारी <span> से ठीक होने का खर्च </span></p>"
+               
+            },
+            {
+                "resource_icon": "exempt-from-icon.svg",
+                "label": "<p>धारा 80D  <span>के तहत टैक्स में छूट </span></p>"
+            },
+            {
+                "resource_icon": "multiple-plan-options-icon.svg",
+                "label": "<p>एकाधिक प्लान का   <span>विकल्प</span></p>"
+            },
+            {
+                "resource_icon": "entry-age-icon.svg",
+                "label": "<p>एंट्री आयु <span>65 वर्ष </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "loan-insurance",
+        "related_data": [
+            {
+                "resource_icon": "critical-illness-icon.svg",
+                "label": "<p>क्रिटिकल <span>इलनेस</span></p>"
+                
+                
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>पर्सनल   <span>एक्सीडेंट</span></p>"
+            },
+            {
+                "resource_icon": "loss-of-job.svg",
+                "label": "<p>नौकरी <span>चली जाना </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "group-loan-insurance",
+        "related_data": [
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>पर्सनल   <span>एक्सीडेंट</span></p>"
+            },
+            {
+                "resource_icon": "critical-illness-icon.svg",
+                "label": "<p>क्रिटिकल <span>इलनेस</span></p>"
+            },
+            {
+                "resource_icon": "pre-and-post-hospitalisation-expenses-icon.svg",
+                "label": "<p>एडमिशन  लाभ - <span>एक्सीडेंट हॉस्पिटलाइजेशन</span></p>"
+                 
+
+            }
+        ]
+    },
+    {
+        "key": "arogya-plus-policy",
+        "related_data": [
+            {
+                "resource_icon": "outpatient-treatment-icon.svg",
+                "label": "<p>आउटपेशेंट <span>   इलाज </span></p>"
+              
+
+            },
+            {
+                "resource_icon": "no-medical-check-up-icon.svg",
+                "label":  "<p>कोई मेडिकल चेकअप नहीं <span>55 वर्ष की आयु तक  </span></p>"
+            },
+            {
+                "resource_icon": "pre-and-post-hospitalisation-expenses-icon.svg",
+                "label": "<p>प्रि और पोस्ट हॉस्पिटलाइजेशन<span> कवरेज </span></p>"
+            },
+            {
+                "resource_icon": "exempt-from-icon.svg",
+                "label": "<p>धारा 80D  <span>के तहत टैक्स में छूट </span></p>"
+            },
+            {
+                "resource_icon": "multiple-coverages-icon.svg",
+                "label": "<p>कई सारे <span>कवरेज</span></p>"
+            },
+            {
+                "resource_icon": "coverage-for-entire-family-icon.svg",
+                "label":"<p>पूरे परिवार के लिए <span>कवरेज </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "arogya-topup-policy",
+        "related_data": [
+            {
+                "resource_icon": "wide-covarage-icon.svg",
+                "label":"<p> विस्तृत<span>कवरेज</span></p>"
+            },
+            {
+                "resource_icon": "no-medical-check-up-icon.svg",
+                "label":  "<p>कोई मेडिकल चेकअप नहीं <span>55 वर्ष की आयु तक  </span></p>"
+               
+            },
+            {
+                "resource_icon": "pre-and-post-hospitalisation-expenses-icon.svg",
+                "label": "<p>प्रि और पोस्ट हॉस्पिटलाइजेशन<span> कवरेज </span></p>"
+                
+            },
+            {
+                "resource_icon": "exempt-from-icon.svg",
+                "label": "<p>धारा 80D  <span>के तहत टैक्स में छूट </span></p>"
+            },
+            {
+                "resource_icon": "multiple-coverages-icon.svg",
+                "label": "<p>कई सारे <span>कवरेज</span></p>"
+            },
+            {
+                "resource_icon": "nursing-expenses-icon.svg",
+                "label": "<p>नर्सिंग  <span>से जुड़े खर्च</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "arogya-sanjeevani-policy",
+        "related_data": [
+            {
+                "resource_icon": "no-medical-cost-icon.svg",
+                "label": "<p>कोई मेडिकल चेकअप नहीं  <span> 55 वर्ष की आयु तक </span></p>"
+            },
+            {
+                "resource_icon": "pre-and-post-hospitalisation-expenses-icon.svg",
+                "label": "<p> प्रि और पोस्ट हॉस्पिटलाइजेशन कवरेज </p>"
+               
+
+            },
+            {
+                "resource_icon": "exempt-from-icon.svg",
+                "label": "<p>धारा 80D  <span>के तहत टैक्स में छूट </span></p>"
+            },
+            {
+                "resource_icon": "coverage-for-entire-family-icon.svg",
+                "label": "<p>पूरे परिवार के लिए कवरेज </p>"
+            },
+            {
+                "resource_icon": "nursing-expenses-icon.svg",
+                "label": "<p> नर्सिंग और आईसीयू से जुड़े खर्च </p>"
+                
+            },
+            {
+                "resource_icon": "ayush-coverage-icon.svg",
+                "label": "<p>आयुष कवरेज </p>"
+            }
+        ]
+    },
+    {
+        "key": "travel-insurance",
+        "related_data": [
+            {
+                "resource_icon": "comprehensive-protection-icon.svg",
+                "label": "<p> व्यापक <span>कवरेज</span></p>"
+                
+
+            },
+            {
+                "resource_icon": "worldwide-protection-icon.svg",
+                "label": "<p>पूरे विश्व में  <span>सुरक्षा</span></p>"
+            },
+            {
+                "resource_icon": "round-assistance-icon.svg",
+                "label": "<p>चौबीस घंटे<span>सहायता </span></p>"
+            
+
+            },
+            {
+                "resource_icon": "easy-claims-settlement-icon.svg",
+                "label": "<p>आसानी से क्लेम का  <span>सेटलमेंट </span></p>"
+            },
+            {
+                "resource_icon": "single-multi-trip-icon.svg",
+                "label": "<p>सिंगल/मल्टी-ट्रिप</p>"
+                
+
+            },
+            {
+                "resource_icon": "travel-support-icon.svg",
+                "label": "<p>ट्रैवल सपोर्ट </p>"
+            }
+        ]
+    },
+    {
+        "key": "money-insurance",
+        "related_data": [
+            {
+                "resource_icon": "money-cover-icon.svg",
+                "label": "<p>मनी के लिए कवर <span> में ट्रांज़िट </span></p>"
+                
+
+            },
+            {
+                "resource_icon": "cover-for-money-in-safe-icon.svg",
+                "label": "<p>मनी के लिए कवर <span> में  सुरक्षित</span></p>"
+               
+            },
+            {
+                "resource_icon": "premises-and-products-icon.svg",
+                "label": "<p>मनी के लिए कवर <span> में  घर</span></p>"
+                
+            },
+            {
+                "resource_icon": "theft-cover-icon.svg",
+                "label": "<p> के लिए कवर चोट <span> दौरान चोरी</span></p>"
+               
+            },
+            {
+                "resource_icon": "bank-holiday-increase-icon.svg",
+                "label": "<p>SI में बैंक <span>  अवकाश वृद्धि </span></p>"
+               
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p> तेज, न्यायोचित और पारदर्शी<span>क्लेम प्रक्रिया  </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "plate-glass-insurance",
+        "related_data": [
+            {
+                "resource_icon": "malicious-damage-icon.svg",
+                "label": "<p>दुर्घटनावश काँच का<span> टूटना </span></p>"
+            },
+            {
+                "resource_icon": "riot-and-strike-icon.svg",
+                "label": "<p>दंगा स्ट्राइक और दुर्भावनापूर्ण <span>  क्षति  कवर </span></p>"
+                 
+              
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p> शीघ्र, उचित एवं पारदर्शी <span>क्लेम प्रक्रिया  </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "burglary-insurance",
+        "related_data": [
+            {
+                "resource_icon": "damage-to-personal-belongings-icon.svg",
+                "label": "<p>पर्सनल  को नुकसान <span>चीजों</span></p>"
+               
+            },
+            {
+                "resource_icon": "damage-to-safe-strong-room-icon.svg",
+                "label": "<p>को नुकसान  <span>सुरक्षित / मजबूत कमरा</span></p>"
+              
+            },
+            {
+                "resource_icon": "theft-cover-icon.svg",
+                "label": "<p>चोरी कवर </p>"
+            },
+            {
+                "resource_icon": "automatic-reinstatement-of-sum-insured-icon.svg",
+                "label": "<p>सम इंश्योर्ड फीचर <span>की ऑटोमैटिक रिइंस्टेटमेंट</span></p>"
+                 
+            },
+            {
+                "resource_icon": "lump-sum-benefit-icon.svg",
+                "label": "<p>  मृत्यु / चोट के लिए <span> एकमुश्त लाभ </span></p>"
+              
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p> तेज, न्यायोचित और पारदर्शी<span>क्लेम प्रक्रिया  </span></p>"
+               
+            }
+        ]
+    },
+    {
+        "key": "commercial-motor-insurance",
+        "related_data": [
+            {
+                "resource_icon": "accidental-damage-icon.svg",
+                "label": "<p>एक्सीडेंट के कारण वाहन को <span>होने वाले नुकसान </span></p>"
+                 
+            },
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p> थर्ड पार्टी  <span>लायबिलिटी</span></p>"
+            },
+            {
+                "resource_icon": "liability-for-paid-driver-icon.svg",
+                "label": "<p>पर्सनल एक्सीडेंट   <span>का मालिक ड्राईवर  </span</p>"
+                
+            },
+            {
+                "resource_icon": "ncb-protection-icon.svg",
+                "label": "<p>क्लेम नहीं करने पर <span>बोनस</span></p>"
+            },
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p>ऐड ऑन: <span>रिटर्न टू इनवॉइस</span></p>"
+            },
+            {
+                "resource_icon": "depreciation-reimbursement-icon.svg",
+                "label": "<p>ऐड ऑन: कीमत में कमी का <span>रिइंब्रस्मेंट </span></p>"
+                
+            }
+        ]
+    },
+    {
+        "key": "tractor-and-other-farm-vehicle-insurance",
+        "related_data": [
+            {
+                "resource_icon": "accidental-damage-icon.svg",
+                "label": "<p>एक्सीडेंट के कारण वाहन को <span>होने वाले नुकसान </span></p>"
+            },
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p> थर्ड पार्टी  <span>लायबिलिटी</span></p>"
+               
+
+            },
+            {
+                "resource_icon": "liability-for-paid-driver-icon.svg",
+                "label": "<p>पर्सनल एक्सीडेंट  का <span>मालिक ड्राईवर</span></p>"
+            },
+            {
+                "resource_icon": "ncb-protection-icon.svg",
+                "label": "<p>क्लेम नहीं करने पर <span>बोनस</span></p>"
+            },
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p>ऐड ऑन: <span>रिटर्न टू इनवॉइस</span></p>"
+            },
+            {
+                "resource_icon": "depreciation-reimbursement-icon.svg",
+                "label": "<p>ऐड ऑन: कीमत में कमी का <span>रिइंब्रस्मेंट </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "group-personal-accident-insurance",
+        "related_data": [
+            {
+                "resource_icon": "accidental-death-icon.svg",
+                "label": "<p>आकस्मिक  <span>मृत्यु</span></p>"
+            },
+            {
+                "resource_icon": "entry-age-icon.svg",
+                "label": "एंट्री आयु <span> 65 वर्ष </span>"
+                
+            }
+        ]
+    },
+    {
+        "key": "group-health-insurance-C",
+        "related_data": [
+            {
+                "resource_icon": "medical-coverage-icon.svg",
+                "label": "<p> मेडिकल <span>खर्च</span></p>"
+                
+            },
+            {
+                "resource_icon": "day-care-expenses-icon.svg",
+                "label": " डे केयर <span>  खर्च</span>"
+              
+            },
+            {
+                "resource_icon": "pre-and-post-hospitalisation-expenses-icon.svg",
+                "label": "<p>प्रि और पोस्ट हॉस्पिटलाइजेशन<span> कवरेज </span></p>"
+            },
+            {
+                "resource_icon": "domiciliary-hospitalisation-icon.svg",
+                "label": "<p>डोमिसिलरी <span> हॉस्पिटलाइजेशन </span></p>"
+                
+            },
+            {
+                "resource_icon": "pre-existing-diseases-icon.svg",
+                "label": "<p> पहले से मौजूद <span>बीमारी </span></p>"
+               
+            },
+            {
+                "resource_icon": "coverage-for-entire-family-icon.svg",
+                "label": "<p> के लिए कवरेज  <span>पूरे परिवार</span></p>"
+                
+            }
+        ]
+    },
+    {
+        "key": "standard-fire-and-special-perils-insurances",
+        "related_data": [
+            {
+                "resource_icon": "named-perils-cover-icon.svg",
+                "label": "<p>नेम्ड पेरिल्स  <span>कवर</span></p>"
+                
+            },
+            {
+                "resource_icon": "declaration-floater-cover-for-stocks-icon.svg",
+                "label": "<p>स्टॉक्स के लिए घोषणा / फ्लोटर / फ्लोटर <span>घोषणा कवर</span></p>"
+                 
+            },
+            {
+                "resource_icon": "earthquake-icon.svg",
+                "label": "<p>भूकंप <span>(आग या कंपन)</span></p>"
+                 
+            },
+            {
+                "resource_icon": "automatic-reinstatement-of-sum-insured-icon.svg",
+                "label": "<p>रिइंस्टेटमेंट/मार्केट वैल्यू <span>के आधार पर कवर</span></p>"
+                 
+            },
+            {
+                "resource_icon": "various-add-on-covers-icon.svg",
+                "label": "<p>विभिन्न ऐड ऑन <span>कवर्स</span></p>"
+                 
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>तेज, न्यायोचित और पारदर्शी  <span>क्लेम प्रक्रिया </span></p>"
+                
+            }
+        ]
+    },
+    {
+        "key": "consequential-loss-fire-insurance",
+        "related_data": [
+            {
+                "resource_icon": "loss-or-damage-icon.svg",
+                "label": "<p>ग्रॉस प्रॉफ़िट के <span> नुकसान के लिए कवर</span></p>"
+                
+            },
+            {
+                "resource_icon": "customers-suppliers-extension-icon.svg",
+                "label": "<p> ग्राहक/सप्लायर <span> विस्तार</span></p>"
+               
+            },
+            {
+                "resource_icon": "cover-for-wages-icon.svg",
+                "label": "<p> मजदूरी<span>के लिए कवर</span></p>"
+                
+            },
+            {
+                "resource_icon": "cover-for-increased-cost-of-working-icon.svg",
+                "label": "<p>काम करने की लागत<span>में वृद्धि के लिए कवर</span></p>"
+              
+            },
+            {
+                "resource_icon": "lay-off-retrenchmen-cover-icon.svg",
+                "label": "<p>ले ऑफ/रिट्रेंचमेन <span> कवर</span></p>"
+                
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>तेज, न्यायोचित और पारदर्शी  <span>क्लेम प्रक्रिया </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "marine-cargo-insurance",
+        "related_data": [
+            {
+                "resource_icon": "impact-damage-icon.svg",
+                "label": "<p>प्रभावशील <span>क्षति</span></p>"
+                 
+            },
+            {
+                "resource_icon": "arcraft-damage-icon.svg",
+                "label": "<p>विमान को  <span>नुकसान</span></p>"
+                
+            },
+            {
+                "resource_icon": "earthquake-icon.svg",
+                "label":  "<p>भूकंप <span>(आग या कंपन)</span></p>"
+            },
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p>फ्लेक्सिबल  <span>प्लान</span></p>"
+                 
+            },
+            {
+                "resource_icon": "malicious-damage-icon.svg",
+                "label": "<p>दुर्भावनापूर्ण <span>क्षति</span></p>"
+            },
+            {
+                "resource_icon": "storm-cyclone-icon.svg",
+                "label": "<p>आँधी, साइक्लोन, <span>टाईफून</span></p>"
+            
+            }
+        ]
+    },
+    {
+        "key": "industrial-all-risks-insurance",
+        "related_data": [
+            {
+                "resource_icon": "all-risk-cover-icon.svg",
+                "label": "<p>ऑल रिस्क  <span>(उल्लेखित बहिष्करण) कवर</span></p>"
+                
+            },
+            {
+                "resource_icon": "material-icon.svg",
+                "label": "<p>दो खंड - सामग्रियों की क्षति  <span>और बिजनेस में रुकावट </span></p>"
+             
+            },
+            {
+                "resource_icon": "riv-basis-of-valuation-icon.svg",
+                "label": "<p>मूल्यांकन (स्टॉक के अलावा)<span>का RIV आधार </span></p>"
+                 
+            },
+            {
+                "resource_icon": "machinery-breakdown-icon.svg",
+                "label": "<p> मशीनरी टूटने के लिए<span> इनबिल्ट कवर</span></p>"
+               
+            },
+            {
+                "resource_icon": "all-risk-cover-icon.svg",
+                "label": "<p>परिसर के भीतर<span> ट्रांज़िट जोखिम के लिए कवर</span></p>"
+                
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>तेज, न्यायोचित और पारदर्शी  <span>क्लेम प्रक्रिया </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "business-package-insurance",
+        "related_data": [
+            {
+                "resource_icon": "package-cover-for-12-sections-icon.svg",
+                "label": "<p>यह पैकेज 12 सेक्शन <span> के लिए कवर प्रदान करता है</span></p>"
+                
+            },
+            {
+                "resource_icon": "fire-icon.svg",
+                "label": "<p>आग अनिवार्य और  <span>अन्य वैकल्पिक सेक्शन </span></p>"
+                
+            },
+            {
+                "resource_icon": "long-term-policy-icon.svg",
+                "label": "<p> कवर किए गए सभी सेक्शन <span>के लिए एक पॉलिसी दस्तावेज</span></p>"
+                
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>तेज, न्यायोचित और पारदर्शी  <span>क्लेम प्रक्रिया </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "latent-defects-insurance-policy",
+        "related_data": [
+            {
+                "resource_icon": "first-party-policy-icon.svg",
+                "label": "<p>फ़र्स्ट पार्टी <span>पॉलिसी</span></p>"
+            },
+            {
+                "resource_icon": "assignable-policy-icon.svg",
+                "label": "<p>असाइनेबल पॉलिसी</p>"
+            },
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p>तकनीकी निरीक्षण <span> किया गया </span></p>"
+               
+            },
+            {
+                "resource_icon": "add-on-covers-icon.svg",
+                "label": "<p>ऐड-ऑन ऑफर</span></p>"
+            },
+            {
+                "resource_icon": "policy-tenure-icon.svg",
+                "label": "<p>पॉलिसी का 5 साल <span>का कार्यकाल </span></p>"
+
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>तेज, न्यायोचित और पारदर्शी  <span>क्लेम प्रक्रिया </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "electronic-equipment-insurance",
+        "related_data": [
+            {
+                "resource_icon": "coverage-of-electronic-equipment-icon.svg",
+                "label": "<p>इलेक्ट्रॉनिक उपकरण <span> का कवरेज</span></p>"
+                
+            },
+            {
+                "resource_icon": "software-cover-icon.svg",
+                "label": "<p>संबंधित सिस्टम सॉफ्टवेयर <span> का कवरेज</span></p>"
+               
+            },
+            {
+                "resource_icon": "cover-for-increased-cost-of-working-icon.svg",
+                "label": "<p>काम करने की लागत <span> में वृद्धि के लिए कवर</span></p>"
+                
+            },
+            {
+                "resource_icon": "multiple-coverages-icon.svg",
+                "label": "<p>उपकरण को कवरेज के लिए<span> चुना जा सकता है</span></p>"
+                
+            },
+            {
+                "resource_icon": "loss-or-damage-icon.svg",
+                "label": "<p> उपकरण के कारण होने वाली <span> शारीरिक हानि या क्षति को कवर करता है </span></p>"
+               
+            },
+            {
+                "resource_icon": "data-breach-icon.svg",
+                "label": "<p>डाटा मीडिया <span> को कवरेज</span></p>"
+                
+            }
+        ]
+    },
+    {
+        "key": "contractors-all-risk-insurance",
+        "related_data": [
+            {
+                "resource_icon": "comprehensive-protection-icon.svg",
+                "label": "<p>कम्प्रेहैन्सिव <span>इंश्योरेंस कवर </span></p>"
+                 
+            },
+            {
+                "resource_icon": "covers-civil-engineering-projects-icon.svg",
+                "label": "<p>कवर सिविल<span>इंजीनियरिंग प्रोजेक्ट्स</span></p>"
+               
+            },
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p> थर्ड पार्टी  <span>लायबिलिटी कवर</span></p>"
+            },
+            {
+                "resource_icon": "various-add-on-covers-icon.svg",
+                "label": "<p>ऑफर किए जाने वाले <span>विभिन्न ऐड-ऑन </span></p>"
+                 
+            },
+            {
+                "resource_icon": "maintenance-cover-icon.svg",
+                "label": "<p>मेंटेनेंस  <span>कवर</span></p>"
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>तेज, न्यायोचित और पारदर्शी  <span>क्लेम प्रक्रिया </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "erection-all-risks-insurance",
+        "related_data": [
+            {
+                "resource_icon": "comprehensive-protection-icon.svg",
+                "label":  "<p>कम्प्रेहैन्सिव <span>इंश्योरेंस कवर </span></p>"
+            },
+            {
+                "resource_icon": "covers-civil-engineering-projects-icon.svg",
+                "label": "<p>मशीनरी  प्रतिष्ठापन के कार्यों को कवर प्रदान करता है </p>"
+                 
+            },
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p> थर्ड पार्टी  <span>लायबिलिटी कवर</span></p>"
+            },
+            {
+                "resource_icon": "various-add-on-covers-icon.svg",
+                "label": "<p> ऑफर किए जाने वाले <span> विभिन्न ऐड-ऑन </span></p>"               
+            },
+            {
+                "resource_icon": "maintenance-cover-icon.svg",
+                "label": "<p>मेंटेनेंस  <span>कवर</span></p>"
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>तेज, न्यायोचित और पारदर्शी  <span>क्लेम प्रक्रिया </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "contractors-plant-machinery",
+        "related_data": [
+            {
+                "resource_icon": "comprehensive-protection-icon.svg",
+                "label":  "<p>कम्प्रेहैन्सिव <span>इंश्योरेंस कवर </span></p>"
+            },
+            {
+                "resource_icon": "unforeseen-loss-or-damage-icon.svg",
+                "label": "<p>इंश्योर्ड उपकरणों को होने वाले अनचाहे <span> नुकसान या क्षति को कवर प्रदान करता है </span></p>"
+                
+            },
+            {
+                "resource_icon": "policy-obtained-by-principal-contractor-sub-contractor-icon.svg",
+                "label": "<p> माइल/ठेकेदार/उप-ठेकेदार <span> द्वारा प्राप्त पॉलिसी</span></p>"
+               
+            },
+            {
+                "resource_icon": "multiple-plan-options-icon.svg",
+                "label": "<p>ट्रेलर के लिए <span> विभिन्न कवर</span></p>"
+                
+            },
+            {
+                "resource_icon": "multiple-location-cover-icon.svg",
+                "label": "<p>एकाधिक <span> स्थान कवर</span></p>"
+                
+            }
+        ]
+    },
+    {
+        "key": "machinery-breakdown-insurance",
+        "related_data": [
+            {
+                "resource_icon": "comprehensive-protection-icon.svg",
+                "label":  "<p>कम्प्रेहैन्सिव <span>इंश्योरेंस कवर </span></p>"
+            },
+            {
+                "resource_icon": "machinery-breakdown-icon.svg",
+                "label": "<p> इस्तेमाल करते समय/इस्तेमाल  <span> नहीं करते समय मशीनरी का टूटना</span></p>"
+              
+            },
+            {
+                "resource_icon": "selection-of-machinery-icon.svg",
+                "label": "<p>मशीनरी के <span>चयन की अनुमति</span></p>"
+                
+            },
+            {
+                "resource_icon": "multiple-plan-options-icon.svg",
+                "label": "<p>उपकरण को कवरेज  <span> के लिए चुना जा सकता है</span></p>"
+            },
+            {
+                "resource_icon": "multiple-location-cover-icon.svg",
+                "label": "<p>स्थान के आधार पर <span> कवर </span></p>"
+                
+            },
+            {
+                "resource_icon": "various-add-on-covers-icon.svg",
+                "label": "<p>विभिन्न ऐड-ऑन  <span>ऑफर किए जाने वाले </span></p>"
+                
+            }
+        ]
+    },
+    {
+        "key": "boiler-pressure-plant-insurance",
+        "related_data": [
+            {
+                "resource_icon": "protection-offered-to-boilers-other-pressure-plants-icon.svg",
+                "label": "<p> बॉयलर और अन्य प्रेशर प्लांट्स को <span>ऑफर की जाने वाली सुरक्षा </span></p>"
+                
+            },
+            {
+                "resource_icon": "property-damage-icon.svg",
+                "label": "<p>मालिक की <span>आसपास की संपत्ति</span></p>"
+                
+            },
+            {
+                "resource_icon": "accidental-death-icon.svg",
+                "label": "<p>एक्सीडेंटल डेथ या चोट  <span>  के प्रति कवर</span></p>"
+              
+            },
+            {
+                "resource_icon": "loss-or-damage-icon.svg",
+                "label": "<p>इंश्योर्ड वस्तुओं के नुकसान या क्षति के कारण <span>होने वाले विशिष्ट खर्च</span></p>"
+                 
+            },
+            {
+                "resource_icon": "various-add-on-covers-icon.svg",
+                "label":  "<p> ऑफर किए जाने वाले <span> विभिन्न ऐड-ऑन </span></p>"
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>तेज, न्यायोचित और पारदर्शी  <span>क्लेम प्रक्रिया </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "consequential-loss-machinery-breakdown",
+        "related_data": [
+            {
+                "resource_icon": "business-damage-icon.svg",
+                "label": "<p>बिजनेस में आने वाली रुकावट होने वाले <span>नुकसान के लिए किए जाने वाले कवर </span></p>"
+                 
+            },
+            {
+                "resource_icon": "standing-charges-paid-icon.svg",
+                "label": "<p> स्थायी शुल्क <span> का भुगतान </span></p>"
+               
+            },
+            {
+                "resource_icon": "loss-of-net-profit-icon.svg",
+                "label": "<p> नेट प्रॉफ़िट में होने<span> अच्छा-खासा नुकसान</span></p>"
+               
+            },
+            {
+                "resource_icon": "customers-suppliers-extension-icon.svg",
+                "label": "<p>सप्लायर <span>विस्तार</span></p>"
+            },
+            {
+                "resource_icon": "customers-suppliers-extension-icon.svg",
+                "label": "<p>ग्राहक  <span>विस्तार</span></p>"
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>तेज, न्यायोचित और पारदर्शी  <span>क्लेम प्रक्रिया </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "directors-and-officers",
+        "related_data": [
+            {
+                "resource_icon": "legal-expenses-icon.svg",
+                "label": "<p>कानूनी <span>खर्च </span></p>"
+            },
+            {
+                "resource_icon": "past-present-and-future-directors-icon.svg",
+                "label": "<p>अतीत, वर्तमान और भविष्य के<span>डाइरेक्टर्स </span></p>"
+                 
+            },
+            {
+                "resource_icon": "worldwide-protection-icon.svg",
+                "label": "<p>पूरे विश्व में  <span>कवर</span></p>"
+            },
+            {
+                "resource_icon": "entity-coverage-icon.svg",
+                "label": "<p>एंटीटी  <span>कवरेज</span></p>"
+            },
+            {
+                "resource_icon": "director-crisis-communication-icon.svg",
+                "label": "<p>क्राइसिस  <span>कम्यूनिकेशन</span></p>"
+                 
+            },
+            {
+                "resource_icon": "outside-directorship-coverage-icon.svg",
+                "label": "<p>आउटसाइड  <span>डिरेक्टरशिप  कवरेज</span></p>"
+                
+            }
+        ]
+    },
+    {
+        "key": "motor-commercial-trailer",
+        "related_data": [
+            {
+                "resource_icon": "accidental-damage-icon.svg",
+                "label":"<p>एक्सीडेंट के कारण  <span> वाहन</span> को होने वाले नुकसान"
+            },
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p> थर्ड पार्टी  <span>लायबिलिटी</span></p>"
+            },
+            {
+                "resource_icon": "multiple-plan-options-icon.svg",
+                "label": "<pट्रेलर के लिए  <span>विभिन्न कवर</span></p>"
+            },
+            {
+                "resource_icon": "ncb-protection-icon.svg",
+                "label": "<p>क्लेम नहीं करने पर <span>बोनस</span></p>"
+            },
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p>ऐड ऑन:  रिटर्न करें<span>इन्वाइस</span></p>"
+               
+
+            },
+            {
+                "resource_icon": "depreciation-reimbursement-icon.svg",
+                "label": "<p>ऐड ऑन:कीमत में कमी का<span> रिइंब्रस्मेंट </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "errors-and-omissions",
+        "related_data": [
+            {
+                "resource_icon": "legal-liability-icon.svg",
+                "label":"<p>लीगल लायबिलिटी </p>"
+                
+            },
+            {
+                "resource_icon": "cover-for-joint-ventures-icon.svg",
+                "label": "<p>जाइंट वेंचर के लिए <span>कवर </span></p>"
+                 
+            },
+            {
+                "resource_icon": "subsidiary-cover-icon.svg",
+                "label": "<p> सहायक कंपनियाँ और प्रबंधित संस्थानों  <span>के लिए कवर  </span></p>"
+               
+            },
+            {
+                "resource_icon": "ncb-protection-icon.svg",
+                "label": "<p>IPR उल्लंघन</p>"
+            },
+            {
+                "resource_icon": "legal-liability-icon.svg",
+                "label": "<p>कोर्ट में हाजिरी  <span>का खर्च</span></p>"
+            },
+            {
+                "resource_icon": "data-breach-icon.svg",
+                "label": "<p>कांट्रैक्ट का उल्लंघन, गोपनीयता <span>  का उल्लंघन </span></p>"
+               
+            }
+        ]
+    },
+    {
+        "key": "pradhan-mantri-fasal-bima-yojna",
+        "related_data": [
+            {
+                "resource_icon": "fire-icon.svg",
+                "label": "<p> आग </p>"
+            },
+        
+            {
+                "resource_icon": "floods-icon.svg",
+                "label": "<p> बाढ़</p>"
+            },
+            {
+                "resource_icon": "earthquake-icon.svg",
+                "label": "<p>भूकंप</p>"
+            },
+            {
+                "resource_icon": "drought-icon.svg",
+                "label": "<p> अकाल</p>"
+            },
+            {
+                "resource_icon": "storm-cyclone-icon.svg",
+                "label":"<p>आँधी, साइक्लोन, <span>टाईफून</span></p>"
+            },
+            {
+                "resource_icon": "landslides-icon.svg",
+                "label": "<p> भूस्खलन</p>"
+            }
+        ]
+    },
+    {
+        "key": "sign-board",
+        "related_data": [
+            {
+                "resource_icon": "hoardings-glow-neon-signs-icon.svg",
+                "label": "<p>होर्डिंग्स को कवर और <span>ग्लो/नियन साइन</span></p>"
+              
+                
+
+            },
+            {
+                "resource_icon": "material-icon.svg",
+                "label": "<p> <span>समग्री खराब </span> होने पर कवर </p>"
+               
+            },
+            {
+                "resource_icon": "declaration-floater-cover-for-stocks-icon.svg",
+                "label": "<p>फ्लोटर ऑप्शन </p>"
+            },
+            {
+                "resource_icon": "market-value-basis-of-si-icon.svg",
+                "label": "<p> बाजार मूल्य <span>SI के आधार पर</span></p>"
+               
+
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>तेज, न्यायोचित और पारदर्शी  <span>क्लेम प्रक्रिया </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "national-agriculture-insurance",
+        "related_data": [
+            {
+                "resource_icon": "fire-icon.svg",
+                "label": "<p> आग </p>"
+            },
+            {
+                "resource_icon": "floods-icon.svg",
+                "label": "<p> बाढ़</p>"
+            },
+            {
+                "resource_icon": "earthquake-icon.svg",
+                "label": "<p>भूकंप</p>"
+            },
+            {
+                "resource_icon": "drought-icon.svg",
+                "label": "<p> अकाल</p>"
+            },
+            {
+                "resource_icon": "storm-cyclone-icon.svg",
+                "label":"<p>आँधी, साइक्लोन, <span>टाईफून</span></p>"
+            },
+            {
+                "resource_icon": "landslides-icon.svg",
+                "label": "<p> भूस्खलन</p>"
+            }
+        ]
+    },
+    {
+        "key": "motor-act-only",
+        "related_data": [
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p> थर्ड पार्टी  <span>लायबिलिटी</span></p>"
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>पर्सनल <span>मालिक  का  एक्सीडेंट </span></p>"
+                
+            },
+            {
+                "resource_icon": "bi-fule-icon.svg",
+                "label": "<p>  बाई-फ्यूएल <span>किट</span></p>"
+            },
+            {
+                "resource_icon": "natural-calamities-icon.svg",
+                "label": "<p>प्राकृतिक   <span>आपदाएँ</span></p>"
+            },
+            {
+                "resource_icon": "liability-for-paid-driver-icon.svg",
+                "label": "<p>पैसे पर रखे गए<span>ड्राईवर के लिए लायबिलिटी </span></p>"
+                 
+            },
+            {
+                "resource_icon": "no-annual-renewal-icon.svg",
+                "label": "<p>पैसे पर रखे गए ड्राईवर <span>के लिए PA</span></p>"
+                 
+            }
+        ]
+    },
+    {
+        "key": "event-cancellation",
+        "related_data": [
+            {
+                "resource_icon": "cancellation-icon.svg",
+                "label": "<p>कैन्सलेशन</p>"
+            },
+            {
+                "resource_icon": "abandonment-icon.svg",
+                "label": "<p>परित्याग</p>"
+            },
+            {
+                "resource_icon": "postponement-icon.svg",
+                "label": "<p>स्थगन (पोस्टपोनमेंट )</p>"
+            },
+            {
+                "resource_icon": "interruption-icon.svg",
+                "label": "<p>रुकावट</p>"
+            },
+            {
+                "resource_icon": "relocation-icon.svg",
+                "label": "<p>रिलोकेशन </p>"
+            },
+            {
+                "resource_icon": "legal-liability-icon.svg",
+                "label":"<p>लीगल लायबिलिटी </p>"
+            }
+        ]
+    },
+    {
+        "key": "event-cancellation",
+        "related_data": [
+            {
+                "resource_icon": "risk-management-icon.svg",
+                "label": "<p>कमर्शियल जोखिम</p>"
+            },
+            {
+                "resource_icon": "risk-management-icon.svg",
+                "label": "<p>राजनीतिक जोखिम</p>"
+            }
+        ]
+    },
+    {
+        "key": "aviation-hull-package",
+        "related_data": [
+            {
+                "resource_icon": "loss-or-damage-icon.svg",
+                "label": "<p> नुकसान या क्षति</p>"
+                
+            },
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p> थर्ड पार्टी  <span>लायबिलिटी</span></p>"
+            },
+            {
+                "resource_icon": "legal-liability-icon.svg",
+                "label": "<p>कानूनी <span>लायबिलिटी</span></p>"
+            },
+            {
+                "resource_icon": "hijacking-icon.svg",
+                "label": "<p>हाई-जैकिंग</p>"
+                
+
+            },
+            {
+                "resource_icon": "premises-and-products-icon.svg",
+                "label": "<p>  परिसर और  <span>प्रॉडक्ट्स</span></p>"
+              
+
+            },
+            {
+                "resource_icon": "permanent-total-disability-icon.svg",
+                "label": "<p> स्थायी रूप से/कुल <span>विकलांगता</span></p>"
+               
+
+            }
+        ]
+    },
+    {
+        "key": "sme-package",
+        
+        "related_data": [
+            {
+                "resource_icon": "package-cover-for-12-sections-icon.svg",
+                "label": "<p> पैकेज कवर <span>(2 सेक्शन)</span></p>"
+               
+
+            },
+            {
+                "resource_icon": "fire-and-burglary-cover-icon.svg",
+                "label": "<p>आगजनी और लुटपाट <span>कवर</span></p>"
+                
+
+            },
+            {
+                "resource_icon": "market-value-basis-of-si-icon.svg",
+                "label": "<p> RIV और MV <span>SI के आधार पर</span></p>"
+               
+
+            },
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p> सिंगल पॉलिसी दस्तावेज़  <span>दोनों सेक्शन के लिए </span></p>"
+               
+
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>तेज, न्यायोचित और पारदर्शी  <span>क्लेम प्रक्रिया </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "broadform-liability",
+        "related_data": [
+            {
+                "resource_icon": "occurrence-trigger-icon.svg",
+                "label": "<p>घटना ट्रिगर</p>"
+            },
+            {
+                "resource_icon": "legal-expenses-icon.svg",
+                "label": "<p> लीगल खर्च - <span>होने वाले एडिशनल खर्च</span></p>"
+             
+            },
+            {
+                "resource_icon": "recall-expenses.svg",
+                "label": "<p>वापस करने और <span> विस्तार करने का खर्च </span></p>"
+                
+            },
+            {
+                "resource_icon": "product-hazard-icon.svg",
+                "label": "<p>प्रॉडक्ट E&O  <span>विस्तार</span></p>"
+            },
+            {
+                "resource_icon": "broader-named-insured-icon.svg",
+                "label": "<p>  बार्डर  <span>नामांकित इंश्योर्ड </span></p>"
+              
+
+            },
+            {
+                "resource_icon": "terrorism-icon.svg",
+                "label": "<p>आतंकवाद <span>लायबिलिटी विस्तार </span></p>"
+                
+
+            }
+        ]
+    },
+    {
+        "key": "product-liability",
+        "related_data": [
+            {
+                "resource_icon": "legal-liability-icon.svg",
+                "label": "<p> कानूनी <span>लायबिलिटी</span></p>"
+            },
+            {
+                "resource_icon": "property-damage-icon.svg",
+                "label": "<p>थर्ड पार्टी को लगने वाली शारीरिक<span> चोट/संपत्ति को होने वाले नुकसान  </span></p>"
+                
+
+            },
+            {
+                "resource_icon": "compensation-award-defence-costs-icon.svg",
+                "label": "<p> मुआवजा/पुरस्कार <span>डिफेंस कवर</span></p>"
+               
+
+            },
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p> वेंडर<span>कवर</span></p>"
+                
+
+            },
+            {
+                "resource_icon": "machinery-icon.svg",
+                "label": "<p>टेक्निकल <span>सहकर्ता विस्तार </span></p>"
+                
+
+            },
+            {
+                "resource_icon": "worldwide-protection-icon.svg",
+                "label": "<p> पूरे विश्व में  <span>कवर का विकल्प</span></p>"
+               
+
+            }
+        ]
+    },
+    {
+        "key": "cellular-network",
+        "related_data": [
+            {
+                "resource_icon": "material-icon.svg",
+                "label": "<p>सामाग्री <span>डैमेज</span></p>"
+                
+
+            },
+            {
+                "resource_icon": "software-cover-icon.svg",
+                "label": "<p> सॉफ्टवेयर <span>कवर</span></p>"
+            },
+            {
+                "resource_icon": "business-damage-icon.svg",
+                "label": "<p>बिजनेस में   <span>रुकावट</span></p>"
+            },
+            {
+                "resource_icon": "loss-or-damage-icon.svg",
+                "label": "<p>आय में हानि</p>"
+            },
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p> थर्ड पार्टी  <span>लायबिलिटी</span></p>"
+            },
+            {
+                "resource_icon": "marine-cargo-icon.svg",
+                "label": "<p>मरीन  <span>कार्गो</span></p>"
+                 
+
+            }
+        ]
+    },
+    {
+        "key": "advance-lossof-profit",
+        "related_data": [
+            {
+                "resource_icon": "all-risk-cover-icon.svg",
+                "label": "<p>EAR / CAR के<span>संयोजन में दिया गया है</span></p>"
+                 
+
+            },
+            {
+                "resource_icon": "loss-of-net-profit-icon.svg",
+                "label": "<p>  ग्रॉस का नुकसान <span>लाभ </span></p>"
+              
+                
+            },
+            {
+                "resource_icon": "cover-for-increased-cost-of-working-icon.svg",
+                "label": "<p>काम करने की  <span> लागत में वृद्धि</span></p>"
+               
+            },
+            {
+                "resource_icon": "annual-gross-profit-icon.svg",
+                "label": "<p>एनुयल ग्रॉस <span>लाभ </span></p>"
+                
+
+            },
+            {
+                "resource_icon": "time-excess-icon.svg",
+                "label": "<p>टाइम एक्सेस</p>"
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>तेज, न्यायोचित और पारदर्शी  <span>क्लेम प्रक्रिया </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "clinical-trial-professional-liability",
+        "related_data": [
+            {
+                "resource_icon": "material-icon.svg",
+                "label": "<p>सामाग्री <span>के लिए क्षति कवर</span></p>"
+              
+ 
+            },
+            {
+                "resource_icon": "damage-to-personal-belongings-icon.svg",
+                "label": "<p>पर्सनल <span>के लिए क्षति कवर</span></p>"
+            },
+            {
+                "resource_icon": "compensation-award-defence-costs-icon.svg",
+                "label": "<p>कंपनसेशन</p>"
+            },
+            {
+                "resource_icon": "evaluations-and-reports-icon.svg",
+                "label": "<p>मूल्यांकन और <span>रिपोर्ट्स खर्च</span></p>"
+                
+ 
+            },
+            {
+                "resource_icon": "default-interest-icon.svg",
+                "label": "<p> डिफ़ॉल्ट<span>ब्याज</span></p>"
+                 
+
+            },
+            {
+                "resource_icon": "legal-liability-icon.svg",
+                "label": "<p> कानूनी  <span>लायबिलिटी</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "cyber-defense-insurance",
+        "related_data": [
+            {
+                "resource_icon": "worldwide-protection-icon.svg",
+                "label": "<p>पूरे विश्व में  <span>कवर</span></p>"
+            },
+            {
+                "resource_icon": "privacy-protection-icon.svg",
+                "label": "<p>प्राइवेसी <span>सुरक्षा</span></p>"
+                 
+ 
+            },
+            {
+                "resource_icon": "brand-personal-reputation-cover-icon.svg",
+                "label": "<p> ब्रांड / पर्सनल<span>रेप्युटेशन कवर</span></p>"
+               
+
+            },
+            {
+                "resource_icon": "multimedia-liability-icon.svg",
+                "label": "<p>मल्टीमीडिया <span>लायबिलिटी</span></p>"
+                
+
+            },
+            {
+                "resource_icon": "round-assistance-icon.svg",
+                "label": "<p>इंसिडेंट मैनेजमेंट <span>क्लेम सर्विसेज - 24X7</span></p>"
+                
+
+            },
+            {
+                "resource_icon": "business-damage-icon.svg",
+                "label": "<p>बिजनेस  <span>रुकावट</span></p>"
+                
+
+            }
+        ]
+    },
+    {
+        "key": "public-liability",
+        "related_data": [
+            {
+                "resource_icon": "property-damage-icon.svg",
+                "label": "<p> थर्ड पार्टी की शारीरिक <span> चोट/संपत्ति को होने वाले नुकसान का कवर</span></p>"
+               
+
+            },
+            {
+                "resource_icon": "legal-liability-icon.svg",
+                "label": "<p> कानूनी  <span>लायबिलिटी</span></p>"
+            },
+            {
+                "resource_icon": "named-perils-cover-icon.svg",
+                "label": "<p>AOG संकट का<span>कवर</span></p>"
+                 
+
+            },
+            {
+                "resource_icon": "transportation-liability-icon.svg",
+                "label": "<p>परिवहन <span>लायबिलिटी</span></p>"
+                
+
+            },
+            {
+                "resource_icon": "food-and-beverages-liability-icon.svg",
+                "label": "<p> फूड और बेवरेजेज<span>लायबिलिटी</span></p>"
+                
+
+            },
+            {
+                "resource_icon": "lift-elevator-escalator-liability-icon.svg",
+                "label": "<p> लिफ्ट, एलेवेटर, <span>एस्कलेटर लायबिलिटी </span></p>"
+               
+
+            }
+        ]
+    },
+    {
+        "key": "baggage-insurance",
+        "related_data": [
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p>स्वीकृत मूल्य  <span> आधार पर पॉलिसी</span></p>"
+               
+
+            },
+            {
+                "resource_icon": "belongings-icon.svg",
+                "label": "<p>  व्यक्तिगत सामान के साथ <span>नुकसान / क्षति</span></p>"
+              
+
+            },
+            {
+                "resource_icon": "worldwide-protection-icon.svg",
+                "label": "<p>भारत / पूरे विश्व में कवर</p>"
+                
+
+            },
+            {
+                "resource_icon": "fire-icon.svg",
+                "label": "<p>  आग/चोरी/दुर्घटना <span>के लिए कवर</span></p>"
+              
+ 
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>तेज, न्यायोचित और पारदर्शी  <span>क्लेम प्रक्रिया </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "portable-electronic-equipment",
+        "related_data": [
+            {
+                "resource_icon": "all-risk-cover-icon.svg",
+                "label": "<p>ऑल रिस्क <span>पॉलिसी</span></p>"
+
+
+            },
+            {
+                "resource_icon": "coverage-of-electronic-equipment-icon.svg",
+                "label": "<p>इलेक्ट्रॉनिक समग्री <span>क्षति होने पर कवर </span></p>"
+            },
+            {
+                "resource_icon": "software-cover-icon.svg",
+                "label": "<p> सिस्टम सॉफ्टवेर को कवर <span>प्रदान करती है</span></p>"
+               
+ 
+            },
+            {
+                "resource_icon": "physical-loss-icon.svg",
+                "label": "<p>भौतिक क्षति या सम्पत्ति को <span> हुए नुकसान की क्षतिपूर्ति करता है </span></p>"
+            },
+            {
+                "resource_icon": "worldwide-protection-icon.svg",
+                "label": "<p> पूरे विश्व में  <span>कवरेज</span></p>"
+               
+ 
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>तेज, न्यायोचित और पारदर्शी  <span>क्लेम प्रक्रिया </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "mega-risk",
+        "related_data": [
+            {
+                "resource_icon": "property-damage-icon.svg",
+                "label": "<p>संपत्ति  <span>कवर</span></p>"
+            },
+            {
+                "resource_icon": "variable-sum-insured-icon.svg",
+                "label": "<p>एक स्थान पर 2500 करोड़ या इससे <span> अधिक की कुल इंश्योरेंसकृत राशि के लिए इंश्योरेंस  </span></p>"
+            },
+            {
+                "resource_icon": "all-risk-cover-icon.svg",
+                "label": "<p>ऑल रिस्क <span> कवर</span></p>"
+            },
+            {
+                "resource_icon": "various-add-on-covers-icon.svg",
+                "label": "<p>विभिन्न <span>ऐड-ऑन ऑफर</span></p>"
+            },
+            {
+                "resource_icon": "asset-insurance-icon.svg",
+                "label": "<p>री -इंश्योरेंस  <span>से संचालित प्रोडक्ट </span></p>"
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>तेज, न्यायोचित और पारदर्शी  <span>क्लेम प्रक्रिया </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "port-package",
+        "related_data": [
+            {
+                "resource_icon": "comprehensive-protection-icon.svg",
+                "label": "<p> व्यापक <span>कवरेज</span></p>"
+            },
+            {
+                "resource_icon": "commercial-risks-icon.svg",
+                "label": "<p>कमर्शियल <span>जोखिम</span></p>"
+            },
+            {
+                "resource_icon": "environmental-risks-icon.svg",
+                "label": "<p> वातावरण संबंधी  <span>जोखिम</span></p>"
+
+
+               
+            },
+            {
+                "resource_icon": "operational-risks-icon.svg",
+                "label": "<p>आपरेशनल <span>जोखिम</span></p>"
+            },
+            {
+                "resource_icon": "marine-cargo-icon.svg",
+                "label": "<p>डैमेज<span> टू वेसल </span></p>"
+            },
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p>फ्लेक्सिबल <span>कवरेज </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "marine-delay-start",
+        "related_data": [
+            {
+                "resource_icon": "impact-damage-icon.svg",
+                "label": "<p>प्रभावशील <span>क्षति</span></p>"
+            },
+            {
+                "resource_icon": "arcraft-damage-icon.svg",
+                "label": "<p>विमान को  <span>नुकसान</span></p>"
+            },
+            {
+                "resource_icon": "earthquake-icon.svg",
+                "label":  "<p>भूकंप <span>(आग या कंपन)</span></p>"
+            },
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p>फ्लेक्सिबल  <span>प्लान</span></p>"
+            },
+            {
+                "resource_icon": "malicious-damage-icon.svg",
+                "label": "<p>दुर्भावनापूर्ण <span>क्षति</span></p>"
+            },
+            {
+                "resource_icon": "storm-cyclone-icon.svg",
+                "label":"<p>आँधी, साइक्लोन, <span>टाईफून</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "motor-trade-transit-risks",
+        "related_data": [
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p> थर्ड पार्टी  <span>लायबिलिटी</span></p>"
+            },
+            {
+                "resource_icon": "loss-or-damage-icon.svg",
+                "label": "<p> वाहन को <span>नुकसान या क्षति</span> </p>"
+              
+            },
+            {
+                "resource_icon": "earthquake-icon.svg",
+                "label":  "<p>भूकंप <span>(आग या कंपन)</span></p>"
+            },
+            {
+                "resource_icon": "malicious-damage-icon.svg",
+                "label": "<p>दुर्भावनापूर्ण <span>क्षति</span></p>"
+            },
+            {
+                "resource_icon": "storm-cyclone-icon.svg",
+                "label":"<p>आँधी, साइक्लोन, <span>टाईफून</span></p>"
+            },
+            {
+                "resource_icon": "liability-for-paid-driver-icon.svg",
+                "label": " <p> <span>पेड ड्राइवर यानि मेहनताना </spanपाने वाले ड्राइवर के प्रति  कानूनी लायबिलिटी </p>"
+              
+            }
+        ]
+    },
+    {
+        "key": "all-risk-insurance",
+        "related_data": [
+            {
+                "resource_icon": "all-risk-cover-icon.svg",
+                "label": "<p>ऑल रिस्क कवर बहिष्करण के अधीन है</p>"
+            },
+            {
+                "resource_icon": "riv-basis-of-valuation-icon.svg",
+                "label": "<p> क्षतिपूर्ति का <span>RIV / MV आधार</span></p>"
+               
+
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>तेज, न्यायोचित और पारदर्शी  <span>क्लेम प्रक्रिया </span></p>"
+            },
+            {
+                "resource_icon": "worldwide-protection-icon.svg",
+                "label": "<p>कवरेज  <span>पूरे विश्व में कवर</span></p>"
+            },
+            {
+                "resource_icon": "portable-item-cover-icon.svg",
+                "label": "<p>किसी भी प्रकार के पोर्टेबल <span> समान का इंश्योरेंस किया जा सकता है </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "clinical-trial-no-fault",
+        "related_data": [
+            {
+                "resource_icon": "medical-expenses-icon.svg",
+                "label": "<p> मेडिकल <span>खर्च</span></p>"
+            },
+            {
+                "resource_icon": "bodily-injury-icon.svg",
+                "label": "<p> मृत्यु/शारीरिक<span>चोट कवर</span></p>"
+               
+
+            },
+            {
+                "resource_icon": "money-cover-icon.svg",
+                "label": "<p>कंपनसेशन</p>"
+            },
+            {
+                "resource_icon": "legal-costs-icon.svg",
+                "label": "<p> कानूनी  Costs</p>"
+            },
+            {
+                "resource_icon": "ethics-committee-icon.svg",
+                "label": "<p>आचार-विचार समिति के लिए कवर </p>"
+            },
+            {
+                "resource_icon": "no-fault-liability-icon.svg",
+                "label": "<p>नो फ़ाल्ट लायबिलिटी </p>"
+            }
+        ]
+    },
+    {
+        "key": "employees-compensation-ec",
+        "related_data": [
+            {
+                "resource_icon": "medical-expenses-icon.svg",
+                "label": "<p> मेडिकल <span>खर्च</span></p>"
+            },
+            {
+                "resource_icon": "occupational-disease-icon.svg",
+                "label": "<p>ऑक्यूपेशनल <span>बीमारी</span></p>"
+                 
+
+            },
+            {
+                "resource_icon": "contractor-sub-icon.svg",
+                "label": "<p>कांट्रैक्टर्स और सब-कांट्रैक्टर्स समावेश</p>"
+            },
+            {
+                "resource_icon": "legal-liability-icon.svg",
+                "label":"<p>लीगल लायबिलिटी </p>"
+            },
+            {
+                "resource_icon": "benefit-cover-icon.svg",
+                "label": "<p>बेनीफिट कवर <span>प्रति EC एक्ट</span></p>"
+                
+
+            },
+            {
+                "resource_icon": "indemnity-cover-icon.svg",
+                "label": "<p>मूलधन की <span>क्षतिपूर्ति कवर</span></p>"
+                
+
+            }
+        ]
+    },
+    {
+        "key": "motor-trade-road-risks",
+        "related_data": [
+            {
+                "resource_icon": "loss-or-damage-icon.svg",
+                "label": "<p> वाहन को होने वाले <span>नुकसान या क्षति</span></p>"
+                
+            },
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p> थर्ड पार्टी  <span>लायबिलिटी</span></p>"
+            },
+            {
+                "resource_icon": "legal-liability-icon.svg",
+                "label": "<p> कानूनी  <span>लायबिलिटी</span></p>"
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>पर्सनल   <span>एक्सीडेंट</span></p>"
+            },
+            {
+                "resource_icon": "earthquake-icon.svg",
+                "label": "<p>भूकंप</p>"
+            },
+            {
+                "resource_icon": "storm-cyclone-typhoon-icon.svg",
+                "label": "<p>आँधी, साइक्लोन,<span>टाईफून</span></p>"
+                 
+            }
+        ]
+    },
+    {
+        "key": "public-liability-act",
+        "related_data": [
+            {
+                "resource_icon": "transportation-liability-icon.svg",
+                "label": "<p>परिवहन <span>लायबिलिटी</span></p>"
+            },
+            {
+                "resource_icon": "nil-deductible-cover-icon.svg",
+                "label": "<p> निल डेडक्टिबल <span>कवर</span></p>"
+               
+
+            },
+            {
+                "resource_icon": "india-only-cover.svg",
+                "label": "<p>केवल भारत में <span>कवर</span></p>"
+                
+
+            },
+            {
+                "resource_icon": "property-damage-icon.svg",
+                "label": "<p>संपत्ति <span>क्षति</span></p>"
+                
+
+            },
+            {
+                "resource_icon": "bodily-injury-icon.svg",
+                "label": "<p>शारीरिक <span>चोट</span></p>"
+                 
+
+            },
+            {
+                "resource_icon": "no-fault-liability-icon.svg",
+                "label": "<p>बिना किसी गलती की<span>लायबिलिटी</span></p>"
+                
+
+            }
+        ]
+    },
+    {
+        "key": "kidnap-ransom-and-extortion",
+        "related_data": [
+            {
+                "resource_icon": "kidnapping-icon.svg",
+                "label": "<p>किडनैपिंग </p>"
+            },
+            {
+                "resource_icon": "extortion-icon.svg",
+                "label": "<p>जबरन वसूली</p>"
+            },
+            {
+                "resource_icon": "detention-icon.svg",
+                "label": "<p>नजरबंदी</p>"
+            },
+            {
+                "resource_icon": "hijacking-icon.svg",
+                "label": "<p>हाईजैकिंग</p>"
+            },
+            {
+                "resource_icon": "legal-liability-icon.svg",
+                "label": "<p> कानूनी  <span>लायबिलिटी</span></p>"
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>पर्सनल   <span>एक्सीडेंट</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "commercial-general-liability",
+        "related_data": [
+            {
+                "resource_icon": "product-hazard-icon.svg",
+                "label": "<p>प्रॉडक्ट्स और सम्पन्न ऑपरेशन </p>"
+            },
+            {
+                "resource_icon": "premises-hazard-icon.svg",
+                "label": "<p>परिसर/सामान्य लायबिलिटी </p>"
+            },
+            {
+                "resource_icon": "legal-liability-icon.svg",
+                "label": "<p>किरायेदार लीगल <span>लायबिलिटी</span></p>"
+            },
+            {
+                "resource_icon": "medical-expenses-icon.svg",
+                "label": "<p> मेडिकल <span>खर्च</span></p>"
+            },
+            {
+                "resource_icon": "subsidiary-cover-icon.svg",
+                "label": "<p>  सहायक कंपनियाँ<span>कवर</span></p>"
+               
+
+            },
+            {
+                "resource_icon": "transportation-liability-icon.svg",
+                "label": "<p>परिवहन <span>लायबिलिटी</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "motor-trade-internal-risks",
+        "related_data": [
+            {
+                "resource_icon": "loss-or-damage-icon.svg",
+                "label": "<p> नुकसान या <span>डैमेज</span></p>"
+               
+            },
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p> थर्ड पार्टी  <span>लायबिलिटी</span></p>"
+            },
+            {
+                "resource_icon": "legal-liability-icon.svg",
+                "label": "<p> कानूनी  <span>लायबिलिटी</span></p>"
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>पर्सनल   <span>एक्सीडेंट</span></p>"
+            },
+            {
+                "resource_icon": "earthquake-icon.svg",
+                "label": "<p>भूकंप</p>"
+            },
+            {
+                "resource_icon": "storm-cyclone-typhoon-icon.svg",
+                "label":"<p>आँधी, साइक्लोन, <span>टाईफून</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "fidelity-guarantee",
+        "related_data": [
+            {
+                "resource_icon": "fraud-icon.svg",
+                "label": "<p>धोखेबाज़ी</p>"
+            },
+            {
+                "resource_icon": "automatic-reinstatement-icon.svg",
+                "label": "<p>ऑटोमैटिक <span>   रिइंस्टेटमेंट का विकल्प</span></p>"
+              
+            },
+            {
+                "resource_icon": "claim-preparation-cost-audit-fees-icon.svg",
+                "label": "<p> क्लेम करने की तैयारी से <span>जुड़े खर्च और ऑडिट फीस </span></p>"
+                
+            },
+            {
+                "resource_icon": "dishonesty-icon.svg",
+                "label": "<p>बेईमानी</p>"
+            },
+            {
+                "resource_icon": "cost-rectify-icon.svg",
+                "label": "<p>अकाउंटिंग / कंप्यूटर रिकॉर्ड एक्सटेंशन को सुधारने से जुड़े खर्च </p>"
+            },
+            {
+                "resource_icon": "forgery-icon.svg",
+                "label": "<p>क्रेडिट / डेबिट कार्ड एक्सटेंशन के इस्तेमाल में धोखाधड़ी </p>"
+            }
+        ]
+    },
+    {
+        "key": "oil-energy",
+        "related_data": [
+            {
+                "resource_icon": "impact-damage-icon.svg",
+                "label": "<p>प्रभावशील <span>क्षति</span></p>"
+            },
+            {
+                "resource_icon": "arcraft-damage-icon.svg",
+                "label": "<p>विमान को  <span>नुकसान</span></p>"
+            },
+            {
+                "resource_icon": "earthquake-icon.svg",
+                "label":  "<p>भूकंप <span>(आग या कंपन)</span></p>"
+            },
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p>फ्लेक्सिबल  <span>प्लान</span></p>"
+            },
+            {
+                "resource_icon": "malicious-damage-icon.svg",
+                "label": "<p>दुर्भावनापूर्ण <span>क्षति</span></p>"
+            },
+            {
+                "resource_icon": "storm-cyclone-icon.svg",
+                "label": "<p>आँधी, साइक्लोन,  <span>टाईफून</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "agriculture-pumpset-insurance-policy",
+        "related_data": [
+            {
+                "resource_icon": "fire-icon.svg",
+                "label": "<p>आग / बिजली गिरना </p>"
+            },
+            {
+                "resource_icon": "mechanical-breakdown-icon.svg",
+                "label": "<p>मैकेनिकल   <span> ब्रेकडाउन</span></p>"
+            },
+            {
+                "resource_icon": "burglary-icon.svg",
+                "label": "<p>चोरी /लुटपाट</p>"
+            },
+            {
+                "resource_icon": "malicious-damage-ap-icon.svg",
+                "label": "<p>दुर्भावनापूर्ण <span>क्षति</span></p>"
+            },
+            {
+                "resource_icon": "earthquake-icon.svg",
+                "label": "<p>भूकंप</p>"
+            },
+            {
+                "resource_icon": "riot-and-strike-icon.svg",
+                "label": "<p>दंगा/हड़ताल</p>"
+            }
+        ]
+    },
+    {
+        "key": "cattle-insurance-policy",
+        "related_data": [
+            {
+                "resource_icon": "disease.svg",
+                "label": "<p>बीमारी</p>"
+            },
+            {
+                "resource_icon": "accident-icon.svg",
+                "label": "<p>एक्सीडेंट</p>"
+            },
+            {
+                "resource_icon": "fire-icon.svg",
+                "label": "<p> आग </p>"
+            },
+            {
+                "resource_icon": "storm-cyclone-typhoon-icon.svg",
+                "label": "<p>आँधी/साइक्लोन/बाढ़</p>"
+                
+            },
+            {
+                "resource_icon": "surgical-operations-icon.svg",
+                "label": "<p>सर्जिकल <span>ऑपरेशन</span></p>"
+            },
+            {
+                "resource_icon": "famine-icon.svg",
+                "label": "<p>सूखा</p>"
+            }
+        ]
+    },
+    {
+        "key": "micro-insurance-policy",
+        "related_data": [
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>पर्सनल   <span>एक्सीडेंट</span></p>"
+            },
+            {
+                "resource_icon": "hospital-daily-cash-icon.svg",
+                "label": "<p> हॉस्पिटल <span>डेली कैश</span></p>"
+            },
+            {
+                "resource_icon": "asset-insurance-icon.svg",
+                "label": "<p>एसेट <span> इंश्योरेंस </span></p>"
+            },
+            {
+                "resource_icon": "critical-illness-icon.svg",
+                "label": "<p>क्रिटिकल <span>इलनेस</span></p>"
+            },
+            {
+                "resource_icon": "burglary-icon.svg",
+                "label": "<p>बर्गलरी</p>"
+            },
+            {
+                "resource_icon": "housebreaking.svg",
+                "label": "<p>सेंधमारी</p>"
+            }
+        ]
+    },
+    {
+        "key": "sheep-goat-insurance-policy",
+        "related_data": [
+            {
+                "resource_icon": "disease.svg",
+                "label": "<p>रोग</p>"
+            },
+            {
+                "resource_icon": "accident-icon.svg",
+                "label": "<p>दुर्घटना</p>"
+            },
+            {
+                "resource_icon": "fire-icon.svg",
+                "label": "<p> आग </p>"
+            },
+            {
+                "resource_icon": "storm-cyclone-typhoon-icon.svg",
+                "label": "<p>तूफान / चक्रवात / बाढ़</p>"
+                
+
+            },
+            {
+                "resource_icon": "surgical-operations-icon.svg",
+                "label": "<p>सर्जिकल <span>ऑपरेशन</span></p>"
+            },
+            {
+                "resource_icon": "famine-icon.svg",
+                "label": "<p>सूखा</p>"
+            }
+        ]
+    },
+    {
+        "key": "shagun",
+        "related_data": [
+            {
+                "resource_icon": "permanent-total-disability-icon.svg",
+                "label": "<p>स्थायी रूप से पूरी तरह <span> विकलांग होना</span></p>"
+            },
+            {
+                "resource_icon": "benefit-cover-icon.svg",
+                "label": "<p>शिक्षा लाभ </p>"
+            },
+            {
+                "resource_icon": "wide-covarage-icon.svg",
+                "label": "<p>एंबुलेंस कवर </p>"
+            }
+        ]
+    },
+    {
+        "key": "covid-kavach",
+        "related_data": [
+            {
+                "resource_icon": "wide-covarage-icon.svg",
+                "label": "<p> कोविड-19 <span>कवर</span></p>"
+                
+
+            },
+            {
+                "resource_icon": "no-medical-check-up-icon.svg",
+                "label": "<p>कोई मेडिकल चेकअप नहीं </p>"
+            },
+            {
+                "resource_icon": "exempt-from-icon.svg",
+                "label": "<p> धारा 80D  <span>के तहत टैक्स में छूट </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "corona-rakshak",
+        "related_data": [
+            {
+                "resource_icon": "wide-covarage-icon.svg",
+                "label":"<p> कोविड-19 <span>कवर</span></p>"
+            },
+            {
+                "resource_icon": "no-medical-check-up-icon.svg",
+                "label": "<p>कोई मेडिकल चेकअप नहीं </p>"
+            },
+            {
+                "resource_icon": "exempt-from-icon.svg",
+                "label": "<p> धारा 80D  <span>के तहत टैक्स में छूट </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "arogya-sanjeevani-group-policy",
+        "related_data": [
+          {
+            "resource_icon": "no-medical-cost-icon.svg",
+            "label": "<p>पहले किसी तरह की मेडिकल हिस्ट्री नहीं होने वाले लोगों के लिए <span> 45 वर्ष की आयु तक कोई मेडिकल चेक-अप नहीं</span></p>"
+            
+          },
+            {
+                "resource_icon": "pre-and-post-hospitalisation-expenses-icon.svg",
+                "label": "<p> प्रि और पोस्ट हॉस्पिटलाइजेशन कवरेज </p>"
+            },
+            {
+                "resource_icon": "exempt-from-icon.svg",
+                "label": "<p>धारा 80D  <span>के तहत टैक्स में छूट </span></p>"
+            },
+            {
+                "resource_icon": "coverage-for-entire-family-icon.svg",
+                "label": "<p>पूरे परिवार के लिए कवरेज </p>"
+            },
+            {
+                "resource_icon": "nursing-expenses-icon.svg",
+                "label": "<p> नर्सिंग और आईसीयू से जुड़े खर्च </p>"
+            },
+            {
+                "resource_icon": "ayush-coverage-icon.svg",
+                "label": "<p>आयुष कवरेज </p>"
+            }
+        ]
+    },
+    {
+        "key": "vector-borne-disease-cover",
+        "related_data": [
+            {
+                "resource_icon": "wide-covarage-icon.svg",
+                "label": "<p>7 वेक्टर जनित रोगों के लिए कवर  </p>"
+            },
+            {
+                "resource_icon": "daily-cash-benefit-icon.svg",
+                "label": "<p>हॉस्पिटल डेली कैश लाभ (वैकल्पिक)</p>"
+              
+
+            },
+            {
+                "resource_icon": "lump-sum-benefit-icon.svg",
+                "label": "<p>रिकवरी लाभ (वैकल्पिक)</p>"
+            },
+            {
+                "resource_icon": "automatic-reinstatement-icon.svg",
+                "label": "<p> रिइंस्टेटमेंट लाभ (वैकल्पिक)</p>"
+            }
+        ]
+    },
+    {
+        "key": "gramin-samriddhi-bima",
+        "related_data": [
+            {
+                "resource_icon": "fire-icon.svg",
+                "label": "<p>बिल्डिंग,निहित वस्तु और  आग  के कारण<span> कवर की गयी कृषि वस्तुएँ ,सम्बन्धित आपदाएँ </span></p>"
+            },
+            {
+                "resource_icon": "burglary-icon.svg",
+                "label": "<p>बर्गलरी  और थेफ़्ट लगाकर निहित<span> समान और कृषि वस्तुओं की चोरी </span></p>"
+                
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>पर्सनल एक्सीडेंट  <span>कवर</span></p>"
+            },
+            {
+                "resource_icon": "forgery-icon.svg",
+                "label": "<p>पैडल साईकिल कवर </p>"
+            },
+            {
+                "resource_icon": "default-interest-icon.svg",
+                "label": "<p>ट्रैक्टर /पावर टिलर/हार्वेस्टर </p>"
+            }
+        ]
+    }
+]

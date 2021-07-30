@@ -1,0 +1,719 @@
+[{
+    "key": "two-wheeler-insurance",
+    "productName": "Bike Insurance Online",
+    "productStickyName": "Bike Insurance Online",
+    "buttons": [{
+        "name": "Get Quote",
+        "slug": "/M2W/GetQuote"
+      },
+      {
+        "name": "Renew Policy",
+        "slug": "/motorrenewal/display_product?product=M2W"
+      },
+      {
+        "name": "Intimate Claim",
+        "slug": "/claim/claims-intimation"
+      },
+      {
+        "name": "Policy Download",
+        "slug": "/policyprint/motor"
+      }
+    ],
+    "tabData": [{
+        "name": "Key Feature",
+        "icon": "key-feature-icon.svg",
+        "content": "<ul><li>Customised Pricing based on your Profile.</li><li>Avail discount if you are aged between 25 and 55 years</li><li>Enjoy additional discount for insuring your vehicle without a break</li></ul>"
+      },
+      {
+        "name": "Coverage",
+        "icon": "coverage-icon.svg",
+        "content": "<ul><li>This Policy is designed to cover the compulsory Third Party Liability as required by Motor Vehicles Act, together with loss or damage to the Vehicle itself.</li><li>Third party liability: Protects against any legal liability arising out of the use of the vehicle, towards third parties arising on bodily injury to / on death of a person and any damage caused to third party property.</li><li>Loss or damage to the vehicle: covers against any loss or damage caused to the vehicle or its accessories due to the following,</li><li>Fire, explosion, self-ignition, accidental damage by external means</li><li>Any damage in transit by road, rail, inland waterway, lift, elevator or air.</li><li>Lightning, earthquake, flood, typhoon, hurricane, storm, tempest, inundation, cyclone, hailstorm, frost, landslide, rockslide.</li><li>Burglary, theft, riot, strike, malicious act and terrorist activity</li><li>SBI General's Two Wheeler Package Policy provides compulsory personal accident cover of Rs. 15 lakh for individual owners (holding a valid driving license) of the vehicle while driving. This is not applicable for a Company owned vehicle.</li><li>Pillion Rider of the two wheeler can also be covered for Personal Accident for a maximum Capital Sum Insured of Rs. 1 lakh. You may also opt for higher limits in Personal Accident cover.</li></ul>"
+      },
+      {
+        "name": "Bonus",
+        "icon": "bonus-motor-icon.svg",
+        "content": "<ul><li>No Claim Bonus: If you do not make a claim during the Policy period, a No Claim Bonus (NCB) is offered on renewals. This discount can go as high as 50%. (NCB will only be allowed provided the Policy is renewed within 90 days of the expiry date of the previous policy.)</li><li>Transfer of NCB: You can transfer full benefits of No Claim Bonus when you shift your motor insurance policy from another company.</li></ul>"
+      },
+      {
+        "name": "Exclusion",
+        "icon": "exclusions-icon.svg",
+        "content": "<ul><li>Any loss/damage to the vehicle and/or its accessories will be not be covered if caused by the following,</li><li>Normal wear, tear and general ageing of the vehicle</li><li>Depreciation or any consequential loss</li><li>Mechanical/ electrical breakdown</li><li>Vehicle being used otherwise than in accordance with limitations as to use</li><li>Damage to / by a person driving the vehicle without a valid license</li><li>Damage to / by a person driving the vehicle under the influence of drugs or liquor</li><li>Loss / damage due to war, mutiny or nuclear risk</li></ul>"
+      }
+    ]
+  },
+  {
+    "key": "private-car-insurance",
+    "productName": "Car Insurance",
+    "productStickyName": "Car Insurance",
+    "buttons": [{
+        "name": "Get Quote",
+        "slug": "/PMCAR/GetQuote"
+      },
+      {
+        "name": "Renew Policy",
+        "slug": "/motorrenewal/display_product?product=M4W"
+      },
+      {
+        "name": "Intimate Claim",
+        "slug": "/claim/claims-intimation"
+      },
+      {
+        "name": "Policy Download",
+        "slug": "/policyprint/motor"
+      }
+    ],
+    "tabData": [{
+        "name": "Key Features",
+        "icon": "key-feature-icon.svg",
+        "content": "<ul><li>Compulsory Third Party Liability with personal accident</li><li>Multiple covers with additional premiums:<ul><li>NCB</li><li>Key Replacement</li><li>Bi-fuel Kit</li><li>Loss of Belongings</li></ul></li><li>Legal liability for paid driver and employees</li><li>Nil Depreciation</li><li>Return to Invoice</li></ul>"
+      },
+      {
+        "name": "Coverage",
+        "icon": "coverage-icon.svg",
+        "content": "<p>We offer <strong><i>motor insurance</i></strong> cover for private cars in the following cases:</p><ul><li>Compulsory Third Party Liability in case of injury/death of the person, or any damage caused to the property of the third party</li><li>Loss or damage to your car due to:<ul><li>Fire</li><li>Self-ignition</li><li>Accidental damage</li><li>Explosion</li></ul></li><li>Your car is covered against natural disasters like lightning, earthquake, hurricanes, cyclones, landslides, etc.</li><p>Personal accident cover up to Rs 15 lakh for individual owners while driving. Passengers can also get coverage up to Rs 2 lakh per person.</p><p>Coverage for CNG/LPG bi-fuel kit.</p></ul>"
+      },
+      {
+        "name": "Major Exclusion",
+        "icon": "exclusions-icon.svg",
+        "content": "<ul><li>We do not offer coverage for damage, theft or loss due to incidents related to the war, invasion, foreign enemy acts, mutiny, rebellion, etc. Any claims made must be proved to be an act not related to any of these conditions.</li><li>Driving without a valid licence.</li><li>Driving under the influence of drugs and alcohol</li></ul><p><strong>Important Note: The above list of exclusions is illustrative and not exhaustive. For a full list of the exclusions , please refer to policy wordings.</strong></p>"
+      }
+    ]
+  },
+  {
+    "key": "motor-act-only-two-wheeler-insurance",
+    "productName": "Motor Act Only Two Wheeler Insurance (5 Years)",
+    "productStickyName": "",
+    "buttons": [],
+    "tabData": [{
+        "name": "Key Features",
+        "icon": "key-feature-icon.svg",
+        "content": "<ol><li>Covers Third Party Liability only</li><li>Long term policy for 5 years</li><li>No hassle of annual renewals</li><li>No effect of change in Third Party Liability Premium during the policy period</li><li>No effect of change in GST during the policy period</li></ol>"
+      },
+      {
+        "name": "Coverage",
+        "icon": "coverage-icon.svg",
+        "content": "<p>This Policy protects against legal liability arising out of the use of the vehicle, towards third parties arising on bodily injury to / on death of a person and any damage caused to third party property</p><h5>Additional covers at extra cost :</h5><ol><li><strong>Personal accident cover</strong> of Rs. 15 lakhs in case of two-wheelers and private cars for individual owner/s* of the vehicle/s while driving. This benefit is however, not available for a Company owned vehicle. Personal Accident cover: of Rs. 1 lakh per person, in case of two-wheelers and Rs 2 lakhs per person for other class of vehicles, is also available for the occupant/s of the vehicle/s.</li><li><strong>Additional Legal liabilities for :</strong><ol type='a'><li>Paid driver/conductor/cleaner employed in operation of vehicle.</li><li> Employees travelling in/driving the vehicle other than paid driver.</li></ol></li><li><strong> Bifuel-Kit :</strong><p> Any Legal Liability arising out of the use of CNG-LPG bifuel kit</p></li></ol>"
+      },
+      {
+        "name": "Major Exclusion",
+        "icon": "exclusions-icon.svg",
+        "content": "<ol><li>The Company shall not be liable in respect of any claim arising whilst the vehicle insured herein<p>(a) Being used otherwise than in accordance with the ‘Limitations as to Use</p><p>or</p><p>(b) Being driven by or is for the purpose of being driven by him/her in the charge of any person other than a Driver as stated in the Driver's Clause.</p></li><li>The Company shall not be liable in respect of any claim arising out of contractual liability.</li><li>Except so far as is necessary to meet the requirements of the Motor Vehicles Act, the Company shall not be liable in respect of death arising out of and in the course of employment of a person in the employment of the Insured or in the employment of any person who is indemnified under this Policy or bodily injury sustained by such person arising out of and in the course of such employment.</li><li>Except so far as is necessary to meet the requirements of the Motor Vehicles Act, the Company shall not be liable in respect of death or bodily injury to any person (other than a passenger carried by reason of or in pursuance of a contract of employment) being carried in or upon or entering or mounting or alighting from the motor vehicle at the time of the occurrence of the event out of which any claim arises.</li><li>The Company shall not be liable in respect of any liability directly or indirectly or proximately or remotely occasioned by contributed to by or traceable to or arising out of or in connection with war, invasion, the act of foreign enemies, hostilities or warlike operations (whether before or after declaration of war) civil war, mutiny rebellion, military or usurped power or by any direct or indirect consequence of any of the said occurrences and in the event of any claim hereunder, the Insured shall prove that the accident, loss, damage and/or liability, arose independently of and was in no way connected with or occasioned by or contributed to by or traceable to any of the said occurrences or any consequences thereof and in default of such proof, the Company shall not be liable to make any payment in respect of such a claim.</li><li>The Company shall not be liable in respect of any liability directly or indirectly caused by or contributed to by or arising from nuclear weapons material.</li></ol>"
+      }
+    ]
+  },
+  {
+    "key": "long-term-two-wheeler-insurance",
+    "productName": " Long Term Two Wheeler Insurance Policy",
+    "productStickyName": "",
+    "buttons": [],
+    "tabData": [{
+        "name": "Key Features",
+        "icon": "key-feature-icon.svg",
+        "content": "<ul><li>No hassle of annual renewals.</li><li>Long term policy for 2 or 3 years with discounted premium</li><li>In case of a Total Loss/ Combined Total Loss/ Theft claim of your two wheeler in the policy, during the first or second year, you can avail a refund on pro- rate basis on the unexpired period.</li><li>No effect of change in Third Party Liability Premium during the policy period</li><li>No effect of change in Service Tax during the policy period</li></ul>"
+      },
+      {
+        "name": "Coverage",
+        "icon": "coverage-icon.svg",
+        "content": "<ul><li><strong>Third party liability: </strong>Protects against any legal liability arising out of the use of the vehicle, towards third parties arising on accidental bodily injury to / on death of a person and any damage caused to third party property involving your Two Wheeler.</li><li><strong>Loss or damage to the vehicle: </strong>The policy covers against any accidental loss or damage caused to the vehicle or its accessories due to the following :</li><li>Fire, explosion, self-ignition, accidental damage by external means</li><li>Any damage in transit by road, rail, inland waterway, lift, elevator or air</li><li>Lightning, earthquake, flood, typhoon, hurricane, storm, tempest, inundation, cyclone, hailstorm, frost, landslide, rockslide</li><li>Burglary, theft, riot, strike, malicious act, terrorist activity</li></ul>"
+      },
+      {
+        "name":"Bonus",
+        "icon": "bonus-motor-icon.svg",
+        "content": "<ul><li>No Claim Bonus available up to 50%</li><li>Voluntary Deductible available up to 25% on the OD Premium, subject to maximum of Rs. 750</li><li>Discount for Anti theft devices up to 2.5% on the OD Premium subject to maximum of Rs.1000 and Rs. 1500 for policies having tenure as 2 years and 3 years respectively</li><li>Automobile Association Membership Discount of 5% on OD premium subject to maximum of Rs. 100 and Rs. 150 for policies having a tenure of 2 years and 3 years respectively</li><li>Concession for specially designed/ modified vehicles for the Blind, Handicapped and Mentally Challenged Persons of 50% on OD premium</li><li>Tenure Discount of 5% on OD premium for 2 years policy period and 8% on OD premium for 3 years policy period</li></ul>"
+      },
+      {
+        "name": "Exclusion",
+        "icon": "exclusions-icon.svg",
+        "content": "<ul><p>Any loss/damage to the vehicle and/or its accessories will be not be covered if caused by the following-</p><li>Normal wear, tear and general ageing of the vehicle</li><li>Depreciation or any consequential loss</li><li>Mechanical/ electrical breakdown</li><li>Vehicle being used otherwise than in accordance with limitations as to use</li><li>Damage to / by a person driving the vehicle without a valid license</li><li>Damage to / by a person driving the vehicle under the influence of drugs or liquor</li><li>Loss/ damage due to war, mutiny or nuclear risk</li><p>** Please refer to the policy wordings for complete list of exclusions.</p></ul>"
+      }
+    ]
+  },
+  {
+    "key": "motor-act-only-private-car-insurance",
+    "productName": "Motor Act Only Private Car Insurance (3 Years)",
+    "productStickyName": "",
+    "buttons": [],
+    "tabData": [{
+        "name": "Key Features",
+        "icon": "key-feature-icon.svg",
+        "content": "<ul><li>Covers Third-Party Liability </li><li>Long term: 3 years</li></ul>"
+      },
+      {
+        "name": "Coverage",
+        "icon": "coverage-icon.svg",
+        "content": "<p>Our <strong>motor car insurance</strong> offers Third Party cover against any legal liability if your car has caused accidental injury to a third party or damaged a third party’s property.</p><ul><li>Additional Benefits include:<ul><li>Personal accident cover of Rs. 15 lakhs for two-wheelers and private cars for individual owner/s*. The cover is available at Rs 1 lakh per person for two-wheelers and Rs 2 lakhs for other vehicles</li><li>Additional Legal liabilities:<ul><li>Driver or other staff employed to operate or clean the vehicle</li><li>employees travelling in or driving the car (apart from the driver).</li></ul></li><li>Legal liabilities for using a CNG/LPG bifuel kit.</li></ul></li></ul>"
+      },
+      {
+        "name": "Major Exclusion",
+        "icon": "exclusions-icon.svg",
+        "content": "<ul><li>We do not offer coverage for damage, theft or loss due to incidents related to the war, invasion, foreign enemy acts, mutiny, rebellion, etc. Any claims made must be proved to be an act not related to any of these conditions. </li><li>Driving without a valid licence</li><li>Driving under the influence of drugs and alcohol </li></ul><p><strong>Important Note: The above list of exclusions is illustrative and not exhaustive. For a full list of the exclusions , please refer to policy wordings. </strong></p>"
+      }
+    ]
+  },
+  {
+    "key": "arogya-premier-policy",
+    "productName": "Arogya Premier Health Insurance",
+    "productStickyName": "Arogya Premier Health Insurance",
+    "buttons": [{
+        "name": "Get Quote",
+        "slug": "/healthinsurance/display_page/type/arogya"
+      },
+      {
+        "name": "Renew Policy",
+        "slug": "/healthrenewal/display_product?product=AP"
+      },
+      {
+        "name": "Intimate Claim",
+        "slug": "/claim/claims-intimation"
+      },
+      {
+        "name": "Policy Download",
+        "slug": "/policyprint/healthpolicyothers"
+      }
+    ],
+    "tabData": [{
+        "name": "Key Feature",
+        "icon": "key-feature-icon.svg",
+        "content": "<ul><li>No pre-policy medical test up to the age of 55 years for people with no medical history.</li><li>141 Day Care expenses covered.</li><li>AYUSH Cover</li><li>Cumulative Bonus: 10% of SI for each claim-free year, up to 50%</li><li>Coverage from Rs 10,00,000 to Rs 30,00,000.</li><li>Tax Deduction: Under Sec 80D</li><li>Reimbursement of health check up to Rs 5000 in case of no claim for 4 years</li></ul>"
+      },
+      {
+        "name": "Coverage",
+        "icon": "coverage-icon.svg",
+        "content": "<p>This Health Insurance policy covers the following subject to the terms and conditions: </p><ul><li>Our Health Insurance policy covers:<ul><li>Your hospital room rent, boarding expenses and doctor fees</li><li>Operation Theatre and Intensive Care charges</li><li>Nursing expenses</li><li>Medicines that you consume during the hospital stay</li></ul></li><li>Pre and Post hospitalisation expenses up to 60 and 90 days respectively</li><li>Alternative treatment taken in accredited or recognised hospitals</li><li>Domiciliary hospitalisation</li><li>Maternity Expenses.</li><li>Organ Donor Expenses.</li></ul>"
+      },
+      {
+        "name": "Exclusion",
+        "icon": "exclusions-icon.svg",
+        "content": "<p>We will not pay expenses in the following cases </p><ul><li>Pre existing diseases from inception of the policy up to 4 years of this Policy being in force continuously.</li><li>Treatment of illnesses such as Ulcers, Tonsillectomy, Hernia, Cataract, Sinusitis, Gall Bladder Stones, Chronic Renal Failure during the first year of operation of the policy.</li><li>Treatment taken outside India</li><li>Outpatient treatment</li><li>Stay in a hospital without undertaking any active regular treatment by the medical practitioner</li><li>Experimental and unproven treatment.</li></ul><p><strong>Important Note: The above list of exclusions is illustrative and not exhaustive. For a full list of the exclusions , please refer to policy wordings.</strong></p>"
+      }
+    ]
+  },
+  {
+    "key": "retail-health",
+    "productName": "Individual Health Insurance",
+    "productStickyName": "Individual Health Insurance",
+    "buttons": [{
+        "name": "Get Quote",
+        "slug": "/healthinsurance/display_page/type/retail"
+      },
+      {
+        "name": "Renew Policy",
+        "slug": "/healthrenewal/display_product?product=RH"
+      },
+      {
+        "name": "Intimate Claim",
+        "slug": "/claim/claims-intimation"
+      },
+      {
+        "name": "Policy Download",
+        "slug": "/policyprint/healthpolicyothers"
+      }
+    ],
+    "tabData": [{
+        "name": "Key Features",
+        "icon": "key-feature-icon.svg",
+        "content": "<ul><li>Wide Coverage – Rs.50,000 to Rs.500,000</li><li>No medical check-up if you don’t have any medical history: Up to 45 years</li><li>Family Floater: One plan, full family</li><li>Flexible Plans: Metro Plan, Semi Metro Plan &amp; Rest of India</li><li>IT Exemption: Under Sec 80D</li></ul>"
+      },
+      {
+        "name": "Coverage",
+        "icon": "coverage-icon.svg",
+        "content": "<p>Our health insurance policy covers:</p><ul><li>Your hospital room rent, boarding expenses and doctor fees</li><li>Operation Theatre and Intensive Care charges</li><li>Nursing expenses</li><li>Medicines that you consume during the hospital stay</li><li>Pre and Post hospitalisation expenses up to 30 and 60 days respectively</li></ul>"
+      },
+      {
+        "name": "Major Exclusion",
+        "icon": "exclusions-icon.svg",
+        "content": "<p>We will not pay expenses in the following cases:</p><ul><li>Pre existing diseases from inception of the policy up to 4 years of this Policy being in force continuously</li><li>Treatment of illnesses such as Ulcers, Tonsillectomy, Hernia, Cataract, Sinusitis, Gall Bladder Stones, Chronic Renal Failure during the first year of operation of the policy.</li><li>Treatment taken outside India</li><li>Outpatient treatment</li><li>Stay in a hospital without undertaking any active regular treatment by the medical practitioner</li><li>Experimental and unproven treatment.</li></ul><p><strong>Important Note: The above list of exclusions is illustrative and not exhaustive. For a full list of the exclusions , please refer to policy wordings.</strong></p>"
+      }
+    ]
+  },
+  {
+    "key": "hospital-daily-cash",
+    "productName": "Hospital Daily Cash Insurance Policy",
+    "productStickyName": "Hospital Daily Cash Insurance Policy",
+    "buttons": [{
+        "name": "Get Quote",
+        "slug": "/hdc/display"
+      },
+      {
+        "name": "Renew Policy",
+        "slug": "/healthrenewal/display_product?product=HDC"
+      },
+      {
+        "name": "Intimate Claim",
+        "slug": "/claim/claims-intimation"
+      },
+      {
+        "name": "Policy Download",
+        "slug": "/policyprint/healthpolicyothers"
+      }
+    ],
+    "tabData": [{
+        "name": "Key Features",
+        "icon": "key-feature-icon.svg",
+        "content": "<ul><li>Daily cash benefit: From Rs.2,000 to Rs 4,000 per day</li><li>Convalescence Expenses: Up to Rs.5000</li><li>Age of entry: 18 to 65 years.</li><li>4 Plan Options: Daily Benefit Amount</li><li>IT Exemption: Under Sec 80 D</li></ul>"
+      },
+      {
+        "name": "Coverage",
+        "icon": "coverage-icon.svg",
+        "content": "<p>This health insurance plan covers you in case of:</p><ul><li>Accidental injury or sickness resulting in hospitalization during the policy period</li><li>The maximum benefit payable is 30 to 60 days within the policy period</li></ul>"
+      },
+      {
+        "name": "Major Exclusion",
+        "icon": "exclusions-icon.svg",
+        "content": "<p>We will not pay expenses in the following cases-</p><ul><li>Pre existing diseases from inception of the policy up to 4 years of this Policy being in force continuously.</li><li>Treatment of illnesses such as Ulcers, Tonsillectomy, Hernia, Cataract, Sinusitis, Gall Bladder Stones, Chronic Renal Failure during the first year of operation of the policy.</li><li>Treatment taken outside India</li><li>Outpatient treatment</li><li>Stay in a hospital without undertaking any active regular treatment by the medical practitioner</li><li>Experimental and unproven treatment.</li><li>Deductible equal to first 24 hours hospitalisation benefit will be charged on every hospitalization</li></ul><p><strong>Important Note: The above list of exclusions is illustrative and not exhaustive. For a full list of the exclusions , please refer to policy wordings.</strong></p>"
+      },
+      {
+        "name": "Plan Option",
+        "icon": "plan-option.svg",
+        "content": "<p>Our Hospital Daily Cash Insurance Policy offers two coverage options:</p><ul><li>30 days coverage</li><li>60 days coverage</li></ul><p>Daily benefits ranging from Rs. 500 to Rs. 2,000. </p>"
+      }
+    ]
+  },
+  {
+    "key": "critical-illness-insurance",
+    "productName": "Critical Illness Health Insurance",
+    "productStickyName": "Critical Illness Health Insurance",
+    "buttons": [{
+        "name": "Get Quote",
+        "slug": "/criticalillness/display"
+      },
+      {
+        "name": "Renew Policy",
+        "slug": "/healthrenewal/display_product?product=CI"
+      },
+      {
+        "name": "Intimate Claim",
+        "slug": "/claim/claims-intimation"
+      },
+      {
+        "name": "Policy Download",
+        "slug": "/policyprint/healthpolicyothers"
+      }
+    ],
+    "tabData": [{
+        "name": "Key Features",
+        "icon": "key-feature-icon.svg",
+        "content": "<ul><li>Covers 13 critical Illnesses</li><li>Maximum entry age: 65 years</li><li>Two plans – 1 and 3 years</li><li>Sum Insured: Up to Rs  50,00,000</li><li>IT Exemption: Under Sec 80D</li></ul>"
+      },
+      {
+        "name": "Coverage",
+        "icon": "coverage-icon.svg",
+        "content": "<p>Our critical illness insurance covers 13 critical illnesses.</p><p><strong>Critical Illness:</strong></p><ol><li>Cancer</li><li>End-Stage Kidney Failure</li><li>Primary Pulmonary Arterial Hypertension</li><li>Multiple Sclerosis</li><li>Major Organ Transplant</li><li>Coronary artery bypass grafts (with surgery to divide the breastbone)</li><li>Aorta Graft Surgery</li><li>Heart Valve Surgery</li><li>Stroke</li><li>Myocardial Infarction (First Heart Attack)</li><li>Coma</li><li>Total Blindness</li><li>Paralysis</li></ol>"
+      },
+      {
+        "name": "Major Exclusion",
+        "icon": "exclusions-icon.svg",
+        "content": "<ul><li>Pre- Existing disease and related complications</li><li>Any congenital Illness/conditions.</li></ul><p><strong>Important Note: The above list of exclusions is illustrative and not exhaustive. For a full list of the exclusions , please refer to policy wordings.</strong></p>"
+      },
+      {
+        "name": "Plan Option",
+        "icon": "plan-option-icon.svg",
+        "content": "<p>Our <strong>critical illness insurance</strong> is available in two options:</p><ul><li>1 year Plan</li><li>3 year Plan</li></ul><p>The minimum coverage available under this policy is for Rs. 2,00,000 and the maximum is for Rs. 50,00,000, </p>"
+      }
+    ]
+  },
+  {
+    "key": "arogya-plus-policy",
+    "productName": "Arogya Plus Policy",
+    "productStickyName": "Arogya Plus Policy",
+    "buttons": [{
+        "name": "Get Quote",
+        "slug": "/healthinsurancePlus/display_page"
+      },
+      {
+        "name": "Renew Policy",
+        "slug": "/healthrenewal/display_product?product=APL"
+      },
+      {
+        "name": "Intimate Claim",
+        "slug": "/claim/claims-intimation"
+      },
+      {
+        "name": "Policy Download",
+        "slug": "/policyprint/healthpolicyothers"
+      }
+    ],
+    "tabData": [{
+        "name": "Key Feature",
+        "icon": "key-feature-icon.svg",
+        "content": "<ul><li>No medical check-up up to 55 years if you don’t have any medical history</li><li>Multiple coverages: Individual, Family Floater</li><li>141 Day Care expenses covered</li><li>Comprehensive coverage: Pre and Post-Hospitalisation</li><li>Multiple Sum Insured options: INR 1, 2, &amp; 3 Lakhs</li><li>IT Exemption: Under Sec 80 D </li><li>Outpatient Treatment Covered PD</li></ul>"
+      },
+      {
+        "name": "Coverage",
+        "icon": "coverage-icon.svg",
+        "content": "<p>This Health Insurance policy covers the following subject to the terms and conditions:</p><ul><li>Your hospital room rent, boarding expenses and doctor fees</li><li>Operation Theatre and Intensive Care charges</li><li>Nursing expenses</li><li>Medicines that you consume during the hospital stay</li><li>Pre and Post hospitalisation expenses up to 60 and 90 days respectively</li><li>Alternative treatment taken in accredited or recognised hospitals</li><li>Domiciliary hospitalisation.</li><li>Outpatient Treatment </li></ul>"
+      },
+      {
+        "name": "Exclusion",
+        "icon": "exclusions-icon.svg",
+        "content": "<ul><li>Pre existing diseases from inception of the policy up to 4 years of this Policy being in force continuously.</li><li>Treatment of illnesses such as Ulcers, Tonsillectomy, Hernia, Cataract, Sinusitis, Gall Bladder Stones, Chronic Renal Failure during the first year of operation of the policy.</li><li>Treatment taken outside India</li><li>Stay in a hospital without undertaking any active regular treatment by the medical practitioner</li><li>Experimental and unproven treatment.</li></ul><p><strong>Important Note: The above list of exclusions is illustrative and not exhaustive. For a full list of the exclusions , please refer to policy wordings.</strong></p>"
+      },
+      {
+        "name": "Sum Insured",
+        "icon": "sum-insured-icon.svg",
+        "content": "<p>Age:Minimum entry age is 3 months and maximum entry age is 65 years. There is no exit age.</p><p>Insured:Individual/ Family (For Family Insurance Policy - Family means the spouse, dependent children, parents and parents in law. For Family Floater Insurance Policy - Family means the spouse and dependent children)</p><p>Policy Term:1, 2 and 3 years.</p><p>Sum Insured:Hospitalisation sum insured options are 1, 2 and 3 Lakhs. OPD sum insured will depend on the age, premium and family type. Sum Insured of dependents will either be less than or equal to Proposer/ Primary Insured’s Sum Insured.</p><p>Premium:The premium for this product is flat Rs. 8,900, Rs. 13,350 or Rs. 17,800 per annum respectively for a sum Insured of 1, 2 or 3 lakhs.</p>"
+      }
+    ]
+  },
+  {
+    "key": "arogya-topup-policy",
+    "productName": "Arogya Top-Up Health Insurance",
+    "productStickyName": "Arogya Top-Up Health Insurance",
+    "buttons": [{
+        "name": "Get Quote",
+        "slug": "/arogyatopup/display"
+      },
+      {
+        "name": "Renew Policy",
+        "slug": "/healthrenewal/display_product?product=AT"
+      },
+      {
+        "name": "Intimate Claim",
+        "slug": "/claim/claims-intimation"
+      },
+      {
+        "name": "Policy Download",
+        "slug": "/policyprint/healthpolicyothers"
+      }
+    ],
+    "tabData": [{
+        "name": "Key Feature",
+        "icon": "key-feature-icon.svg",
+        "content": "<ul><li>No medical check-up if you don’t have any medical history: till 55 years</li><li>141 Daycare expenses.</li><li>Comprehensive Coverage: Pre- and post- Hospitalisation.</li><li>Wide coverage: Sum Insured from Rs 1,00,000 to Rs 50,00,000</li><li>IT exemption: Under Sec 80D</li></ul>"
+      },
+      {
+        "name": "Coverage",
+        "icon": "coverage-icon.svg",
+        "content": "<p>Our <strong>Top-up Health Insurance</strong> covers:</p><ul><li>Room rent, Doctor Fees, ICU charges, Nursing Costs</li><li>Drugs, medicines and consumables</li><li>Pre-hospitalisation expenses up to 60 days for each hospitalisation, Post-hospitalisation expenses up to 90 days.</li><li>Day Care expenses for 141 daycare procedures.</li></ul>"
+      },
+      {
+        "name": "Exclusion",
+        "icon": "exclusions-icon.svg",
+        "content": "<ul><li>Pre-existing diseases for the first 4 years</li><li>Specified conditions during the first year</li><li>Treatment taken outside India.</li><li>Outpatient department treatment.</li><li>Experimental treatment</li></ul><p><strong>Important Note: The above list of exclusions is illustrative and not exhaustive. For a full list of the exclusions , please refer to policy wordings.</strong></p>"
+      }
+    ]
+  },
+  {
+    "key": "arogya-sanjeevani-policy",
+    "productName": "Arogya Sanjeevani Health Insurance",
+    "productStickyName": "Arogya Sanjeevani Health Insurance",
+    "buttons": [{
+      "name": "Get Quote",
+      "slug": "/arogyasanjeevani/display_page"
+    }],
+    "tabData": [{
+        "name": "Key Feature",
+        "icon": "key-feature-icon.svg",
+        "content": "<p>This policy covers the following benefits:</p><ul><li>No medical check-up up to the age of 55 years for people with no medical history</li><li>AYUSH coverage</li><li>Family Floater: one plan, full family</li><li>Road Ambulance Cover</li><li>Cumulative Bonus: 5% of SI for each claim-free year, up to 50%</li><li>Coverage from Rs 50,000 to Rs 10,00,000.</li><li>Life-long renewability</li><li>Tax Deduction: Under Sec 80D</li></ul>"
+      },
+      {
+        "name": "Coverage",
+        "icon": "coverage-icon.svg",
+        "content": "<p>Arogya Sanjeevani Health Insurance Policy covers the following subject to terms and conditions:</p><ul><li>Your hospital room rent, boarding expenses and doctor fees</li><li>Nursing expenses, Operation theatre and ICU charges</li><li>Medicines that you consume during the hospital stay</li><li>Road Ambulance Charges</li><li>Pre and Post hospitalization expenses up to 30 and 60 days respectively</li><li>AYUSH Treatment</li></ul>"
+      },
+      {
+        "name": "Exclusion",
+        "icon": "exclusions-icon.svg",
+        "content": "<ul><li>Pre-existing diseases from inception of the policy up to 4 years of this policy being in force continuously</li><li>Treatment taken outside India</li><li>Admission primarily for investigation &amp; evaluation</li><li>Admission primarily for rest cure, rehabilitation and respite care</li><li>Expenses related to surgical treatment of obesity that do not fulfill certain conditions</li><li>Change-of-Gender treatments</li><li>Expenses for cosmetic surgery</li><li>Expenses related to treatments resulting from hazardous or adventure sports</li><li>Maternity Expenses</li></ul>"
+      }
+    ]
+  },
+  {
+    "key": "group-health-insurance",
+    "productName": "Group Health Insurance",
+    "productStickyName": "",
+    "buttons": [
+        {
+          "name": "Renew Policy",
+          "slug": "/healthrenewal/display_product?product=SH"
+        },
+        {
+          "name": "Intimate Claim",
+          "slug": "/claim/claims-intimation"
+        },
+        {
+          "name": "Policy Download",
+          "slug": "/policyprint/healthpolicyothers"
+        }
+      ],
+    "tabData": [{
+        "name": "Key Feature",
+        "icon": "key-feature-icon.svg",
+        "content": "<ul><li>No medical check-up if you don’t have any medical history: Up to 65 years</li><li>Multiple coverages: Individual, Family Floater</li><li>Tax exemption: Under Sec 80D</li><li>Wide coverage: Rs. 1,00,000 to Rs. 5,00,000</li></ul>"
+      },
+      {
+        "name": "Coverage",
+        "icon": "coverage-icon.svg",
+        "content": "<p>Our group health insurance covers:</p><ul><li>Room and Boarding Charges</li><li>Doctor, Surgeon and Nursing Fees</li><li>ICU Charges</li><li>Cost of Medicines</li><li>Pre and post hospitalisation expenses for 30 and 60 days respectively</li></ul>"
+      },
+      {
+        "name": "Major Exclusion",
+        "icon": "exclusions-icon.svg",
+        "content": "<p>Our group health insurance doesn’t provide coverage for certain cases such as:</p><ul><li>Pre-existing illnesses and diseases during the first 4 years of policy coverage. </li><li>Treatment of illnesses such as Ulcers, Tonsillectomy, Hernia, Cataract, Sinusitis, Gall Bladder Stones, Chronic Renal Failure during the first year of operation of the policy.</li><li>Treatment taken outside India</li><li>Outpatient treatment</li><li>Stay in a hospital without undertaking any active regular treatment by the medical practitioner</li><li>Experimental and unproven treatment.</li><li>Treatment-related to pregnancy or childbirth.</li></ul><p><strong>Important Note: The above list of exclusions is illustrative and not exhaustive. For a full list of the exclusions , please refer to policy wordings.</strong></p>"
+      }
+    ]
+
+  },
+  {
+    "key": "loan-insurance",
+    "productName": "Loan Insurance Policy",
+    "productStickyName": "",
+    "buttons": [],
+    "tabData": [{
+        "name": "Key Feature",
+        "icon": "key-feature-icon.svg",
+        "content": "<ul><li>No medical check-up up to Sum Insured of Rs.1 Crore and/or age up to 55 years</li><li>Policy can be availed for maximum of three years benefitting the purse strings</li><li>Coverage for 13 critical illnesses, accidental death or permanent disablement and loss of job</li><li>Sum Insured available on fixed or reducing basis</li></ul>"
+      },
+      {
+        "name": "Coverage",
+        "icon": "coverage-icon.svg",
+        "content": "<p>SBI General’s Loan Insurance Policy offers the following covers -</p><p>• Critical Illness  • Personal Accident  • Loss of employment</p><h5>Section I - Critical Illness</h5><p>Policy provides coverage against 13 critical illnesses listed below. Immediately on diagnosis of any one of them, benefit amount is paid subject to policy terms and conditions.</p><ul><li>Cancer</li><li>Kidney Failure (End Stage Renal Failure)</li><li>Primary Pulmonary Arterial Hypertension</li><li>Multiple Sclerosis</li><li>Major Organ Transplant</li><li>Coronary Artery Bypass Graft</li><li>Aorta Graft Surgery</li><li>Heart Valve Surgery</li><li>Stroke</li><li>Myocardial Infarction (First Heart Attack)</li><li>Coma</li><li>Total blindness</li><li>Paralysis</li></ul><h5>Section II - Personal Accident</h5><p>Policy pays for</p><ul><li>Accidental Death or</li><li>Permanent Total Disability</li></ul><div class=\"table-responsive\"><table class=\"table table-striped table-bordered\"><tbody><tr><td> Permanent Total Disablement</td><td>% of compensation</td></tr><tr><td>Loss of sight in both eyes</td><td>100%</td></tr><tr><td>Actual loss by Physical Separation of both hands or both feet or one entire hand and one entire foot</td><td>100%</td></tr><tr><td>Loss of use of both hands or both feet or of one hand and one foot without Physical Separation</td><td>100%</td></tr></tbody></table></div><h5>Section III - Loss of Job</h5><p>Maximum of 3 EMI will be payable in the unfortunate event of temporary unemployment or dismissal or retrenchment</p><h5>Age eligibility:</h5><p>The minimum age of entry for the SBI General’s Loan Insurance Policy is 18 years and maximum age of entry is 60 years</p><h5>Tenure:</h5><p> SBI General’s Loan Insurance Policy is available for a maximum period of three years.</p><h5>Extent of compensation under Loan insurance Policy:</h5><p>If any of the contingencies occurs during the policy period, compensation will be provided as given below -</p><p>Death: Outstanding Loan Amount or Sum Insured respectively for reducing SI basis and Fixed Sum Insured</p><p>Accidental Permanent &amp; Total Disability: Outstanding Loan Amount or Sum Insured respectively for reducing SI basis &amp; Fixed Sum Insured</p><p>Critical Illness: Outstanding Loan Amount or Sum Insured respectively for reducing Sum Insured basis and Fixed Sum Insured</p><p>Loss of Job:Maximum 3 EMIs</p>"
+      },
+      {
+        "name":"General Exclusion",
+        "icon":"exclusions-icon.svg",
+        "content":"<ul><li>War, invasion; acts of terrorism, riot, strike , malicious damage</li><li>or such similar perils</li><li>Nuclear perils; ionising radiations</li><li>Drug abuse or alcoholism</li><li>Self inflicted injury, attempted suicide or suicide</li><li>HIV/AIDS</li><li>Consequential loss or indirect expenses</li></ul>"
+
+      },
+      {
+        "name": "Specific Exclusion",
+        "icon": "exclusions-specific-icon.svg",
+        "content": "<h5>Section I- Critical Illness</h5><ul><li>Any pre-existing illness</li><li>Any critical illness discovered within 90 days of the policy</li><li>Self medication; treatment not administered by a doctor or which is not medically necessary</li><li>Congenital illness or defects and/or treatment administered for them</li><li>Hormone Replacement Therapy; contraceptive procedures</li><li>Gender change or cosmetic surgery or treatment/procedures associated with the same</li><li>Self medication; unauthorized treatment</li></ul><h5>Section II-Personal Accident</h5><ul><li>Payment under more than one category specified i.e Death or Permanent Total Displacement</li><li>Any infirmity/conditions existing before the inception of the policy</li><li>Persons learning to operate an aircraft or operating as crew or participating in adventure sports including winter sports, hazardous activities and the like</li><li>Death or permanent total disability arising out of illness</li><li>Venereal diseases or insanity</li></ul><h5>Section III-Loss of Job</h5><ul><li>Termination, dismissal, temporary suspension or retrenchment due to fraud or dishonesty, poor performance</li><li>Businessmen; persons who are self employed</li><li>Employees on casual, temporary or contractual basis</li><li>Unemployment due to resignation, retirement whether voluntary or otherwise</li><li>Unemployment at inception or arising within first 90 days of Inception</li></ul>"
+      }
+    ]
+
+  },
+  {
+    "key": "long-term-home-insurance",
+    "productName": "Long Term Home Insurance Policy",
+    "productStickyName": "Long Term Home Insurance Policy",
+    "buttons": [{
+        "name": "Get Quote",
+        "slug": "/lth/lthHome"
+      },
+      {
+        "name": "Intimate Claim",
+        "slug": "/claim/claims-intimation"
+      },
+      {
+        "name": "Policy Download",
+        "slug": "#"
+      }
+    ],
+    "tabData": [{
+        "name": "Key Features",
+        "icon": "key-feature-icon.svg",
+        "content": "<ul><li>Coverage for a wide range of perils</li><li>Tenure: Up to 30 years </li></ul>"
+      },
+      {
+        "name": "Coverage",
+        "icon": "coverage-icon.svg",
+        "content": "<p>Our <strong>long term home insurance</strong> plan covers:</p><p>Loss or damage to the home due to fire and other perils, such as:</p><ul><li>Fire</li><li>Lightning</li><li>Explosion / Implosion (excluding boilers, economisers, pressure vessels)</li><li>Aircraft crashes</li><li>Riot, strike and malicious damage</li><li>Storm, cyclone, typhoon, tempest, hurricane, tornado, flood and inundation</li><li>Impact damage</li><li>Subsidence and landslide</li><li>Bursting and overflowing water tanks or pipes</li><li>Missile testing operations</li><li>Leakage from automatic sprinklers</li><li>Bush fires</li><li>Earthquake (Fire and Shock)</li><li>Terrorism, if you pay a little extra.</li></ul>"
+      },
+      {
+        "name": "Major Exclusion",
+        "icon": "exclusions-icon.svg",
+        "content": "<ul><li>Loss or damage to the home owing to gross or willful negligence</li><li>Destruction/damage by own fermentation, natural heating or spontaneous combustion</li><li>Forest fires</li><li>War and  nuclear perils</li><li>Theft during/after operation of the peril</li><li>Pollution and contamination</li><li>Volcanic eruption or other natural disasters</li><li>Burning of property by Public Authority</li></ul><p><strong>Important Note: The above list of exclusions is illustrative and not exhaustive. For a full list of the exclusions , please refer to policy wordings.</strong></p>"
+      }
+    ]
+  },
+  {
+    "key": "simple-home-insurance",
+    "productName": "Simple Home Insurance Policy ",
+    "productStickyName": "",
+    "buttons": [{
+      "name": "Get Quote",
+      "slug": "/simplehomeinsurance/display?itm_source=direct&itm_medium=none&itm_campaign="
+    }],
+    "tabData": [{
+        "name": "Key Features",
+        "icon": "key-feature-icon.svg",
+        "content": "<ul><li>Covers Independent houses as well as flats and apartments</li><li>Policy Term: 3 Years</li><li>Coverage for several perils</li><li>Cover For Tenants</li><li>Tenure Discount</li></ul>"
+      },
+      {
+        "name": "Coverage",
+        "icon": "coverage-icon.svg",
+        "content": "<p>Our <strong>home insurance</strong> plan covers:</p><ul><li>Fire &amp; Alliedl Perils including losso or damage to property due to terrorism and earthquake</li><li>Burglary &amp; Theft</li><li>Public Liability</li><li>Plate Glass</li><li>Baggage</li><li>Breakdown of Domestic Electrical &amp; Electronic Appliances</li><li>Personal Accident</li><li>Loss of Cash while in Transit</li><li>All risk Cover - Portable Equipment, Jewelry &amp; Valuables</li><li>Key Replacement</li></ul>"
+      },
+      {
+        "name": "Major Exclusion",
+        "icon": "exclusions-icon.svg",
+        "content": "<ul><li>War, invasion, foreign enemy, hostilities, civil war etc</li><li>Willful destruction by you, a family member or staff.</li><li>Consequential loss</li><li>Any loss, damage, accident, an injury occurring before the coverage is extended.</li><li>Any loss or damage of whatsoever nature in respect of any kutcha construction.</li></ul><p><strong>Important Note: The above list of exclusions is illustrative and not exhaustive. For a full list of the exclusions , please refer to policy wordings.</strong></p>"
+      }
+    ]
+  },
+  {
+    "key": "travel-insurance",
+    "productName": "Travel Insurance",
+    "productStickyName": "Travel Insurance",
+    "buttons": [{
+        "name": "Get Quote",
+        "slug": "/travel/display_page"
+      },
+      {
+        "name": "Intimate Claim",
+        "slug": "/claim/claims-intimation"
+      },
+      {
+        "name": "Policy Download",
+        "slug": "/policyprint/others"
+      }
+    ],
+    "tabData": [{
+        "name": "Key Features",
+        "icon": "key-feature-icon.svg",
+        "content": "<ul><li>Cover upto $ 500,000</li><li>Comprehensive Coverage</li><li>Worldwide Protection</li><li>24/7 Assistance</li><li>Easy Claims Settlement</li></ul>"
+      },
+      {
+        "name": "Coverage",
+        "icon": "coverage-icon.svg",
+        "content": "<p>Our <strong>travel insurance</strong> policy covers:</p><ul><li>Treatment while on holiday</li><li>Injury or illness sustained during travel</li><li>Travel support</li><li>Cash advance</li><li>Trip delays</li></ul><p>Period of insurance</p><ul><li>Single Trip:- Policy is issued a minimum 1 day up, and maximum of 180 days duration.</li><li>Multi-Trip:- Policy is issued only for one year, and not shorter or longer than one year.</li></ul>"
+      },
+      {
+        "name": "Major Exclusion",
+        "icon": "exclusions-icon.svg",
+        "content": "<ul><li>Travel for the express purpose of taking medical treatment</li><li>Injury or death attributable to suicide, alcoholism, drug use etc.</li><li>If you are part of military, naval or airforce operations</li></ul><p><strong>Important Note: The above list of exclusions is illustrative and not exhaustive. For a full list of the exclusions , please refer to policy wordings.</strong></p>"
+      }
+    ]
+  },
+  {
+    "key": "bharat-griha-raksha",
+    "productName": "SBI General Bharat Griha Raksha",
+    "productStickyName": "",
+    "buttons": [
+    
+    ],
+    "tabData": [
+      {
+        "name": "Key Feature",
+        "icon": "key-feature-icon.svg",
+        "content": "<ul><li>Policy available from 1 year to 10 years</li><li>Coverage for building (structure) and/ or contents </li><li>Home contents are automatically covered at 20% of Sum Insured amount for the building (subject to maximum of Rs 10 lacs)</li><li>Flexible options for coverage of home contents</li><li>Optional covers available for valuable contents </li><li>Optional cover for personal accident of Rs 5 lakh each for self and spouse (arising out of fire and allied perils)</li><li>Inbuilt cover for fee payable to architect/ surveyor/consulting engineer (5% of claim amount)</li><li>Inbuilt cover for removal of debris (2% of claim amount) </li><li>Inbuilt cover for loss of rent/ rent for alternative accommodation </li><li>Auto-escalation of sum insured by 10% for annual policies and for long term policies</li><li>Building (structure) and contents insured on reinstatement/ replacement value basis</li><li>Valuable contents insured on agreed value basis</li><li>Underinsurance is not applicable</li><li>No deductible applicable </li></ul>"
+      },
+      {
+        "name": "Coverage",
+        "icon": "coverage-icon.svg",
+        "content": "<p>Bharat Griha Raksha covers you for the following:</p><ul><li>Fire</li><li>Explosion or Implosion</li><li>Lightning</li><li>Earthquake</li><li>storm, cyclone, typhoon, tempest, hurricane, tornado, tsunami, flood and inundation</li><li>Subsidence of the land on which your home building stands, landslide, rockslide</li><li>Forest fire, bush fire, jungle fire</li><li>Impact damage of any kind, i.e. damage caused by impact of, or collision caused by, any external physical object (e.g. vehicle, falling trees, aircraft, wall etc.)</li><li>Missile testing operations</li><li>Riot, strike, malicious damages</li><li>Acts of terrorism</li><li>Bursting or overflowing of water tanks, apparatus and pipes</li><li>Leakage from automatic sprinkler installations.</li><li>Theft within 7 days from the occurrence of and proximately caused by any of the above insured events</li></ul>"
+      },
+      {
+        "name": "Major Exclusion",
+        "icon": "exclusions-icon.svg",
+        "content": "<ul><li>Wilful or intentional act or omission</li><li>War, invasion, act of foreign enemy</li><li>Ionising radiation or contamination by radioactivity</li><li>Pollution or contamination</li><li>Short circuiting, arcing, self- heating or leakage of electricity from whatever cause (lightning included)</li><li>Loss of earning, loss by delay, consequential loss</li><li>Reduction in market value</li><li>Costs, fees, expenses for preparing any claim</li></ul>"
+      }
+    ]
+  },
+  {
+    "key": "bharat-laghu-udyam-suraksha",
+    "productName": "SBI General Bharat Laghu Udyam Suraksha",
+    "productStickyName": "",
+    "buttons": [
+      
+    ],
+    "tabData": [
+      {
+        "name": "Key Feature",
+        "icon": "key-feature-icon.svg",
+        "content": "<ul><li>This policy covers the property if total asset value at one location exceeds Rs 5 cr but does not exceed Rs 50 Cr at policy commencement date</li><li>Named perils policy</li><li>Waiver of underinsurance upto 15%</li><li>Building, plant and machinery & furniture fixtures insured on reinstatement value basis</li><li>Inbuilt cover of earthquake & act of terrorism, removal of debris, and fee for architects, surveyors and consulting engineers etc.</li><li>Add on cover if stocks to be insured on declaration basis & floater basis</li></ul>"
+	  },	  
+      {
+        "name": "Coverages",
+        "icon": "coverage-icon.svg",
+        "content": "<p>This policy provides cover for building structures, plant & machinery, stock and other assets relating to your business against following perils:</p><ul><li>Fire, including due to its own fermentation, or natural heating or spontaneous combustion</li><li>Explosion or implosion</li><li>Lightning</li><li>Earthquake, volcanic eruption, or other convulsions of nature</li><li>Storm, cyclone, typhoon, tempest, hurricane, tornado, tsunami, flood and inundation</li><li>Subsidence of the land on which your premises stand, landslide, rockslide</li><li>Bush fire, forest fire, jungle fire</li><li>Impact damage of any kind, i.e. damage caused by impact of, or collision caused by, any external physical object (e.g. vehicle, falling trees, aircraft, wall etc.)</li><li>Missile testing operations</li><li>Riot, strikes, malicious damages</li><li>Acts of terrorism</li><li>Bursting or overflowing of water tanks, apparatus and pipes</li><li>Leakage from automatic sprinkler installations</li><li>Theft within 7 days from the occurrence of, and proximately caused by, any of the above insured events</li></ul><p>Other Inbuilt Covers:</p><ul><li>Additions, alterations or extensions</li><li>Temporary removal of stocks</li><li>Cover for specific contents</li><li>Start-up expenses</li><li>Professional fees</li><li>Cost of removal of debris</li><li>Costs compelled by municipal regulations </li></ul><p>Standard Add on cover:</p><ul><li>Declaration policy for stocks</li><li>Stocks on floater basis</li></ul>"
+	  },
+	  {
+        "name": "Sum Insured",
+        "icon": "exclusions-icon.svg",
+        "content": "<p>For building, plant and machinery, furniture, fixture and fittings and any other contents: Reinstatement Value </p><p>For stocks:</p><ul><li>For raw material: landed cost at your premises</li><li>For stock in process: Input cost of the stock at the time of damage</li><li>For finished stock: Manufacturing cost of the finished stock or the contract price of goods sold but not delivered</li></ul><p>Bullion or unset precious stones, any curios or works of art or obsolete machinery and the like: Agreed value basis</p>"
+      },
+      {
+        "name": "Exclusion",
+        "icon": "exclusions-icon.svg",
+        "content": "<ul><li>Deliberate, wilful or intentional act</li><li>Loss, destruction or damage to stocks in cold storage due to change in temperature</li><li>War, invasion, war-like operations</li><li>Ionising radiation</li><li>Pollution or contamination </li><li>Property is missing or has been mislaid</li><li>Consequential or indirect loss or damage </li><li>Costs, fees or expenses for preparing any claim </li><li>Insured premised or building remains unoccupied for more than 30 days</li></ul>"
+      }
+    ]
+  },
+  {
+    "key": "arogya-supreme",
+    "productName": "Arogya Supreme",
+    "productStickyName": "",
+    "buttons": [
+     
+    ],
+    "tabData": [
+      {
+        "name": "Key Feature",
+        "icon": "key-feature-icon.svg",
+        "content": "<ul><li>Comprehensive policy with 20 basic covers and 8 optional covers</li><li>Multiple sum insured range from Rs 1lac to Rs 5cr available under the policy</li><li>Long term policy options available up to 3 years</li><li>Exclusive covers like domestic air ambulance cover, compassionate benefit, recovery benefit and e-opinion cover</li><li>NCB protector optional cover is available to protect cumulative bonus and enhanced cumulative bonus</li><li>Preventive health check-up cover is available as renewal benefit</li><li>Options to pay yearly premium in instalments - monthly, half yearly and annually</li><li>Various discount options like family discount, loyalty discount, term policy discount </li></ul>"
+	  },	 
+	   {
+        "name": "Scope of Cover",
+        "icon": "scope-of-word-1.svg",
+        "content": "<p>The company will pay cover on medically necessary hospitalization of an insured person due to illness or injury sustained or contracted during the policy period. Payment is subject to sum insured and limits including cumulative bonus / enhanced cumulative bonus, if applicable as specified on the schedule of coverage in the policy schedule subject to otherwise terms and conditions of the policy.</p><p><strong>Age Criteria</strong></p><table width='300px' style='margin-bottom:20px'><tr><td></td><td>Minimum</td><td>Maximum</td></tr><tr><td>Adult</td><td>18 yrs</td><td>65 yrs</td></tr><tr><td>Child</td><td>91 days</td><td>25 yrs</td></tr></table><p><strong>Policy Duration </strong></p><p>1 Year / 2 Years / 3 Years</p>"
+      },
+      {
+        "name": "Coverages",
+        "icon": "coverage-icon.svg",
+        "content": "<p><strong>Hospitalization Covers</strong></p><ul><li>In-patient Hospitalization Treatment</li><li>Mental Healthcare</li><li>HIV / AIDS Cover</li><li>Genetic Disorder</li><li>Internal Congenital Anomaly</li><li>Bariatric Surgery Cover</li><li>Advance Procedures</li><li>Cataract Treatment</li><li>Pre-Hospitalization Cover</li><li>Post-Hospitalization Cover</li><li>Domiciliary Hospitalization</li><li>Day Care Treatment</li><li>Road Ambulance</li><li>Organ Donor Expenses</li><li>Alternative Treatment / AYUSH</li><li>Recovery Benefit</li><li>Domestic Emergency Assistance Services (including Air Ambulance)</li><li>Sum Insured Refill</li><li>Compassionate Visit</li><li>E-Opinion</li></ul><p><strong>Optional Covers</strong></p><ul><li>Hospital Cash Benefit</li><li>Major Illness Benefit </li><li>Additional Sum Insured for Accidental Hospitalization</li><li>Enhanced Cumulative Bonus</li><li> No Claim Bonus Protector</li><li>Co-Payment</li><li>Any Room Upgrade</li><li>Deductible</li></ul><p><strong>Renewal Benefit </strong></p><ul><li>Preventive Health Check-up</li><li>Cumulative Bonus</li></ul>"
+	  },
+      {
+        "name": "Major Exclusion",
+        "icon": "exclusions-icon.svg",
+        "content": "<ul><li>Investigation and Evaluation (Code-Excl 04)</li><li>Rest Cure, rehabilitation, and respite care (Code- Excl 05)</li><li>Obesity / Weight Control (Code- Excl 06)</li><li>Change of Gender Treatments (Code- Excl 07)</li><li>Cosmetic or Plastic Surgery (Code- Excl 08)</li><li>Hazardous or Adventure Sports (Code- Excl 09)</li><li>Breach of Law (Code- Excl 10)</li><li>Excluded Providers (Code-Excl 11)</li><li>Treatment for alcoholism, drug or substance abuse or any addictive condition and consequences thereof (Code- Excl 12)</li><li>Treatments received in health hydros, nature cure clinics, spas or similar establishments or private beds registered as a nursing home attached to such establishments or where admission is arranged wholly or partly for domestic reasons.(Code- Excl 13)</li><li>Dietary Supplements and substances that can be purchased without prescription, including but not limited to Vitamins, minerals and organic substances unless prescribed by a Medical Practitioner as part of Hospitalization claim or Day Care Procedures. (Code- Excl 14)</li><li>Refractive Error (Code-Excl 15)</li><li>Unproven Treatments (Code- Excl 16)</li><li>Sterility and Infertility (Code-Excl 17)</li><li>Maternity (Code-Excl 18)</li></ul>"
+      }
+    ]
+  },
+  {
+    "key": "bharat-sookshma-udyam-suraksha",
+    "productName": "SBI General Bharat Sookshma Udyam Suraksha",
+    "productStickyName": "",
+    "buttons": [
+     
+    ],
+    "tabData": [
+      {
+        "name": "Key Feature",
+        "icon": "key-feature-icon.svg",
+        "content": "<ul><li>This policy covers the property if total assets value at one location does not exceed Rs 5 cr at policy commencement date </li><li>Named perils policy</li><li>Waiver of underinsurance upto 15%</li><li>Inbuilt floater cover for stocks</li><li>Building, plant and machinery & furniture fixtures insured on reinstatement value basis</li><li>Inbuilt cover of earthquake, act of terrorism, removal of debris, professional fees etc.</li><li>Add-on cover if stocks to be insured on declaration basis</li></ul>"
+	  },
+      {
+        "name": "Coverages",
+        "icon": "coverage-icon.svg",
+        "content": "<p>This policy provides cover for the building structures, plant & machinery, stock and other assets relating to your business against following perils:</p><ul><li>Fire, including due to its own fermentation, or natural heating or spontaneous combustion</li><li>Explosion or implosion </li><li>Lightning </li><li>Earthquake, volcanic eruption, or other convulsions of nature</li><li>Storm, cyclone, typhoon, tempest, hurricane, tornado, tsunami, flood and inundation </li><li>Subsidence of the land on which your premises stand, landslide, rockslide </li><li>Bush fire, forest fire, jungle fire </li><li>Impact damage of any kind, i.e. damage caused by impact of, or collision caused by, any external physical object (e.g. vehicle, falling trees, aircraft, wall etc.) </li><li>Missile testing operations </li><li>Riot, strikes, malicious damages </li><li>Acts of terrorism </li><li>Bursting or overflowing of water tanks, apparatus and pipes </li><li>Leakage from automatic sprinkler installations </li><li>Theft within 7 days from the occurrence of, and proximately caused by, any of the above insured events</li></ul><p>Other Inbuilt Covers:</p><ul><li>Additions, alterations or extensions </li><li>Stocks on floater basis </li><li>Temporary removal of stocks</li><li>Cover for specific contents </li><li>Start-up expenses </li><li>Professional fees </li><li>Cost of removal of debris </li><li>Costs compelled by municipal regulations </li></ul><p>Standard Add-on cover: Declaration policy for stocks</p>"
+	  },
+	  {
+        "name": "Sum Insured",
+        "icon": "exclusions-icon.svg",
+        "content": "<p>For building, plant and machinery, furniture, fixture and fittings and any other contents: Reinstatement Value </p><p>For stocks:</p><ul><li>For raw material: landed cost at your premises</li><li>For stock in process: Input cost of the stock at the time of damage</li><li>For finished stock: Manufacturing cost of the finished stock or the contract price of goods sold but not delivered</li></ul><p>Bullion or unset precious stones, any curios or works of art or obsolete machinery and the like: Agreed value basis</p>"
+      },
+      {
+        "name": "Exclusion",
+        "icon": "exclusions-icon.svg",
+        "content": "<ul><li>Deliberate, wilful or intentional act </li><li>Loss, destruction or damage to stocks in cold storage due to change in temperature </li><li>War, invasion, war-like operations</li><li>Ionising radiation</li><li>Pollution or contamination </li><li>Property is missing or has been mislaid </li><li>Consequential or indirect loss or damage </li><li>Costs, fees or expenses for preparing any claim</li><li>Insured premised or building remains unoccupied for more than 30 days</li></ul>"
+      }
+    ]
+  },
+  {
+    "key": "saral-suraksha-bima",
+    "productName": "Saral Suraksha Bima, SBI General Insurance Company Limited",
+    "productStickyName": "",
+    "buttons": [
+      
+    ],
+    "tabData": [
+      {
+        "name": "Salient Feature",
+        "icon": "key-feature-icon.svg",
+        "content": "<p>Saral Suraksha Bima is designed to cover the following:</p><ul><li>Loss of life due to accident of insured</li><li>Permanent total disablement, permanent partial disablement cover which provides fixed benefit & protects against medical expenses arising out of it</li><li>People aged between 18 to 70 years</li><li>Family including self, spouse, dependent children, parents / parents-in-law</li><li>Dependent children from age of 3 months to 25 years </li><li>Optional covers such as:<ul><li>Temporary total disablement</li><li>Hospitalisation expenses due to accident</li><li>Education grant</li></ul></li><li>5% Cumulative Bonus for each claim free year to maximum of 50% of Sum Insured.</li></ul>"
+	  },
+      {
+        "name": "Coverages",
+        "icon": "coverage-icon.svg",
+        "content": "<p><strong>Base Cover</strong></p><ul><li>Accidental Death</li><li>Permanent Total Disablement</li><li>Permanent Partial Disablement</li></ul><p><strong>Optional Cover</strong></p><ul><li>Temporary Total Disablement</li><li>Hospitalisation Expenses due to Accident</li><li>Education Grant</li></ul>"
+	  },
+      {
+        "name": "Exclusion",
+        "icon": "exclusions-icon.svg",
+        "content": "<p>Exclusions applicable to each section will have precedence over general exclusions mentioned below: The Company shall not be liable in respect of</p><ul><li>Any claim directly or indirectly due to war and war like occurrence or invasion, acts of foreign enemies etc. and detainment of all kinds</li><li>Any claim for death, disablement due to suicide, intentional self-injury unless in self-defence or to save life, suicide or attempted suicide</li><li>Any loss arising out of the insured person's actual or attempted commission of or wilful participation in an illegal act or any violation or attempted violation of the law</li><li>Any claim resulting or arising from or any consequential loss directly or indirectly caused by or contributed to or arising from:  Ionizing radiation or contamination by radioactivity from any nuclear fuel, nuclear weapons material, radioactive, toxic, explosive etc.</li><li>Any claim for death, hospitalization of insured person due to participation as a professional in hazardous or adventure sports, including but not limited to, para-jumping, rock climbing, mountaineering, rafting, motor racing, horse racing or scuba diving, hand gliding, sky diving, deep-sea diving</li></ul><p><i>(PS. This are descriptive product details; please read Policy Wordings for exhaustive details)</i></p>"
+      }
+    ]
+  }
+]

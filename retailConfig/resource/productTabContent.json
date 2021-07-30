@@ -1,0 +1,246 @@
+[
+  {
+    "key": "two-wheeler-insurance",
+    "productName": "Two Wheeler Insurance",
+    "buttons": [
+      {
+        "name": "Buy Policy",
+        "slug": "/M2W/GetQuote"
+      },
+      {
+        "name": "Renew Policy",
+        "slug": "/motorrenewal/display_product?product=M2W"
+      },
+      {
+        "name": "Intimate Claim",
+        "slug": "/claim/claims-intimation"
+      },
+      {
+        "name": "Policy Download",
+        "slug": "/policyprint/motor"
+      }
+    ],
+    "tabData":[
+      {
+        "name":"Key Feature",
+        "icon":"key-feature-icon.svg",
+        "content":"<ul><li>Customised Pricing based on your Profile.</li><li>Avail discount if you are aged between 25 and 55 years</li><li>Enjoy additional discount for insuring your vehicle without a break</li></ul>"
+      },
+      {
+        "name":"Coverage",
+        "icon":"coverage-icon.svg",
+        "content":"<ul><li>This Policy is designed to cover the compulsory Third Party Liability as required by Motor Vehicles Act, together with loss or damage to the Vehicle itself.</li><li>Third party liability: Protects against any legal liability arising out of the use of the vehicle, towards third parties arising on bodily injury to / on death of a person and any damage caused to third party property.</li><li>Loss or damage to the vehicle: covers against any loss or damage caused to the vehicle or its accessories due to the following,</li><li>Fire, explosion, self-ignition, accidental damage by external means</li><li>Any damage in transit by road, rail, inland waterway, lift, elevator or air.</li><li>Lightning, earthquake, flood, typhoon, hurricane, storm, tempest, inundation, cyclone, hailstorm, frost, landslide, rockslide.</li><li>Burglary, theft, riot, strike, malicious act and terrorist activity</li><li>SBI General's Two Wheeler Package Policy provides compulsory personal accident cover of Rs. 15 lakh for individual owners (holding a valid driving license) of the vehicle while driving. This is not applicable for a Company owned vehicle.</li><li>Pillion Rider of the two wheeler can also be covered for Personal Accident for a maximum Capital Sum Insured of Rs. 1 lakh. You may also opt for higher limits in Personal Accident cover.</li></ul>"
+      },
+      {
+        "name":"Bonus",
+        "icon":"bonus-motor-icon.svg",
+        "content":"<ul><li>No Claim Bonus: If you do not make a claim during the Policy period, a No Claim Bonus (NCB) is offered on renewals. This discount can go as high as 50%. (NCB will only be allowed provided the Policy is renewed within 90 days of the expiry date of the previous policy.)</li><li>Transfer of NCB: You can transfer full benefits of No Claim Bonus when you shift your motor insurance policy from another company.</li></ul>"
+      },
+      {
+        "name":"Exclusion",
+        "icon":"exclusions-icon.svg",
+        "content":"<ul><li>Any loss/damage to the vehicle and/or its accessories will be not be covered if caused by the following,</li><li>Normal wear, tear and general ageing of the vehicle</li><li>Depreciation or any consequential loss</li><li>Mechanical/ electrical breakdown</li><li>Vehicle being used otherwise than in accordance with limitations as to use</li><li>Damage to / by a person driving the vehicle without a valid license</li><li>Damage to / by a person driving the vehicle under the influence of drugs or liquor</li><li>Loss / damage due to war, mutiny or nuclear risk</li></ul>"
+      }
+    ]
+  },
+  {
+    "key": "private-car-insurance",
+    "productName": "Private Car Insurance",
+    "buttons": [
+      {
+        "name": "Buy Policy",
+        "slug": "/PMCAR/GetQuote"
+      },
+      {
+        "name": "Renew Policy",
+        "slug": "/motorrenewal/display_product?product=M4W"
+      },
+      {
+        "name": "Intimate Claim",
+        "slug": "/claim/claims-intimation"
+      },
+      {
+        "name": "Policy Download",
+        "slug": "/policyprint/motor"
+      }
+    ]
+  },
+  {
+    "key": "long-term-home-insurance",
+    "productName": "Long Term Home Insurance Policy",
+    "buttons": [
+      {
+        "name": "Buy Policy",
+        "slug": "/lth/lthHome"
+      },
+      {
+        "name": "Intimate Claim",
+        "slug": "/claim/claims-intimation"
+      },
+      {
+        "name": "Policy Download",
+        "slug": "#"
+      }
+    ]
+  },
+  {
+    "key": "arogya-premier-policy",
+    "productName": "Arogya Premier Policy",
+    "buttons": [
+      {
+        "name": "Buy Policy",
+        "slug": "/healthinsurance/display_page/type/arogya"
+      },
+      {
+        "name": "Renew Policy",
+        "slug": "/healthrenewal/display_product?product=AP"
+      },
+      {
+        "name": "Intimate Claim",
+        "slug": "/claim/claims-intimation"
+      },
+      {
+        "name": "Policy Download",
+        "slug": "/policyprint/healthpolicyothers"
+      }
+    ]
+  },
+  {
+    "key": "retail-health",
+    "productName": "Retail Health Insurance Policy",
+    "buttons": [
+      {
+        "name": "Buy Policy",
+        "slug": "/healthinsurance/display_page/type/retail"
+      },
+      {
+        "name": "Renew Policy",
+        "slug": "/healthrenewal/display_product?product=RH"
+      },
+      {
+        "name": "Intimate Claim",
+        "slug": "/claim/claims-intimation"
+      },
+      {
+        "name": "Policy Download",
+        "slug": "/policyprint/healthpolicyothers"
+      }
+    ]
+  },
+  {
+    "key": "critical-illness-insurance",
+    "productName": "Critical Illness Insurance Policy",
+    "buttons": [
+      {
+        "name": "Buy Policy",
+        "slug": "https://secure.sbigeneral.in/SBIGTP/criticalillness"
+      },
+      {
+        "name": "Renew Policy",
+        "slug": "/healthrenewal/display_product?product=CI"
+      },
+      {
+        "name": "Intimate Claim",
+        "slug": "/claim/claims-intimation"
+      },
+      {
+        "name": "Policy Download",
+        "slug": "/policyprint/healthpolicyothers"
+      }
+    ]
+  },
+  {
+    "key": "hospital-daily-cash",
+    "productName": "Hospital Daily Cash Insurance Policy",
+    "buttons": [
+      {
+        "name": "Buy Policy",
+        "slug": "https://secure.sbigeneral.in/SBIGTP/hdc"
+      },
+      {
+        "name": "Renew Policy",
+        "slug": "/healthrenewal/display_product?product=HDC"
+      },
+      {
+        "name": "Intimate Claim",
+        "slug": "/claim/claims-intimation"
+      },
+      {
+        "name": "Policy Download",
+        "slug": "/policyprint/healthpolicyothers"
+      }
+    ]
+  },
+  {
+    "key": "arogya-plus-policy",
+    "productName": "Arogya Plus Policy",
+    "buttons": [
+      {
+        "name": "Buy Policy",
+        "slug": "/healthinsurancePlus/display_page"
+      },
+      {
+        "name": "Renew Policy",
+        "slug": "/healthrenewal/display_product?product=APL"
+      },
+      {
+        "name": "Intimate Claim",
+        "slug": "/claim/claims-intimation"
+      },
+      {
+        "name": "Policy Download",
+        "slug": "/policyprint/healthpolicyothers"
+      }
+    ]
+  },
+  {
+    "key": "arogya-topup-policy",
+    "productName": "Arogya Top Up Policy",
+    "buttons": [
+      {
+        "name": "Buy Policy",
+        "slug": "/arogyatopup/display"
+      },
+      {
+        "name": "Renew Policy",
+        "slug": "/healthrenewal/display_product?product=AT"
+      },
+      {
+        "name": "Intimate Claim",
+        "slug": "/claim/claims-intimation"
+      },
+      {
+        "name": "Policy Download",
+        "slug": "/policyprint/healthpolicyothers"
+      }
+    ]
+  },
+  {
+    "key": "arogya-sanjeevani-policy",
+    "productName": "Arogya Sanjeevani Policy, SBI General Insurance Company Limited",
+    "buttons": [
+      {
+        "name": "Buy Policy",
+        "slug": "/arogyasanjeevani/display_page"
+      }
+    ]
+  },
+  {
+    "key": "travel-insurance",
+    "productName": "Travel Insurance (Business and Holiday)",
+    "buttons": [
+      {
+        "name": "Buy Policy",
+        "slug": "/travel/display_page"
+      },
+      {
+        "name": "Intimate Claim",
+        "slug": "/claim/claims-intimation"
+      },
+      {
+        "name": "Policy Download",
+        "slug": "/policyprint/others"
+      }
+    ]
+  }
+]

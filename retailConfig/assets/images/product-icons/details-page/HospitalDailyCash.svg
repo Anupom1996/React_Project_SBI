@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="83" height="72.069" viewBox="0 0 83 72.069">
+  <g id="hospital" transform="translate(0 -33.714)">
+    <path id="Path_18209" data-name="Path 18209" d="M17.029,168.773H0v50.175H17.029Zm-5.778,32.838H5.778v-4.863h5.473Zm0-10.946H5.778V185.8h5.473ZM5.778,179.719v-4.863h5.473v4.863Z" transform="translate(0 -113.165)" fill="#fff"/>
+    <path id="Path_18210" data-name="Path 18210" d="M406.954,218.948h17.029V168.773H406.954Zm5.778-44.092h5.473v4.863h-5.473Zm0,10.946h5.473v4.863h-5.473Zm5.473,10.946v4.863h-5.473v-4.863Z" transform="translate(-340.983 -113.165)" fill="#fff"/>
+    <path id="Path_18211" data-name="Path 18211" d="M203.477,438.865h6.083v6.39h-6.083Z" transform="translate(-170.492 -339.472)" fill="#fff"/>
+    <path id="Path_18212" data-name="Path 18212" d="M271,438.865h6.083v6.39H271Z" transform="translate(-227.068 -339.472)" fill="#fff"/>
+    <path id="Path_18213" data-name="Path 18213" d="M135.046,105.783h6.23V94.53h26.755v11.254h6.23V33.714H135.046ZM157.39,88.447h-5.473V83.583h5.473Zm0-10.946h-5.473V72.637h5.473Zm0-10.946h-5.473V61.691h5.473Zm10.946,21.892h-5.473V83.583h5.473Zm0-10.946h-5.473V72.637h5.473Zm0-10.946h-5.473V61.691h5.473ZM146.444,45.279h5.778V39.5h4.863v5.778h5.778v4.863h-5.778V55.92h-4.863V50.142h-5.778Zm-5.473,16.413h5.473v4.863h-5.473Zm0,10.946h5.473V77.5h-5.473Zm0,10.946h5.473v4.863h-5.473Z" transform="translate(-113.154)" fill="#fff"/>
+  </g>
+</svg>

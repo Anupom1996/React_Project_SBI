@@ -1,0 +1,2432 @@
+[
+    {
+        "key": "default",
+        "related_data": [
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>Personal <span>Accident</span></p>"
+            },
+            {
+                "resource_icon": "zero-depreciation-icon.svg",
+                "label": "Zero <span>Depreciation</span>"
+            },
+            {
+                "resource_icon": "ncb-protection-icon.svg",
+                "label": "<p>NCB <span>Protection</span></p>"
+            },
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p>Return to <span>Invoice</span></p>"
+            },
+            {
+                "resource_icon": "belongings-icon.svg",
+                "label": "<p>Loss of Personal <span>Belongings</span></p>"
+            },
+            {
+                "resource_icon": "bi-fule-icon.svg",
+                "label": "<p>Bi-Fuel <span>Kit</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "two-wheeler-insurance",
+        "related_data": [
+            {
+                "resource_icon": "accidental-damage-icon.svg",
+                "label": "<p>Accidental Damage <span>to Vehicle</span></p>"
+            },
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p>Third Party <span> Liability</span></p>"
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>Personal Accident <span>to Owner Driver</span></p>"
+            },
+            {
+                "resource_icon": "ncb-protection-icon.svg",
+                "label": "<p>No Claim <span>Bonus</span></p>"
+            },
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p>Add on: <span>Return to Invoice</span></p>"
+            },
+            {
+                "resource_icon": "add-on-covers-icon.svg",
+                "label": "<p>Add on: <span>Protection of NCB</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "motor-act-only-two-wheeler-insurance",
+        "related_data": [
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p>Third Party Liability <span> for 5 Years</span></p>"
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>Personal Accident <span>to Individual Owner</span></p>"
+            },
+            {
+                "resource_icon": "no-annual-renewal-icon.svg",
+                "label": "<p>No Annual <span>Renewal</span></p>"
+            },
+            {
+                "resource_icon": "long-term-policy-icon.svg",
+                "label": "<p>Long-Term <span>Policy </span></p>"
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>PA Cover <span>to Pillion Rider</span></p>"
+            },
+            {
+                "resource_icon": "bi-fule-icon.svg",
+                "label": "<p>Bi-Fuel <span>Kit</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "private-car-insurance",
+        "related_data": [
+            {
+                "resource_icon": "accidental-damage-icon.svg",
+                "label": "<p>Accidental Damage <span>to Vehicle</span></p>"
+            },
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p>Third Party <span>Liability</span></p>"
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>Personal Accident <span>to Owner Driver</span></p>"
+            },
+            {
+                "resource_icon": "ncb-protection-icon.svg",
+                "label": "<p>No Claim <span>Bonus</span></p>"
+            },
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p>Add on: <span>Return to Invoice</span></p>"
+            },
+            {
+                "resource_icon": "zero-depreciation-icon.svg",
+                "label": "<p>Add on: <span>Depreciation Reimbursement</span></p>"
+            },
+            {
+                "resource_icon": "addons-motor-icon.svg",
+                "label": "<p>Add on: <span>Engine Guard</span></p>"
+            },
+            {
+                "resource_icon": "road-side-assistance.svg",
+                "label": "<p>Add on: <span>Road Side Assistance</span></p>"
+            },
+            {
+                "resource_icon": "wide-covarage-icon.svg",
+                "label": "<p>Add on: <span>Cover for Consumables</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "long-term-two-wheeler-insurance",
+        "related_data": [
+            {
+                "resource_icon": "accidental-damage-icon.svg",
+                "label": "<p>Accidental Damage <span>to Vehicle</span></p>"
+            },
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p>Third Party Liability <span>for 2 / 3 Years</span></p>"
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>Personal Accident <span>to Owner Driver</span></p>"
+            },
+            {
+                "resource_icon": "no-annual-renewal-icon.svg",
+                "label": "<p>No Annual <span>Renewal</span></p>"
+            },
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p>Add on: <span>Return to Invoice</span></p>"
+            },
+            {
+                "resource_icon": "add-on-covers-icon.svg",
+                "label": "<p>Add on: <span>Protection of NCB</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "motor-act-only-private-car-insurance",
+        "related_data": [
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p>Third Party Liability <span>for 3 Years</span></p>"
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>Personal Accident <span>to Individual Owner</span></p>"
+            },
+            {
+                "resource_icon": "no-annual-renewal-icon.svg",
+                "label": "<p>No Annual <span>Renewal</span></p>"
+            },
+            {
+                "resource_icon": "bi-fule-icon.svg",
+                "label": "<p>Bi-Fuel <span>Kit</span></p>"
+            },
+            {
+                "resource_icon": "liability-for-paid-driver-icon.svg",
+                "label": "<p>Legal Liability <span>to Paid Driver</span></p>"
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>PA Cover <span>to Passenger</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "long-term-home-insurance",
+        "related_data": [
+            {
+                "resource_icon": "impact-damage-icon.svg",
+                "label": "<p>Structure <span>Cover</span></p>"
+            },
+            {
+                "resource_icon": "earthquake-icon.svg",
+                "label": "<p>Earthquake</p>"
+            },
+            {
+                "resource_icon": "floods-icon.svg",
+                "label": "<p>Flood</p>"
+            },
+            {
+                "resource_icon": "storm-cyclone-icon.svg",
+                "label": "<p>Storm</p>"
+            },
+            {
+                "resource_icon": "riot-and-strike-icon.svg",
+                "label": "<p>Riot & strike</p>"
+            },
+            {
+                "resource_icon": "malicious-damage-icon.svg",
+                "label": "<p>Malicious <span>Damage</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "simple-home-insurance",
+        "related_data": [
+            {
+                "resource_icon": "impact-damage-icon.svg",
+                "label": "<p>Structure & Content Cover</p>"
+            },
+            {
+                "resource_icon": "burglary-icon.svg",
+                "label": "<p>Burglary & Theft <span>of Content</span></p>"
+            },
+            {
+                "resource_icon": "earthquake-icon.svg",
+                "label": "<p>Breakdown Cover</p>"
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>Personal  <span>Accident</span></p>"
+            },
+            {
+                "resource_icon": "all-risk-cover-icon.svg",
+                "label": "<p>All Risk <span>Cover</span></p>"
+            },
+            {
+                "resource_icon": "key-replacement-icon.svg",
+                "label": "<p>Key  <span>Replacement</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "individual-pa-insurance",
+        "related_data": [
+            {
+                "resource_icon": "accidental-death-icon.svg",
+                "label": "<p>Accidental <span>Death</span></p>"
+            },
+            {
+                "resource_icon": "permanent-total-disability-icon.svg",
+                "label": "<p>Permanent Total  <span>Disability </span></p>"
+            },
+            {
+                "resource_icon": "add-on-covers-icon.svg",
+                "label": "<p>Add-on <span>Covers</span></p>"
+            },
+            {
+                "resource_icon": "cumulative-bonus-icon.svg",
+                "label": "<p>Cumulative  <span>Bonus</span></p>"
+            },
+            {
+                "resource_icon": "no-medical-cost-icon.svg",
+                "label": "<p>No Medical <span>Test</span></p>"
+            },
+            {
+                "resource_icon": "comprehensive-protection-icon.svg",
+                "label": "<p>Comprehensive  <span>Coverage</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "arogya-premier-policy",
+        "related_data": [
+            {
+                "resource_icon": "no-medical-cost-icon.svg",
+                "label": "<p>No Medical Check-up <span>upto 55 Years</span></p>"
+            },
+            {
+                "resource_icon": "no-sub-limits-icon.svg",
+                "label": "<p>AYUSH Cover</p>"
+            },
+            {
+                "resource_icon": "cumulative-bonus-icon.svg",
+                "label": "<p>Cumulative  <span>Bonus</span></p>"
+            },
+            {
+                "resource_icon": "exempt-from-icon.svg",
+                "label": "<p>Tax Exemption  <span>Sec 80D</span></p>"
+            },
+            {
+                "resource_icon": "pre-and-post-hospitalisation-expenses-icon.svg",
+                "label": "<p>Pre and Post Hospitalisation <span>Expenses</span></p>"
+            },
+            {
+                "resource_icon": "domiciliary-hospitalisation-icon.svg",
+                "label": "<p>Domiciliary  <span>Hospitalisation</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "retail-health",
+        "related_data": [
+            {
+                "resource_icon": "wide-covarage-icon.svg",
+                "label": "<p>Wide <span>Coverage</span></p>"
+            },
+            {
+                "resource_icon": "no-medical-check-up-icon.svg",
+                "label": "<p>No Medical Check-up<span>upto 45 Years </span></p>"
+            },
+            {
+                "resource_icon": "coverage-for-entire-family-icon.svg",
+                "label": "<p>Coverage for Entire  <span>Family</span></p>"
+            },
+            {
+                "resource_icon": "exempt-from-icon.svg",
+                "label": "<p>Tax Exemption  <span>Sec 80D</span></p>"
+            },
+            {
+                "resource_icon": "pre-and-post-hospitalisation-expenses-icon.svg",
+                "label": "<p>Pre and Post Hospitalisation <span>Expenses</span></p>"
+            },
+            {
+                "resource_icon": "nursing-expenses-icon.svg",
+                "label": "<p>Nursing  <span>Expenses</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "group-health-insurance",
+        "related_data": [
+            {
+                "resource_icon": "wide-covarage-icon.svg",
+                "label": "<p>Wide <span>Coverage</span></p>"
+            },
+            {
+                "resource_icon": "no-medical-check-up-icon.svg",
+                "label": "<p>No Medical Check-up<span>upto 65 Years </span></p>"
+            },
+            {
+                "resource_icon": "coverage-for-entire-family-icon.svg",
+                "label": "<p>Coverage for Entire  <span>Family</span></p>"
+            },
+            {
+                "resource_icon": "exempt-from-icon.svg",
+                "label": "<p>Tax Exemption:  <span>Sec 80D</span></p>"
+            },
+            {
+                "resource_icon": "pre-and-post-hospitalisation-expenses-icon.svg",
+                "label": "<p>Pre and Post Hospitalisation <span>Expenses</span></p>"
+            },
+            {
+                "resource_icon": "nursing-expenses-icon.svg",
+                "label": "<p>Nursing  <span>Expenses</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "critical-illness-insurance",
+        "related_data": [
+            {
+                "resource_icon": "critical-illness-icon.svg",
+                "label": "<p>13 Critical Illnesses</p>"
+            },
+            {
+                "resource_icon": "no-medical-check-up-icon.svg",
+                "label": "<p>No Medical Check-up upto 45 Years</p>"
+            },
+            {
+                "resource_icon": "entry-age-icon.svg",
+                "label": "<p>Entry Age upto 65 years</p>"
+            },
+            {
+                "resource_icon": "exempt-from-icon.svg",
+                "label": "<p>Tax Exemption: <span>Sec 80D</span></p>"
+            },
+            {
+                "resource_icon": "multiple-plan-options-icon.svg",
+                "label": "<p>Multiple Plan Options</p>"
+            },
+            {
+                "resource_icon": "free-lock-period-icon.svg",
+                "label": "<p>15 Days' Free-Look Period</p>"
+            }
+        ]
+    },
+    {
+        "key": "hospital-daily-cash",
+        "related_data": [
+            {
+                "resource_icon": "daily-cash-benefit-icon.svg",
+                "label": "<p>Daily Cash <span>Benefit</span></p>"
+            },
+            {
+                "resource_icon": "no-medical-check-up-icon.svg",
+                "label": "<p>No Medical Check-up<span>upto 45 Years </span></p>"
+            },
+            {
+                "resource_icon": "convalescence-expenses-icon.svg",
+                "label": "<p>Convalescence  <span>Expenses</span></p>"
+            },
+            {
+                "resource_icon": "exempt-from-icon.svg",
+                "label": "<p>Tax Exemption:  <span>Sec 80D</span></p>"
+            },
+            {
+                "resource_icon": "multiple-plan-options-icon.svg",
+                "label": "<p>Multiple Plan <span>Options</span></p>"
+            },
+            {
+                "resource_icon": "entry-age-icon.svg",
+                "label": "<p>Entry Age upto <span>65 years</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "loan-insurance",
+        "related_data": [
+            {
+                "resource_icon": "critical-illness-icon.svg",
+                "label": "<p>Critical <span>Illness</span></p>"
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>Personal <span>Accident</span></p>"
+            },
+            {
+                "resource_icon": "loss-of-job.svg",
+                "label": "<p>Loss <span>of Job</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "group-loan-insurance",
+        "related_data": [
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>Personal <span>Accident</span></p>"
+            },
+            {
+                "resource_icon": "critical-illness-icon.svg",
+                "label": "<p>Critical <span>Illness</span></p>"
+            },
+            {
+                "resource_icon": "pre-and-post-hospitalisation-expenses-icon.svg",
+                "label": "<p>Admission Benefit - <span>Accidental Hospitalization</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "arogya-plus-policy",
+        "related_data": [
+            {
+                "resource_icon": "outpatient-treatment-icon.svg",
+                "label": "<p>Outpatient <span>Treatment</span></p>"
+            },
+            {
+                "resource_icon": "no-medical-check-up-icon.svg",
+                "label": "<p>No Medical Check-up<span>upto 55 Years </span></p>"
+            },
+            {
+                "resource_icon": "pre-and-post-hospitalisation-expenses-icon.svg",
+                "label": "<p>Pre and Post Hospitalisation <span>coverage</span></p>"
+            },
+            {
+                "resource_icon": "exempt-from-icon.svg",
+                "label": "<p>Tax Exemption:  <span>Sec 80D</span></p>"
+            },
+            {
+                "resource_icon": "multiple-coverages-icon.svg",
+                "label": "<p>Multiple <span>Coverages</span></p>"
+            },
+            {
+                "resource_icon": "coverage-for-entire-family-icon.svg",
+                "label": "<p>Coverage for Entire  <span>Family</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "arogya-topup-policy",
+        "related_data": [
+            {
+                "resource_icon": "wide-covarage-icon.svg",
+                "label": "<p>Wide <span>Coverage</span></p>"
+            },
+            {
+                "resource_icon": "no-medical-check-up-icon.svg",
+                "label": "<p>No Medical Check-up<span>upto 55 Years </span></p>"
+            },
+            {
+                "resource_icon": "pre-and-post-hospitalisation-expenses-icon.svg",
+                "label": "<p>Pre and Post Hospitalisation <span>coverage</span></p>"
+            },
+            {
+                "resource_icon": "exempt-from-icon.svg",
+                "label": "<p>Tax Exemption:  <span>Sec 80D</span></p>"
+            },
+            {
+                "resource_icon": "multiple-coverages-icon.svg",
+                "label": "<p>Multiple <span>Coverages</span></p>"
+            },
+            {
+                "resource_icon": "nursing-expenses-icon.svg",
+                "label": "<p>Nursing  <span>Charges</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "arogya-sanjeevani-policy",
+        "related_data": [
+            {
+                "resource_icon": "no-medical-cost-icon.svg",
+                "label": "<p>No Medical Check-up <span>upto 55 years</span></p>"
+            },
+            {
+                "resource_icon": "pre-and-post-hospitalisation-expenses-icon.svg",
+                "label": "<p>Pre and Post Hospitalization Coverage</p>"
+            },
+            {
+                "resource_icon": "exempt-from-icon.svg",
+                "label": "<p>Tax Exemption: <span>Sec 80D</span></p>"
+            },
+            {
+                "resource_icon": "coverage-for-entire-family-icon.svg",
+                "label": "<p>Coverage for Entire Family</p>"
+            },
+            {
+                "resource_icon": "nursing-expenses-icon.svg",
+                "label": "<p>Nursing &amp; ICU Expenses</p>"
+            },
+            {
+                "resource_icon": "ayush-coverage-icon.svg",
+                "label": "<p>AYUSH coverage</p>"
+            }
+        ]
+    },
+    {
+        "key": "travel-insurance",
+        "related_data": [
+            {
+                "resource_icon": "comprehensive-protection-icon.svg",
+                "label": "<p>Comprehensive <span>Coverage</span></p>"
+            },
+            {
+                "resource_icon": "worldwide-protection-icon.svg",
+                "label": "<p>Worldwide <span>Protection</span></p>"
+            },
+            {
+                "resource_icon": "round-assistance-icon.svg",
+                "label": "<p>Round the clock <span>assistance</span></p>"
+            },
+            {
+                "resource_icon": "easy-claims-settlement-icon.svg",
+                "label": "<p>Easy Claims  <span>Settlement</span></p>"
+            },
+            {
+                "resource_icon": "single-multi-trip-icon.svg",
+                "label": "<p>Single/ Multi-trip</p>"
+            },
+            {
+                "resource_icon": "travel-support-icon.svg",
+                "label": "<p>Travel Support</p>"
+            }
+        ]
+    },
+    {
+        "key": "money-insurance",
+        "related_data": [
+            {
+                "resource_icon": "money-cover-icon.svg",
+                "label": "<p>Cover for Money <span>in Transit</span></p>"
+            },
+            {
+                "resource_icon": "cover-for-money-in-safe-icon.svg",
+                "label": "<p>Cover for Money <span>in Safe</span></p>"
+            },
+            {
+                "resource_icon": "premises-and-products-icon.svg",
+                "label": "<p>Cover for Money <span>in Premises</span></p>"
+            },
+            {
+                "resource_icon": "theft-cover-icon.svg",
+                "label": "<p>Cover for Injury  <span>during Theft</span></p>"
+            },
+            {
+                "resource_icon": "bank-holiday-increase-icon.svg",
+                "label": "<p>Bank Holiday <span>Increase in SI</span></p>"
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>Fast, Fair and Transparent <span>Claims Process </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "plate-glass-insurance",
+        "related_data": [
+            {
+                "resource_icon": "malicious-damage-icon.svg",
+                "label": "<p>Accidental Breakage <span>of Glass</span></p>"
+            },
+            {
+                "resource_icon": "riot-and-strike-icon.svg",
+                "label": "<p>Riot Strike and Malicious <span>Damage Cover</span></p>"
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>Fast, Fair and Transparent <span>Claims Process </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "burglary-insurance",
+        "related_data": [
+            {
+                "resource_icon": "damage-to-personal-belongings-icon.svg",
+                "label": "<p>Damage to Personal <span>Belongings</span></p>"
+            },
+            {
+                "resource_icon": "damage-to-safe-strong-room-icon.svg",
+                "label": "<p>Damage to  <span>Safe / Strong Room</span></p>"
+            },
+            {
+                "resource_icon": "theft-cover-icon.svg",
+                "label": "<p>Theft Cover</p>"
+            },
+            {
+                "resource_icon": "automatic-reinstatement-of-sum-insured-icon.svg",
+                "label": "<p>Automatic Reinstatement of  <span>SI Feature</span></p>"
+            },
+            {
+                "resource_icon": "lump-sum-benefit-icon.svg",
+                "label": "<p>Lump Sum Benefit <span>for Death / Injury </span></p>"
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>Fast, Fair and Transparent <span>Claims Process </span></p>"
+            }
+        ]
+    },
+    {
+        "key": "commercial-motor-insurance",
+        "related_data": [
+            {
+                "resource_icon": "accidental-damage-icon.svg",
+                "label": "<p>Accidental Damage  <span>to Vehicle</span></p>"
+            },
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p>Third Party <span>Liability</span></p>"
+            },
+            {
+                "resource_icon": "liability-for-paid-driver-icon.svg",
+                "label": "<p>Personal Accident to <span>Owner Driver</span></p>"
+            },
+            {
+                "resource_icon": "ncb-protection-icon.svg",
+                "label": "<p>No claim <span>Bonus</span></p>"
+            },
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p>Add on: <span>Return to Invoice</span></p>"
+            },
+            {
+                "resource_icon": "depreciation-reimbursement-icon.svg",
+                "label": "<p>Add on: Depreciation  <span>Reimbursement</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "tractor-and-other-farm-vehicle-insurance",
+        "related_data": [
+            {
+                "resource_icon": "accidental-damage-icon.svg",
+                "label": "<p>Accidental Damage  <span>to Vehicle</span></p>"
+            },
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p>Third Party <span>Liability</span></p>"
+            },
+            {
+                "resource_icon": "liability-for-paid-driver-icon.svg",
+                "label": "<p>Personal Accident to <span>Owner Driver</span></p>"
+            },
+            {
+                "resource_icon": "ncb-protection-icon.svg",
+                "label": "<p>No Claim <span>Bonus</span></p>"
+            },
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p>Add on: <span>Return to Invoice</span></p>"
+            },
+            {
+                "resource_icon": "depreciation-reimbursement-icon.svg",
+                "label": "<p>Add on: Depreciation  <span>Reimbursement</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "group-personal-accident-insurance",
+        "related_data": [
+            {
+                "resource_icon": "accidental-death-icon.svg",
+                "label": "<p>Accidental <span>Death</span></p>"
+            },
+            {
+                "resource_icon": "entry-age-icon.svg",
+                "label": "Entry Age <span>upto 65 years</span>"
+            }
+        ]
+    },
+    {
+        "key": "group-health-insurance-C",
+        "related_data": [
+            {
+                "resource_icon": "medical-coverage-icon.svg",
+                "label": "<p>Medical  <span>Expenses</span></p>"
+            },
+            {
+                "resource_icon": "day-care-expenses-icon.svg",
+                "label": "Day Care <span>Expenses</span>"
+            },
+            {
+                "resource_icon": "pre-and-post-hospitalisation-expenses-icon.svg",
+                "label": "<p>Pre and Post hospitalisation <span>coverage</span></p>"
+            },
+            {
+                "resource_icon": "domiciliary-hospitalisation-icon.svg",
+                "label": "<p>Domiciliary <span>Hospitalisation</span></p>"
+            },
+            {
+                "resource_icon": "pre-existing-diseases-icon.svg",
+                "label": "<p>Pre-existing <span>Diseases</span></p>"
+            },
+            {
+                "resource_icon": "coverage-for-entire-family-icon.svg",
+                "label": "<p>Coverage for  <span>Entire Family</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "standard-fire-and-special-perils-insurances",
+        "related_data": [
+            {
+                "resource_icon": "named-perils-cover-icon.svg",
+                "label": "<p>Named Perils <span>Cover</span></p>"
+            },
+            {
+                "resource_icon": "declaration-floater-cover-for-stocks-icon.svg",
+                "label": "<p>Declaration / Floater / Floater Declaration <span>Cover for Stocks</span></p>"
+            },
+            {
+                "resource_icon": "earthquake-icon.svg",
+                "label": "<p>Earthquake <span>(Fire and Shock)</span></p>"
+            },
+            {
+                "resource_icon": "automatic-reinstatement-of-sum-insured-icon.svg",
+                "label": "<p>Cover on Reinstatement /  <span>Market Value basis</span></p>"
+            },
+            {
+                "resource_icon": "various-add-on-covers-icon.svg",
+                "label": "<p>Various Add On <span>Covers</span></p>"
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>Fast, Fair and Transparent <span>Claims Process</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "consequential-loss-fire-insurance",
+        "related_data": [
+            {
+                "resource_icon": "loss-or-damage-icon.svg",
+                "label": "<p>Cover for loss <span>of Gross Profit</span></p>"
+            },
+            {
+                "resource_icon": "customers-suppliers-extension-icon.svg",
+                "label": "<p>Customers / Suppliers  <span>Extension</span></p>"
+            },
+            {
+                "resource_icon": "cover-for-wages-icon.svg",
+                "label": "<p>Cover for<span>Wages</span></p>"
+            },
+            {
+                "resource_icon": "cover-for-increased-cost-of-working-icon.svg",
+                "label": "<p>Cover for Increased <span>cost of working</span></p>"
+            },
+            {
+                "resource_icon": "lay-off-retrenchmen-cover-icon.svg",
+                "label": "<p>Lay off/ Retrenchmen <span>Cover</span></p>"
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>Fast, Fair and Transparent <span>Claims Process</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "marine-cargo-insurance",
+        "related_data": [
+            {
+                "resource_icon": "impact-damage-icon.svg",
+                "label": "<p>Impact <span>Damage</span></p>"
+            },
+            {
+                "resource_icon": "arcraft-damage-icon.svg",
+                "label": "<p>Aircraft <span>Damage</span></p>"
+            },
+            {
+                "resource_icon": "earthquake-icon.svg",
+                "label": "<p>Earthquake <span>(Fire and Shock)</span></p>"
+            },
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p>Flexible  <span>Plan</span></p>"
+            },
+            {
+                "resource_icon": "malicious-damage-icon.svg",
+                "label": "<p>Malicious <span>Damage</span></p>"
+            },
+            {
+                "resource_icon": "storm-cyclone-icon.svg",
+                "label": "<p>Storm, Cyclone, <span>Typhoon</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "industrial-all-risks-insurance",
+        "related_data": [
+            {
+                "resource_icon": "all-risk-cover-icon.svg",
+                "label": "<p>All Risk <span>(Named Exclusion) Cover</span></p>"
+            },
+            {
+                "resource_icon": "material-icon.svg",
+                "label": "<p>Two Sections – Material Damage <span>and Business Interruption</span></p>"
+            },
+            {
+                "resource_icon": "riv-basis-of-valuation-icon.svg",
+                "label": "<p>RIV basis of valuation <span>(Other than stocks)</span></p>"
+            },
+            {
+                "resource_icon": "machinery-breakdown-icon.svg",
+                "label": "<p>Inbuilt cover for <span>machinery breakdown</span></p>"
+            },
+            {
+                "resource_icon": "all-risk-cover-icon.svg",
+                "label": "<p>Cover for Transit Risk<span>within compound</span></p>"
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>Fast, Fair and Transparent <span>Claims Process</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "business-package-insurance",
+        "related_data": [
+            {
+                "resource_icon": "package-cover-for-12-sections-icon.svg",
+                "label": "<p>Package Cover for <span>12 Sections</span></p>"
+            },
+            {
+                "resource_icon": "fire-icon.svg",
+                "label": "<p>Fire Compulsory and <span>other sections optional</span></p>"
+            },
+            {
+                "resource_icon": "long-term-policy-icon.svg",
+                "label": "<p>Single Policy Document  <span>for all sections covered</span></p>"
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>Fast, Fair and Transparent <span>Claims Process</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "latent-defects-insurance-policy",
+        "related_data": [
+            {
+                "resource_icon": "first-party-policy-icon.svg",
+                "label": "<p>First Party <span>Policy</span></p>"
+            },
+            {
+                "resource_icon": "assignable-policy-icon.svg",
+                "label": "<p>Assignable Policy</p>"
+            },
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p>Technical inspection <span>conducted</span></p>"
+            },
+            {
+                "resource_icon": "add-on-covers-icon.svg",
+                "label": "<p>Add-ons offered</span></p>"
+            },
+            {
+                "resource_icon": "policy-tenure-icon.svg",
+                "label": "<p>5  years policy <span>tenure</span></p>"
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>Fast, Fair and Transparent <span>Claims Process</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "electronic-equipment-insurance",
+        "related_data": [
+            {
+                "resource_icon": "coverage-of-electronic-equipment-icon.svg",
+                "label": "<p>Coverage of Electronic <span>Equipment's</span></p>"
+            },
+            {
+                "resource_icon": "software-cover-icon.svg",
+                "label": "<p>Coverage to related <span>Systems Software</span></p>"
+            },
+            {
+                "resource_icon": "cover-for-increased-cost-of-working-icon.svg",
+                "label": "<p>Coverage for increased <span>cost of working</span></p>"
+            },
+            {
+                "resource_icon": "multiple-coverages-icon.svg",
+                "label": "<p>Equipment's can be <span>selected for coverage</span></p>"
+            },
+            {
+                "resource_icon": "loss-or-damage-icon.svg",
+                "label": "<p>Covers physical loss or damage <span>caused to equipment's </span></p>"
+            },
+            {
+                "resource_icon": "data-breach-icon.svg",
+                "label": "<p>Coverage to <span>Data Media</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "contractors-all-risk-insurance",
+        "related_data": [
+            {
+                "resource_icon": "comprehensive-protection-icon.svg",
+                "label": "<p>Comprehensive <span>Insurance cover</span></p>"
+            },
+            {
+                "resource_icon": "covers-civil-engineering-projects-icon.svg",
+                "label": "<p>Covers Civil <span>engineering projects</span></p>"
+            },
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p>Third Party <span>Liability cover</span></p>"
+            },
+            {
+                "resource_icon": "various-add-on-covers-icon.svg",
+                "label": "<p>Various add-ons  <span>offered</span></p>"
+            },
+            {
+                "resource_icon": "maintenance-cover-icon.svg",
+                "label": "<p>Maintenance <span>cover</span></p>"
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>Fast, Fair and Transparent <span>Claims Process</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "erection-all-risks-insurance",
+        "related_data": [
+            {
+                "resource_icon": "comprehensive-protection-icon.svg",
+                "label": "<p>Comprehensive <span>Insurance cover</span></p>"
+            },
+            {
+                "resource_icon": "covers-civil-engineering-projects-icon.svg",
+                "label": "<p>Covers Machinery <span>Erection works</span></p>"
+            },
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p>Third Party <span>Liability cover</span></p>"
+            },
+            {
+                "resource_icon": "various-add-on-covers-icon.svg",
+                "label": "<p>Various add-ons  <span>offered</span></p>"
+            },
+            {
+                "resource_icon": "maintenance-cover-icon.svg",
+                "label": "<p>Maintenance <span>cover</span></p>"
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>Fast, Fair and Transparent <span>Claims Process</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "contractors-plant-machinery",
+        "related_data": [
+            {
+                "resource_icon": "comprehensive-protection-icon.svg",
+                "label": "<p>Comprehensive <span>Insurance cover</span></p>"
+            },
+            {
+                "resource_icon": "unforeseen-loss-or-damage-icon.svg",
+                "label": "<p>Covers unforeseen loss or damage <span>to insured equipment</span></p>"
+            },
+            {
+                "resource_icon": "policy-obtained-by-principal-contractor-sub-contractor-icon.svg",
+                "label": "<p>Policy obtained by Principal/ <span>Contractor/Sub-contractor</span></p>"
+            },
+            {
+                "resource_icon": "multiple-plan-options-icon.svg",
+                "label": "<p>Equipment's can be  <span>selected for coverage</span></p>"
+            },
+            {
+                "resource_icon": "multiple-location-cover-icon.svg",
+                "label": "<p>Multiple <span>location cover</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "machinery-breakdown-insurance",
+        "related_data": [
+            {
+                "resource_icon": "comprehensive-protection-icon.svg",
+                "label": "<p>Comprehensive <span>Insurance cover</span></p>"
+            },
+            {
+                "resource_icon": "machinery-breakdown-icon.svg",
+                "label": "<p>Covers breakdown of machinery <span>when in use / at rest</span></p>"
+            },
+            {
+                "resource_icon": "selection-of-machinery-icon.svg",
+                "label": "<p>Selection of<span>machinery allowed</span></p>"
+            },
+            {
+                "resource_icon": "multiple-plan-options-icon.svg",
+                "label": "<p>Equipment's can be  <span>selected for coverage</span></p>"
+            },
+            {
+                "resource_icon": "multiple-location-cover-icon.svg",
+                "label": "<p>Location based <span>cover</span></p>"
+            },
+            {
+                "resource_icon": "various-add-on-covers-icon.svg",
+                "label": "<p>Various add-ons <span>offered</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "boiler-pressure-plant-insurance",
+        "related_data": [
+            {
+                "resource_icon": "protection-offered-to-boilers-other-pressure-plants-icon.svg",
+                "label": "<p>Protection offered to <span>Boilers and other Pressure Plants</span></p>"
+            },
+            {
+                "resource_icon": "property-damage-icon.svg",
+                "label": "<p>Surrounding <span>property cover</span></p>"
+            },
+            {
+                "resource_icon": "accidental-death-icon.svg",
+                "label": "<p>Covers against the <span>accidental death or injury</span></p>"
+            },
+            {
+                "resource_icon": "loss-or-damage-icon.svg",
+                "label": "<p>Specific expenses incurred due <span>to loss or damage to the insured items</span></p>"
+            },
+            {
+                "resource_icon": "various-add-on-covers-icon.svg",
+                "label": "<p>Various add-ons  <span>offered</span></p>"
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>Fast, Fair and Transparent <span>Claims Process</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "consequential-loss-machinery-breakdown",
+        "related_data": [
+            {
+                "resource_icon": "business-damage-icon.svg",
+                "label": "<p>Loss due to business <span>interruption covered</span></p>"
+            },
+            {
+                "resource_icon": "standing-charges-paid-icon.svg",
+                "label": "<p>Standing <span>charges paid</span></p>"
+            },
+            {
+                "resource_icon": "loss-of-net-profit-icon.svg",
+                "label": "<p>Makes good loss <span>of net profit</span></p>"
+            },
+            {
+                "resource_icon": "customers-suppliers-extension-icon.svg",
+                "label": "<p>Suppliers <span>Extension</span></p>"
+            },
+            {
+                "resource_icon": "customers-suppliers-extension-icon.svg",
+                "label": "<p>Customers <span>Extension</span></p>"
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>Fast, Fair and Transparent <span>Claims Process</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "directors-and-officers",
+        "related_data": [
+            {
+                "resource_icon": "legal-expenses-icon.svg",
+                "label": "<p>Legal <span>Expenses</span></p>"
+            },
+            {
+                "resource_icon": "past-present-and-future-directors-icon.svg",
+                "label": "<p>Past, Present and Future <span>Directors</span></p>"
+            },
+            {
+                "resource_icon": "worldwide-protection-icon.svg",
+                "label": "<p>Worldwide <span>cover</span></p>"
+            },
+            {
+                "resource_icon": "entity-coverage-icon.svg",
+                "label": "<p>Entity <span>coverage</span></p>"
+            },
+            {
+                "resource_icon": "director-crisis-communication-icon.svg",
+                "label": "<p>Crisis  <span>Communication</span></p>"
+            },
+            {
+                "resource_icon": "outside-directorship-coverage-icon.svg",
+                "label": "<p>Outside <span>Directorship Coverage</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "motor-commercial-trailer",
+        "related_data": [
+            {
+                "resource_icon": "accidental-damage-icon.svg",
+                "label": "<p>Accidental Damage <span>to Vehicle</span></p>"
+            },
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p>Third Party <span>Liability</span></p>"
+            },
+            {
+                "resource_icon": "multiple-plan-options-icon.svg",
+                "label": "<p>Multiple <span>Trailer Cover</span></p>"
+            },
+            {
+                "resource_icon": "ncb-protection-icon.svg",
+                "label": "<p>No claim <span>Bonus</span></p>"
+            },
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p>Add on: Return <span>to Invoice</span></p>"
+            },
+            {
+                "resource_icon": "depreciation-reimbursement-icon.svg",
+                "label": "<p>Add on: Depreciation <span>Reimbursement</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "errors-and-omissions",
+        "related_data": [
+            {
+                "resource_icon": "legal-liability-icon.svg",
+                "label": "<p>Legal Liability</p>"
+            },
+            {
+                "resource_icon": "cover-for-joint-ventures-icon.svg",
+                "label": "<p>Cover for <span>Joint Ventures</span></p>"
+            },
+            {
+                "resource_icon": "subsidiary-cover-icon.svg",
+                "label": "<p>Subsidiaries &amp; Managed <span>Organizations </span></p>"
+            },
+            {
+                "resource_icon": "ncb-protection-icon.svg",
+                "label": "<p>IPR Infringement</p>"
+            },
+            {
+                "resource_icon": "legal-liability-icon.svg",
+                "label": "<p>Court Attendance <span>costs</span></p>"
+            },
+            {
+                "resource_icon": "data-breach-icon.svg",
+                "label": "<p>Breach of contract, <span>breach of confidentiality</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "pradhan-mantri-fasal-bima-yojna",
+        "related_data": [
+            {
+                "resource_icon": "fire-icon.svg",
+                "label": "<p>Fire</p>"
+            },
+            {
+                "resource_icon": "floods-icon.svg",
+                "label": "<p>Floods</p>"
+            },
+            {
+                "resource_icon": "earthquake-icon.svg",
+                "label": "<p>Earthquake</p>"
+            },
+            {
+                "resource_icon": "drought-icon.svg",
+                "label": "<p>Drought</p>"
+            },
+            {
+                "resource_icon": "storm-cyclone-icon.svg",
+                "label": "<p>Storm, Cyclone, <span>Typhoon</span></p>"
+            },
+            {
+                "resource_icon": "landslides-icon.svg",
+                "label": "<p>Landslides</p>"
+            }
+        ]
+    },
+    {
+        "key": "sign-board",
+        "related_data": [
+            {
+                "resource_icon": "hoardings-glow-neon-signs-icon.svg",
+                "label": "<p>Cover to hoardings &amp; <span>Glow/Neon signs</span></p>"
+            },
+            {
+                "resource_icon": "material-icon.svg",
+                "label": "<p>Cover for<span>Material Damage</span></p>"
+            },
+            {
+                "resource_icon": "declaration-floater-cover-for-stocks-icon.svg",
+                "label": "<p>Floater Option</p>"
+            },
+            {
+                "resource_icon": "market-value-basis-of-si-icon.svg",
+                "label": "<p>Market Value<span>basis of SI</span></p>"
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>Fast, Fair and Transparent <span>Claims Process</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "national-agriculture-insurance",
+        "related_data": [
+            {
+                "resource_icon": "fire-icon.svg",
+                "label": "<p>Fire</p>"
+            },
+            {
+                "resource_icon": "floods-icon.svg",
+                "label": "<p>Floods</p>"
+            },
+            {
+                "resource_icon": "earthquake-icon.svg",
+                "label": "<p>Earthquake</p>"
+            },
+            {
+                "resource_icon": "drought-icon.svg",
+                "label": "<p>Drought</p>"
+            },
+            {
+                "resource_icon": "storm-cyclone-icon.svg",
+                "label": "<p>Storm, Cyclone, <span>Typhoon</span></p>"
+            },
+            {
+                "resource_icon": "landslides-icon.svg",
+                "label": "<p>Landslides</p>"
+            }
+        ]
+    },
+    {
+        "key": "motor-act-only",
+        "related_data": [
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p>Third Party <span>Liability</span></p>"
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>Personal <span>Accident to Owner</span></p>"
+            },
+            {
+                "resource_icon": "bi-fule-icon.svg",
+                "label": "<p>Bi-Fuel <span>Kit</span></p>"
+            },
+            {
+                "resource_icon": "natural-calamities-icon.svg",
+                "label": "<p>Natural  <span>Calamities</span></p>"
+            },
+            {
+                "resource_icon": "liability-for-paid-driver-icon.svg",
+                "label": "<p>Liability for <span>Paid Driver</span></p>"
+            },
+            {
+                "resource_icon": "no-annual-renewal-icon.svg",
+                "label": "<p>PA to <span>Paid Driver</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "event-cancellation",
+        "related_data": [
+            {
+                "resource_icon": "cancellation-icon.svg",
+                "label": "<p>Cancellation</p>"
+            },
+            {
+                "resource_icon": "abandonment-icon.svg",
+                "label": "<p>Abandonment</p>"
+            },
+            {
+                "resource_icon": "postponement-icon.svg",
+                "label": "<p>Postponement</p>"
+            },
+            {
+                "resource_icon": "interruption-icon.svg",
+                "label": "<p>Interruption</p>"
+            },
+            {
+                "resource_icon": "relocation-icon.svg",
+                "label": "<p>Relocation</p>"
+            },
+            {
+                "resource_icon": "legal-liability-icon.svg",
+                "label": "<p>Legal Liability</p>"
+            }
+        ]
+    },
+    {
+        "key": "event-cancellation",
+        "related_data": [
+            {
+                "resource_icon": "risk-management-icon.svg",
+                "label": "<p>Commercial Risk</p>"
+            },
+            {
+                "resource_icon": "risk-management-icon.svg",
+                "label": "<p>Political Risk</p>"
+            }
+        ]
+    },
+    {
+        "key": "aviation-hull-package",
+        "related_data": [
+            {
+                "resource_icon": "loss-or-damage-icon.svg",
+                "label": "<p>Loss or damage</p>"
+            },
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p>Third Party <span>Liability</span></p>"
+            },
+            {
+                "resource_icon": "legal-liability-icon.svg",
+                "label": "<p>Legal <span>Liability</span></p>"
+            },
+            {
+                "resource_icon": "hijacking-icon.svg",
+                "label": "<p>Hi-jacking</p>"
+            },
+            {
+                "resource_icon": "premises-and-products-icon.svg",
+                "label": "<p>Premises and <span>Products</span></p>"
+            },
+            {
+                "resource_icon": "permanent-total-disability-icon.svg",
+                "label": "<p>Permanent/Total <span>Disability</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "sme-package",
+        "related_data": [
+            {
+                "resource_icon": "package-cover-for-12-sections-icon.svg",
+                "label": "<p>Package Cover <span>(2 sections)</span></p>"
+            },
+            {
+                "resource_icon": "fire-and-burglary-cover-icon.svg",
+                "label": "<p>Fire and Burglary <span>Cover</span></p>"
+            },
+            {
+                "resource_icon": "market-value-basis-of-si-icon.svg",
+                "label": "<p>RIV and MV <span>basis of SI</span></p>"
+            },
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p>Single policy document  <span>for both Sections</span></p>"
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>Fast, Fair and Transparent <span>Claims Process</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "broadform-liability",
+        "related_data": [
+            {
+                "resource_icon": "occurrence-trigger-icon.svg",
+                "label": "<p>Occurrence trigger</p>"
+            },
+            {
+                "resource_icon": "legal-expenses-icon.svg",
+                "label": "<p>Legal costs – <span>Costs in Addition</span></p>"
+            },
+            {
+                "resource_icon": "recall-expenses.svg",
+                "label": "<p>Recall Cost &amp; <span>Expenses extension</span></p>"
+            },
+            {
+                "resource_icon": "product-hazard-icon.svg",
+                "label": "<p>Product E&amp;O  <span> extension</span></p>"
+            },
+            {
+                "resource_icon": "broader-named-insured-icon.svg",
+                "label": "<p>Broader  <span>Named Insured</span></p>"
+            },
+            {
+                "resource_icon": "terrorism-icon.svg",
+                "label": "<p>Terrorism  <span>Liability extension</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "product-liability",
+        "related_data": [
+            {
+                "resource_icon": "legal-liability-icon.svg",
+                "label": "<p>Legal <span>Liability</span></p>"
+            },
+            {
+                "resource_icon": "property-damage-icon.svg",
+                "label": "<p>Bodily Injury / Property <span>damage to Third party</span></p>"
+            },
+            {
+                "resource_icon": "compensation-award-defence-costs-icon.svg",
+                "label": "<p>Compensation / Award <span>and Defence costs</span></p>"
+            },
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p>Vendor <span>cover</span></p>"
+            },
+            {
+                "resource_icon": "machinery-icon.svg",
+                "label": "<p>Technical <span>collaborator extension</span></p>"
+            },
+            {
+                "resource_icon": "worldwide-protection-icon.svg",
+                "label": "<p>Worldwide <span>coverage option</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "cellular-network",
+        "related_data": [
+            {
+                "resource_icon": "material-icon.svg",
+                "label": "<p>Material <span>Damage</span></p>"
+            },
+            {
+                "resource_icon": "software-cover-icon.svg",
+                "label": "<p>Software <span>Cover</span></p>"
+            },
+            {
+                "resource_icon": "business-damage-icon.svg",
+                "label": "<p>Business <span>Interruption</span></p>"
+            },
+            {
+                "resource_icon": "loss-or-damage-icon.svg",
+                "label": "<p>Loss of Profit</p>"
+            },
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p>Third Party <span>Liability</span></p>"
+            },
+            {
+                "resource_icon": "marine-cargo-icon.svg",
+                "label": "<p>Marine  <span>Cargo</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "advance-lossof-profit",
+        "related_data": [
+            {
+                "resource_icon": "all-risk-cover-icon.svg",
+                "label": "<p>Given in conjunction <span>with EAR/CAR</span></p>"
+            },
+            {
+                "resource_icon": "loss-of-net-profit-icon.svg",
+                "label": "<p>Loss of Gross <span>Profit</span></p>"
+            },
+            {
+                "resource_icon": "cover-for-increased-cost-of-working-icon.svg",
+                "label": "<p>Increased cost <span>of working</span></p>"
+            },
+            {
+                "resource_icon": "annual-gross-profit-icon.svg",
+                "label": "<p>Annual Gross <span>Profit</span></p>"
+            },
+            {
+                "resource_icon": "time-excess-icon.svg",
+                "label": "<p>Time Excess</p>"
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>Fast, Fair and Transparent <span>Claims Process</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "clinical-trial-professional-liability",
+        "related_data": [
+            {
+                "resource_icon": "material-icon.svg",
+                "label": "<p>Material <span>Damage Cover</span></p>"
+            },
+            {
+                "resource_icon": "damage-to-personal-belongings-icon.svg",
+                "label": "<p>Personal <span>Damage Cover</span></p>"
+            },
+            {
+                "resource_icon": "compensation-award-defence-costs-icon.svg",
+                "label": "<p>Compensation</p>"
+            },
+            {
+                "resource_icon": "evaluations-and-reports-icon.svg",
+                "label": "<p>Evaluations and<span>Reports Costs</span></p>"
+            },
+            {
+                "resource_icon": "default-interest-icon.svg",
+                "label": "<p>Default <span>Interest</span></p>"
+            },
+            {
+                "resource_icon": "legal-liability-icon.svg",
+                "label": "<p>Legal <span>Liability</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "cyber-defense-insurance",
+        "related_data": [
+            {
+                "resource_icon": "worldwide-protection-icon.svg",
+                "label": "<p>Worldwide <span>Cover</span></p>"
+            },
+            {
+                "resource_icon": "privacy-protection-icon.svg",
+                "label": "<p>Privacy <span>Protection</span></p>"
+            },
+            {
+                "resource_icon": "brand-personal-reputation-cover-icon.svg",
+                "label": "<p>Brand / Personal <span>reputation cover</span></p>"
+            },
+            {
+                "resource_icon": "multimedia-liability-icon.svg",
+                "label": "<p>Multimedia <span>Liability</span></p>"
+            },
+            {
+                "resource_icon": "round-assistance-icon.svg",
+                "label": "<p>Incident Management <span>claim services – 24X7</span></p>"
+            },
+            {
+                "resource_icon": "business-damage-icon.svg",
+                "label": "<p>Business  <span>Interruption</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "public-liability",
+        "related_data": [
+            {
+                "resource_icon": "property-damage-icon.svg",
+                "label": "<p>Third Party Bodily <span>Injury /property damage cover</span></p>"
+            },
+            {
+                "resource_icon": "legal-liability-icon.svg",
+                "label": "<p>Legal <span>Liability</span></p>"
+            },
+            {
+                "resource_icon": "named-perils-cover-icon.svg",
+                "label": "<p>Cover for <span>AOG perils</span></p>"
+            },
+            {
+                "resource_icon": "transportation-liability-icon.svg",
+                "label": "<p>Transportation <span>Liability</span></p>"
+            },
+            {
+                "resource_icon": "food-and-beverages-liability-icon.svg",
+                "label": "<p>Food &amp; Beverages <span>Liability</span></p>"
+            },
+            {
+                "resource_icon": "lift-elevator-escalator-liability-icon.svg",
+                "label": "<p>Lift, Elevator, <span>Escalator Liability</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "baggage-insurance",
+        "related_data": [
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p>Policy on <span>Agreed Value Basis</span></p>"
+            },
+            {
+                "resource_icon": "belongings-icon.svg",
+                "label": "<p>Loss/Damage to <span>accompanied Personal Baggage</span></p>"
+            },
+            {
+                "resource_icon": "worldwide-protection-icon.svg",
+                "label": "<p>India / Worldwide Cover</p>"
+            },
+            {
+                "resource_icon": "fire-icon.svg",
+                "label": "<p>Cover for Fire /<span>Theft / Accident</span></p>"
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>Fast, Fair and Transparent <span>Claims Process</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "portable-electronic-equipment",
+        "related_data": [
+            {
+                "resource_icon": "all-risk-cover-icon.svg",
+                "label": "<p>All Risk <span>policy</span></p>"
+            },
+            {
+                "resource_icon": "coverage-of-electronic-equipment-icon.svg",
+                "label": "<p>Covers Portable <span>Electronic Equipment's</span></p>"
+            },
+            {
+                "resource_icon": "software-cover-icon.svg",
+                "label": "<p>Cover for System <span>Software</span></p>"
+            },
+            {
+                "resource_icon": "physical-loss-icon.svg",
+                "label": "<p>Indemnifies physical loss  <span>or damage to property</span></p>"
+            },
+            {
+                "resource_icon": "worldwide-protection-icon.svg",
+                "label": "<p>World wide <span>coverage</span></p>"
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>Fast, Fair and Transparent <span>Claims Process</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "mega-risk",
+        "related_data": [
+            {
+                "resource_icon": "property-damage-icon.svg",
+                "label": "<p>Property  <span>cover</span></p>"
+            },
+            {
+                "resource_icon": "variable-sum-insured-icon.svg",
+                "label": "<p>Insurances for total sum insured of <span>Rs.2,500 crores or more at one location </span></p>"
+            },
+            {
+                "resource_icon": "all-risk-cover-icon.svg",
+                "label": "<p>All Risk <span>cover</span></p>"
+            },
+            {
+                "resource_icon": "various-add-on-covers-icon.svg",
+                "label": "<p>Various <span>add-ons offered</span></p>"
+            },
+            {
+                "resource_icon": "asset-insurance-icon.svg",
+                "label": "<p>Re-insurance <span>driven product</span></p>"
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>Fast, Fair and Transparent <span>Claims Process</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "port-package",
+        "related_data": [
+            {
+                "resource_icon": "comprehensive-protection-icon.svg",
+                "label": "<p>Comprehensive <span>Coverage</span></p>"
+            },
+            {
+                "resource_icon": "commercial-risks-icon.svg",
+                "label": "<p>Commercial <span>Risks</span></p>"
+            },
+            {
+                "resource_icon": "environmental-risks-icon.svg",
+                "label": "<p>Environmental <span>Risks</span></p>"
+            },
+            {
+                "resource_icon": "operational-risks-icon.svg",
+                "label": "<p>Operational <span>Risks</span></p>"
+            },
+            {
+                "resource_icon": "marine-cargo-icon.svg",
+                "label": "<p>Damage to<span>Vessel</span></p>"
+            },
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p>Flexible <span>Coverage</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "marine-delay-start",
+        "related_data": [
+            {
+                "resource_icon": "impact-damage-icon.svg",
+                "label": "<p>Impact <span>Damage</span></p>"
+            },
+            {
+                "resource_icon": "arcraft-damage-icon.svg",
+                "label": "<p>Aircraft <span>Damage</span></p>"
+            },
+            {
+                "resource_icon": "earthquake-icon.svg",
+                "label": "<p>Earthquake <span>(Fire and Shock)</span></p>"
+            },
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p>Flexible  <span>Plan</span></p>"
+            },
+            {
+                "resource_icon": "malicious-damage-icon.svg",
+                "label": "<p>Malicious <span>Damage</span></p>"
+            },
+            {
+                "resource_icon": "storm-cyclone-icon.svg",
+                "label": "<p>Storm, Cyclone, <span>Typhoon</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "motor-trade-transit-risks",
+        "related_data": [
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p>Third Party <span>Liability</span></p>"
+            },
+            {
+                "resource_icon": "loss-or-damage-icon.svg",
+                "label": "<p>Loss or <span>Damage to vehicle</span></p>"
+            },
+            {
+                "resource_icon": "earthquake-icon.svg",
+                "label": "<p>Earthquake <span>(Fire and Shock)</span></p>"
+            },
+            {
+                "resource_icon": "malicious-damage-icon.svg",
+                "label": "<p>Malicious <span>Damage</span></p>"
+            },
+            {
+                "resource_icon": "storm-cyclone-icon.svg",
+                "label": "<p>Storm, Cyclone, <span>Typhoon</span></p>"
+            },
+            {
+                "resource_icon": "liability-for-paid-driver-icon.svg",
+                "label": "<p>Legal Liability <span>to Paid Driver</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "all-risk-insurance",
+        "related_data": [
+            {
+                "resource_icon": "all-risk-cover-icon.svg",
+                "label": "<p>Cover for All Risk subject to exclusions</p>"
+            },
+            {
+                "resource_icon": "riv-basis-of-valuation-icon.svg",
+                "label": "<p>RIV / MV basis<span>of Indemnity</span></p>"
+            },
+            {
+                "resource_icon": "fast-fair-and-transparent-claims-process-icon.svg",
+                "label": "<p>Fast, Fair and Transparent <span>Claims Process</span></p>"
+            },
+            {
+                "resource_icon": "worldwide-protection-icon.svg",
+                "label": "<p>Coverage  <span>worldwide</span></p>"
+            },
+            {
+                "resource_icon": "portable-item-cover-icon.svg",
+                "label": "<p>Any kind of portable <span>item can be insured</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "clinical-trial-no-fault",
+        "related_data": [
+            {
+                "resource_icon": "medical-expenses-icon.svg",
+                "label": "<p>Medical <span>Expenses</span></p>"
+            },
+            {
+                "resource_icon": "bodily-injury-icon.svg",
+                "label": "<p>Death /Bodily <span>injury cover</span></p>"
+            },
+            {
+                "resource_icon": "money-cover-icon.svg",
+                "label": "<p>Compensation</p>"
+            },
+            {
+                "resource_icon": "legal-costs-icon.svg",
+                "label": "<p>Legal Costs</p>"
+            },
+            {
+                "resource_icon": "ethics-committee-icon.svg",
+                "label": "<p>Cover for Ethics committee</p>"
+            },
+            {
+                "resource_icon": "no-fault-liability-icon.svg",
+                "label": "<p>No Fault Liability</p>"
+            }
+        ]
+    },
+    {
+        "key": "employees-compensation-ec",
+        "related_data": [
+            {
+                "resource_icon": "medical-expenses-icon.svg",
+                "label": "<p>Medical <span>Expenses</span></p>"
+            },
+            {
+                "resource_icon": "occupational-disease-icon.svg",
+                "label": "<p>Occupational <span>Disease</span></p>"
+            },
+            {
+                "resource_icon": "contractor-sub-icon.svg",
+                "label": "<p>Contractors & Subcontractors inclusion</p>"
+            },
+            {
+                "resource_icon": "legal-liability-icon.svg",
+                "label": "<p>Legal Liability</p>"
+            },
+            {
+                "resource_icon": "benefit-cover-icon.svg",
+                "label": "<p>Benefit cover <span>per EC act</span></p>"
+            },
+            {
+                "resource_icon": "indemnity-cover-icon.svg",
+                "label": "<p>Indemnity cover <span>to Principals</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "motor-trade-road-risks",
+        "related_data": [
+            {
+                "resource_icon": "loss-or-damage-icon.svg",
+                "label": "<p>Loss or Damage <span>to vehicle</span></p>"
+            },
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p>Third Party <span>Liability</span></p>"
+            },
+            {
+                "resource_icon": "legal-liability-icon.svg",
+                "label": "<p>Legal <span>Liability</span></p>"
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>Personal <span>Accident</span></p>"
+            },
+            {
+                "resource_icon": "earthquake-icon.svg",
+                "label": "<p>Earthquake</p>"
+            },
+            {
+                "resource_icon": "storm-cyclone-typhoon-icon.svg",
+                "label": "<p>Storm, Cyclone,<span>Typhoon</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "public-liability-act",
+        "related_data": [
+            {
+                "resource_icon": "transportation-liability-icon.svg",
+                "label": "<p>Transportation <span>Liability</span></p>"
+            },
+            {
+                "resource_icon": "nil-deductible-cover-icon.svg",
+                "label": "<p>Nil Deductible <span>Cover</span></p>"
+            },
+            {
+                "resource_icon": "india-only-cover.svg",
+                "label": "<p>India Only <span>Cover</span></p>"
+            },
+            {
+                "resource_icon": "property-damage-icon.svg",
+                "label": "<p>Property <span>Damage</span></p>"
+            },
+            {
+                "resource_icon": "bodily-injury-icon.svg",
+                "label": "<p>Bodily <span>Injury</span></p>"
+            },
+            {
+                "resource_icon": "no-fault-liability-icon.svg",
+                "label": "<p>No Fault <span>Liability</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "kidnap-ransom-and-extortion",
+        "related_data": [
+            {
+                "resource_icon": "kidnapping-icon.svg",
+                "label": "<p>Kidnapping</p>"
+            },
+            {
+                "resource_icon": "extortion-icon.svg",
+                "label": "<p>Extortion</p>"
+            },
+            {
+                "resource_icon": "detention-icon.svg",
+                "label": "<p>Detention</p>"
+            },
+            {
+                "resource_icon": "hijacking-icon.svg",
+                "label": "<p>Hijacking</p>"
+            },
+            {
+                "resource_icon": "legal-liability-icon.svg",
+                "label": "<p>Legal <span>Liability</span></p>"
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>Personal <span>Accident</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "commercial-general-liability",
+        "related_data": [
+            {
+                "resource_icon": "product-hazard-icon.svg",
+                "label": "<p>Products &amp; completed operations</p>"
+            },
+            {
+                "resource_icon": "premises-hazard-icon.svg",
+                "label": "<p>Premises / General Liability</p>"
+            },
+            {
+                "resource_icon": "legal-liability-icon.svg",
+                "label": "<p>Tenants Legal <span>Liability</span></p>"
+            },
+            {
+                "resource_icon": "medical-expenses-icon.svg",
+                "label": "<p>Medical <span>Expenses</span></p>"
+            },
+            {
+                "resource_icon": "subsidiary-cover-icon.svg",
+                "label": "<p>Subsidiaries <span>cover</span></p>"
+            },
+            {
+                "resource_icon": "transportation-liability-icon.svg",
+                "label": "<p>Transportation <span>Liability</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "motor-trade-internal-risks",
+        "related_data": [
+            {
+                "resource_icon": "loss-or-damage-icon.svg",
+                "label": "<p>Loss or <span>Damage</span></p>"
+            },
+            {
+                "resource_icon": "third-party-liability-icon.svg",
+                "label": "<p>Third Party <span>Liability</span></p>"
+            },
+            {
+                "resource_icon": "legal-liability-icon.svg",
+                "label": "<p>Legal <span>Liability</span></p>"
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>Personal <span>Accident</span></p>"
+            },
+            {
+                "resource_icon": "earthquake-icon.svg",
+                "label": "<p>Earthquake</p>"
+            },
+            {
+                "resource_icon": "storm-cyclone-typhoon-icon.svg",
+                "label": "<p>Storm, Cyclone, <span>Typhoon</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "fidelity-guarantee",
+        "related_data": [
+            {
+                "resource_icon": "fraud-icon.svg",
+                "label": "<p>Fraud</p>"
+            },
+            {
+                "resource_icon": "automatic-reinstatement-icon.svg",
+                "label": "<p>Automatic <span>Reinstatement option</span></p>"
+            },
+            {
+                "resource_icon": "claim-preparation-cost-audit-fees-icon.svg",
+                "label": "<p>Claims Preparation <span>Costs & Audit Fees</span></p>"
+            },
+            {
+                "resource_icon": "dishonesty-icon.svg",
+                "label": "<p>Dishonesty</p>"
+            },
+            {
+                "resource_icon": "cost-rectify-icon.svg",
+                "label": "<p>Cost of rectifying accounting / computer records extension</p>"
+            },
+            {
+                "resource_icon": "forgery-icon.svg",
+                "label": "<p>Fraudulent use of credit / debit card extension</p>"
+            }
+        ]
+    },
+    {
+        "key": "oil-energy",
+        "related_data": [
+            {
+                "resource_icon": "impact-damage-icon.svg",
+                "label": "<p>Impact <span>Damage</span></p>"
+            },
+            {
+                "resource_icon": "arcraft-damage-icon.svg",
+                "label": "<p>Aircraft <span>Damage</span></p>"
+            },
+            {
+                "resource_icon": "earthquake-icon.svg",
+                "label": "<p>Earthquake <span>(Fire and Shock)</span></p>"
+            },
+            {
+                "resource_icon": "flexible-plan-icon.svg",
+                "label": "<p>Flexible  <span>Plan</span></p>"
+            },
+            {
+                "resource_icon": "malicious-damage-icon.svg",
+                "label": "<p>Malicious <span>Damage</span></p>"
+            },
+            {
+                "resource_icon": "storm-cyclone-icon.svg",
+                "label": "<p>Storm Cyclone <span>Typhoon</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "agriculture-pumpset-insurance-policy",
+        "related_data": [
+            {
+                "resource_icon": "fire-icon.svg",
+                "label": "<p>Fire / Lightning</p>"
+            },
+            {
+                "resource_icon": "mechanical-breakdown-icon.svg",
+                "label": "<p>Mechanical  <span>Breakdown</span></p>"
+            },
+            {
+                "resource_icon": "burglary-icon.svg",
+                "label": "<p>Theft/Burglary</p>"
+            },
+            {
+                "resource_icon": "malicious-damage-ap-icon.svg",
+                "label": "<p>Malicious <span>Damage</span></p>"
+            },
+            {
+                "resource_icon": "earthquake-icon.svg",
+                "label": "<p>Earthquake</p>"
+            },
+            {
+                "resource_icon": "riot-and-strike-icon.svg",
+                "label": "<p>Riot/Strike</p>"
+            }
+        ]
+    },
+    {
+        "key": "cattle-insurance-policy",
+        "related_data": [
+            {
+                "resource_icon": "disease.svg",
+                "label": "<p>Disease</p>"
+            },
+            {
+                "resource_icon": "accident-icon.svg",
+                "label": "<p>Accident</p>"
+            },
+            {
+                "resource_icon": "fire-icon.svg",
+                "label": "<p>Fire</p>"
+            },
+            {
+                "resource_icon": "storm-cyclone-typhoon-icon.svg",
+                "label": "<p>Storm/Cyclone/Flood</p>"
+            },
+            {
+                "resource_icon": "surgical-operations-icon.svg",
+                "label": "<p>Surgical <span>Operations</span></p>"
+            },
+            {
+                "resource_icon": "famine-icon.svg",
+                "label": "<p>Famine</p>"
+            }
+        ]
+    },
+    {
+        "key": "micro-insurance-policy",
+        "related_data": [
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>Personal <span>Accident</span></p>"
+            },
+            {
+                "resource_icon": "hospital-daily-cash-icon.svg",
+                "label": "<p>Hospital <span>Daily Cash</span></p>"
+            },
+            {
+                "resource_icon": "asset-insurance-icon.svg",
+                "label": "<p>Asset <span>Insurance</span></p>"
+            },
+            {
+                "resource_icon": "critical-illness-icon.svg",
+                "label": "<p>Critical <span>Illness</span></p>"
+            },
+            {
+                "resource_icon": "burglary-icon.svg",
+                "label": "<p>Burglary</p>"
+            },
+            {
+                "resource_icon": "housebreaking.svg",
+                "label": "<p>Housebreaking</p>"
+            }
+        ]
+    },
+    {
+        "key": "sheep-goat-insurance-policy",
+        "related_data": [
+            {
+                "resource_icon": "disease.svg",
+                "label": "<p>Disease</p>"
+            },
+            {
+                "resource_icon": "accident-icon.svg",
+                "label": "<p>Accident</p>"
+            },
+            {
+                "resource_icon": "fire-icon.svg",
+                "label": "<p>Fire</p>"
+            },
+            {
+                "resource_icon": "storm-cyclone-typhoon-icon.svg",
+                "label": "<p>Storm/Cyclone/Flood</p>"
+            },
+            {
+                "resource_icon": "surgical-operations-icon.svg",
+                "label": "<p>Surgical <span>Operations</span></p>"
+            },
+            {
+                "resource_icon": "famine-icon.svg",
+                "label": "<p>Famine</p>"
+            }
+        ]
+    },
+    {
+        "key": "shagun",
+        "related_data": [
+            {
+                "resource_icon": "permanent-total-disability-icon.svg",
+                "label": "<p>Permanent Total<span>Disablement</span></p>"
+            },
+            {
+                "resource_icon": "benefit-cover-icon.svg",
+                "label": "<p>Education Benefit</p>"
+            },
+            {
+                "resource_icon": "wide-covarage-icon.svg",
+                "label": "<p>Ambulance Cover</p>"
+            }
+        ]
+    },
+    {
+        "key": "covid-kavach",
+        "related_data": [
+            {
+                "resource_icon": "wide-covarage-icon.svg",
+                "label": "<p>Covid-19<span>cover</span></p>"
+            },
+            {
+                "resource_icon": "no-medical-check-up-icon.svg",
+                "label": "<p>No Medical Check-Up</p>"
+            },
+            {
+                "resource_icon": "exempt-from-icon.svg",
+                "label": "<p>Tax Exemption  <span>Sec 80D</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "corona-rakshak",
+        "related_data": [
+            {
+                "resource_icon": "wide-covarage-icon.svg",
+                "label": "<p>Covid-19<span>cover</span></p>"
+            },
+            {
+                "resource_icon": "no-medical-check-up-icon.svg",
+                "label": "<p>No Medical Check-Up</p>"
+            },
+            {
+                "resource_icon": "exempt-from-icon.svg",
+                "label": "<p>Tax Exemption  <span>Sec 80D</span></p>"
+            }
+        ]
+    },
+    {
+        "key": "arogya-sanjeevani-group-policy",
+        "related_data": [
+          {
+            "resource_icon": "no-medical-cost-icon.svg",
+            "label": "<p>No Medical Check-up <span>upto 45 years for people with no medical history</span></p>"
+          },
+            {
+                "resource_icon": "pre-and-post-hospitalisation-expenses-icon.svg",
+                "label": "<p>Pre and Post Hospitalization Coverage</p>"
+            },
+            {
+                "resource_icon": "exempt-from-icon.svg",
+                "label": "<p>Tax Exemption: <span>Sec 80D</span></p>"
+            },
+            {
+                "resource_icon": "coverage-for-entire-family-icon.svg",
+                "label": "<p>Coverage for Entire Family</p>"
+            },
+            {
+                "resource_icon": "nursing-expenses-icon.svg",
+                "label": "<p>Nursing &amp; ICU Expenses</p>"
+            },
+            {
+                "resource_icon": "ayush-coverage-icon.svg",
+                "label": "<p>AYUSH coverage</p>"
+            }
+        ]
+    },
+    {
+        "key": "vector-borne-disease-cover",
+        "related_data": [
+            {
+                "resource_icon": "wide-covarage-icon.svg",
+                "label": "<p>Cover for 7 Vector Borne Diseases</p>"
+            },
+            {
+                "resource_icon": "daily-cash-benefit-icon.svg",
+                "label": "<p>Daily Hospital Cash Benefit (Optional)</p>"
+            },
+            {
+                "resource_icon": "lump-sum-benefit-icon.svg",
+                "label": "<p>Recovery Benefit (Optional)</p>"
+            },
+            {
+                "resource_icon": "automatic-reinstatement-icon.svg",
+                "label": "<p>Reinstatement Benefit (Optional)</p>"
+            }
+        ]
+    },
+    {
+        "key": "gramin-samriddhi-bima",
+        "related_data": [
+            {
+                "resource_icon": "fire-icon.svg",
+                "label": "<p>Building, Content &amp; Agricultural Items <span>Covered due to Fire &amp; Allied Perils</span></p>"
+            },
+            {
+                "resource_icon": "burglary-icon.svg",
+                "label": "<p>Burglary and Theft of <span>Contents and Agricultural Items</span></p>"
+            },
+            {
+                "resource_icon": "personal-accident-icon.svg",
+                "label": "<p>Personal Accident <span>Cover</span></p>"
+            },
+            {
+                "resource_icon": "forgery-icon.svg",
+                "label": "<p>Pedal Cycle Cover</p>"
+            },
+            {
+                "resource_icon": "default-interest-icon.svg",
+                "label": "<p>Tractor/ Power Tillers/ Harvesters</p>"
+            }
+        ]
+    },
+    {
+      "key": "bharat-griha-raksha",
+      "related_data": [
+        {
+          "resource_icon": "Home-Structure-Cover.svg",
+          "label": "<p>Home Structure Cover</p>"
+        },
+        {
+          "resource_icon": "Cover-for-Owners-Tenants-Landlords.svg",
+          "label": "<p>Cover for Owners, Tenants & Landlords</p>"
+        },
+        {
+          "resource_icon": "Policy-Tenure-1-to-10-years.svg",
+          "label": "<p>Policy Tenure – 1 to 10 years</p>"
+        },
+        {
+          "resource_icon": "Cover-for-Loss-of-Rent.svg",
+          "label": "<p>Cover for Loss of Rent </p>"
+        },
+        {
+          "resource_icon": "Optional-coverage-for-valuables.svg",
+          "label": "<p>Optional coverage for valuables</p>"
+        },
+        {
+          "resource_icon": "Optional-Personal-Accident-Cover-for-Insured-and-Spouse.svg",
+          "label": "<p>Optional Personal Accident Cover for Insured and Spouse</p>"
+        }
+      ]
+    },
+    {
+      "key": "bharat-laghu-udyam-suraksha",
+      "related_data": [
+        {
+          "resource_icon": "Coverage-for-buildings-plant-machinery-furniture-fixtures-and-stocks.svg",
+          "label": "<p>Coverage for buildings, plant & machinery, furniture fixtures and stocks</p>"
+        },
+        {
+          "resource_icon": "Coverage-against-earthquake.svg",
+          "label": "<p>Coverage against earthquake</p>"
+        },
+        {
+          "resource_icon": "Coverage-against-acts-of-terrorism.svg",
+          "label": "<p>Coverage against acts of terrorism</p>"
+        },
+        {
+          "resource_icon": "Floater-and-Declaration-cover-for-stocks.svg",
+          "label": "<p>Floater and Declaration cover for stocks</p>"
+        }
+      ]
+    },
+    {
+      "key": "arogya-supreme",
+      "related_data": [
+        {
+          "resource_icon": "In-patient-Hospitalization-Treatment.svg",
+          "label": "<p>In-patient Hospitalization Treatment</p>"
+        },
+        {
+          "resource_icon": "Mental-Healthcare.svg",
+          "label": "<p>Coverage for Mental Healthcare</p>"
+        },
+        {
+          "resource_icon": "HIV-AIDS-Cover.svg",
+          "label": "<p> Coverage for HIV / AIDS Cover</p>"
+        },
+        {
+          "resource_icon": "Coverage-for-Genetic-Disorder.svg",
+          "label": "<p>Coverage for Genetic Disorder </p>"
+        },
+        {
+          "resource_icon": "Organ-Donor-Expenses.svg",
+          "label": "<p>Coverage for Organ Donor Expenses</p>"
+        },
+        {
+          "resource_icon": "Domestic-Emergency-Assistance-Services.svg",
+          "label": "<p>Domestic Emergency Assistance Services (including Air Ambulance)</p>"
+        }
+      ]
+    },
+    {
+      "key": "bharat-sookshma-udyam-suraksha",
+      "related_data": [
+        {
+          "resource_icon": "Coverage-for-buildings-plant-machinery-furniture-fixtures-and-stocks.svg",
+          "label": "<p>Coverage for buildings, plant & machinery, furniture fixtures and stocks</p>"
+        },
+        {
+          "resource_icon": "Coverage-against-earthquake.svg",
+          "label": "<p>Coverage against earthquake</p>"
+        },
+        {
+          "resource_icon": "Coverage-against-acts-of-terrorism.svg",
+          "label": "<p>Coverage against acts of terrorism</p>"
+        },
+        {
+          "resource_icon": "Floater-and-Declaration-cover-for-stocks.svg",
+          "label": "<p>Floater and Declaration cover for stocks</p>"
+        }
+      ]
+    }
+    ,
+    {
+      "key": "saral-suraksha-bima",
+      "related_data": [
+        {
+          "resource_icon": "For-people-between-18-and-70-years-of-age.svg",
+          "label": "<p>For people between 18 and 70 years of age</p>"
+        },
+        {
+          "resource_icon": "Dependent-children-aged-3-months-to-25-years.svg",
+          "label": "<p>Dependent children aged 3 months to 25 years</p>"
+        },
+        {
+          "resource_icon": "accidental-death-icon.svg",
+          "label": "<p>Coverage for accidental death</p>"
+        },
+        {
+          "resource_icon": "Coverage-for-permanent-total-and-permanent-partial-disablement.svg",
+          "label": "<p>Coverage for permanent total and permanent partial disablement</p>"
+        },
+        {
+          "resource_icon": "Optional-Cover-for-Temporary-Total-Disablement-Hospitalisation-Expenses-Education-grant.svg",
+          "label": "<p>Optional Cover for Temporary Total Disablement / Hospitalisation Expenses / Education grant</p>"
+        }
+      ]
+    }
+]

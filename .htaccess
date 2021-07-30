@@ -1,0 +1,4 @@
+RewriteEngine on
+
+Redirect 301 /home-insurance/long-term-home-insurance http://localhost:3001/portal/product
+Redirect 301 /home-insurance/simple-home-insurance https://www.sbigeneral.in/portal/product

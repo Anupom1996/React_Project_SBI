@@ -1,0 +1,11 @@
+RewriteEngine on
+
+# Don't rewrite requests for real files or directories
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Match the entire query string value, this gets put into %1
+RewriteCond %{QUERY_STRING} ^(.*)$
+
+# Create a new redirect that packs the requested URI into QSTR and preserves the existing query string
+RewriteRule ^(.*)$ index.php?page=$1&%1 [L]

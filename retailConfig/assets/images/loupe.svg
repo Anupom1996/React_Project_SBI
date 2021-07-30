@@ -1,0 +1,17 @@
+<svg id="loupe" xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+  <g id="Group_1473" data-name="Group 1473" transform="translate(13.133 3.24)">
+    <g id="Group_1472" data-name="Group 1472">
+      <path id="Path_16084" data-name="Path 16084" d="M199.4,47.135a8.314,8.314,0,1,0,8.314,8.314A8.314,8.314,0,0,0,199.4,47.135Zm0,15.527a7.214,7.214,0,1,1,7.214-7.214A7.214,7.214,0,0,1,199.4,62.662Z" transform="translate(-191.086 -47.135)" fill="#2b75b7"/>
+    </g>
+  </g>
+  <g id="Group_1475" data-name="Group 1475" transform="translate(15.948 6.055)">
+    <g id="Group_1474" data-name="Group 1474">
+      <path id="Path_16085" data-name="Path 16085" d="M237.544,88.1a5.5,5.5,0,0,0-5.5,5.5.55.55,0,1,0,1.1,0,4.4,4.4,0,0,1,4.4-4.4.55.55,0,0,0,0-1.1Z" transform="translate(-232.046 -88.095)" fill="#ff7863"/>
+    </g>
+  </g>
+  <g id="Group_1477" data-name="Group 1477" transform="translate(0 0)">
+    <g id="Group_1476" data-name="Group 1476" transform="translate(0 0)">
+      <path id="Path_16086" data-name="Path 16086" d="M27.989,2.03A11.547,11.547,0,0,0,11.934,18.085L.162,29.857a.55.55,0,0,0,0,.778l0,0,2.2,2.2a.55.55,0,0,0,.778,0l0,0L14.914,21.065A11.547,11.547,0,1,0,27.989,2.03ZM2.752,31.672,1.328,30.248,3.3,28.274,4.726,29.7ZM5.5,28.923,4.077,27.5l8.533-8.528a11.543,11.543,0,0,0,1.419,1.419ZM21.446,22A10.447,10.447,0,1,1,31.893,11.553,10.447,10.447,0,0,1,21.446,22Z" transform="translate(0 0)" fill="#4182bc"/>
+    </g>
+  </g>
+</svg>

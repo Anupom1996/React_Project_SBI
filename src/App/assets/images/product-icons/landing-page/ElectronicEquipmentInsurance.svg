@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="68.964px" height="52.025px" viewBox="0 0 68.964 52.025" enable-background="new 0 0 68.964 52.025" xml:space="preserve">
+<g id="television" transform="translate(0 -62.877)">
+	<g id="Group_1992" transform="translate(0 62.877)">
+		<g id="Group_1991">
+			
+				<linearGradient id="Path_16794_1_" gradientUnits="userSpaceOnUse" x1="-266.7095" y1="414.9314" x2="-266.7095" y2="413.9314" gradientTransform="matrix(68.964 0 0 -52.029 18427.8633 21588.459)">
+				<stop  offset="0.13" style="stop-color:#00A9ED"/>
+				<stop  offset="1" style="stop-color:#65106B"/>
+			</linearGradient>
+			<path id="Path_16794" fill="url(#Path_16794_1_)" d="M65.333,12.273V3.638C65.332,1.632,63.707,0.005,61.701,0H3.638
+				C1.629,0.002,0.001,1.631,0,3.639v35.084c0.003,2.003,1.627,3.625,3.631,3.627h21.777v6.049h-6.05v2.42h25.408v-2.42h-4.841
+				V42.35h7.26v4.839c0.006,2.675,2.176,4.84,4.852,4.84h12.076c2.675,0,4.846-2.165,4.852-4.84v-30.25
+				C68.956,14.739,67.464,12.822,65.333,12.273z M37.507,48.396h-9.679v-6.049h9.679V48.396z M47.186,39.927H3.631
+				c-0.665,0-1.205-0.535-1.211-1.199v-3.641h44.766V39.927z M47.186,16.94v15.727H2.42V3.639c0.002-0.672,0.547-1.216,1.218-1.217
+				h58.063c0.672,0.001,1.217,0.546,1.217,1.219v8.461H52.037C49.363,12.102,47.194,14.265,47.186,16.94L47.186,16.94z
+				 M66.544,47.186c-0.006,1.339-1.093,2.421-2.432,2.42H52.037c-1.339,0.001-2.426-1.081-2.431-2.42V16.939
+				c0.005-1.339,1.092-2.422,2.431-2.42h12.076c1.34-0.002,2.427,1.081,2.432,2.42V47.186z"/>
+		</g>
+	</g>
+	<g id="Group_1994" transform="translate(55.655 106.433)">
+		<g id="Group_1993">
+			
+				<linearGradient id="Ellipse_194_1_" gradientUnits="userSpaceOnUse" x1="-271.9138" y1="297.4594" x2="-271.9138" y2="296.4594" gradientTransform="matrix(4.84 0 0 -4.84 1318.4783 1439.7002)">
+				<stop  offset="0.13" style="stop-color:#00A9ED"/>
+				<stop  offset="1" style="stop-color:#65106B"/>
+			</linearGradient>
+			<circle id="Ellipse_194" fill="url(#Ellipse_194_1_)" cx="2.421" cy="2.42" r="2.42"/>
+		</g>
+	</g>
+	<g id="Group_1996" transform="translate(55.655 79.816)">
+		<g id="Group_1995">
+			
+				<linearGradient id="Rectangle_722_1_" gradientUnits="userSpaceOnUse" x1="-271.9133" y1="242.5783" x2="-271.9133" y2="241.5783" gradientTransform="matrix(4.84 0 0 -2.42 1318.4783 587.04)">
+				<stop  offset="0.13" style="stop-color:#00A9ED"/>
+				<stop  offset="1" style="stop-color:#65106B"/>
+			</linearGradient>
+			<rect id="Rectangle_722" x="0" y="0" fill="url(#Rectangle_722_1_)" width="4.841" height="2.42"/>
+		</g>
+	</g>
+</g>
+</svg>

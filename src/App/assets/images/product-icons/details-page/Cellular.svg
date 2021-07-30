@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55.333" height="83" viewBox="0 0 55.333 83">
+  <g id="smartphone" transform="translate(-85.333)">
+    <g id="Group_2108" data-name="Group 2108" transform="translate(85.333)">
+      <g id="Group_2107" data-name="Group 2107">
+        <path id="Path_17165" data-name="Path 17165" d="M291.517,0a1.383,1.383,0,0,0,0,2.767A18,18,0,0,1,309.5,20.75a1.383,1.383,0,0,0,2.767,0A20.773,20.773,0,0,0,291.517,0Z" transform="translate(-256.934)" fill="#fff"/>
+        <path id="Path_17166" data-name="Path 17166" d="M291.517,42.667a1.383,1.383,0,0,0,0,2.767A11.08,11.08,0,0,1,302.584,56.5a1.383,1.383,0,0,0,2.767,0A13.849,13.849,0,0,0,291.517,42.667Z" transform="translate(-256.934 -35.75)" fill="#fff"/>
+        <path id="Path_17167" data-name="Path 17167" d="M291.517,85.333a1.383,1.383,0,0,0,0,2.767,4.155,4.155,0,0,1,4.15,4.15,1.383,1.383,0,0,0,2.767,0A6.925,6.925,0,0,0,291.517,85.333Z" transform="translate(-256.934 -71.5)" fill="#fff"/>
+        <path id="Path_17168" data-name="Path 17168" d="M117.15,119.467H89.483a4.155,4.155,0,0,0-4.15,4.15v2.767H121.3v-2.767A4.155,4.155,0,0,0,117.15,119.467Z" transform="translate(-85.333 -100.1)" fill="#fff"/>
+        <rect id="Rectangle_733" data-name="Rectangle 733" width="35.967" height="40.117" transform="translate(0 29.05)" fill="#fff"/>
+        <path id="Path_17169" data-name="Path 17169" d="M85.333,450.65a4.155,4.155,0,0,0,4.15,4.15H117.15a4.155,4.155,0,0,0,4.15-4.15v-6.917H85.333Zm17.983-4.15a1.383,1.383,0,1,1-1.383,1.383A1.384,1.384,0,0,1,103.316,446.5Z" transform="translate(-85.333 -371.8)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

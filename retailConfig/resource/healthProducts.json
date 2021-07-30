@@ -1,0 +1,47 @@
+[
+  {
+    "key": "arogya-premier-policy",
+    "productName": "Arogya Premier Policy",
+    "description": "Designed for high net worth individuals, this policy provides a wide health coverage for individuals as well as families. The coverage starts from Rs 10 lakh and goes up to Rs 30 lakh."
+  },
+  {
+    "key": "retail-health",
+    "productName": "Retail Health Insurance Policy",
+    "description":"Our Retail Health Insurance Policy offers you wide coverage starting from Rs 50,000 to Rs 5,00,000. With the family floater option, you can get your entire family covered under a single policy."
+  },
+  {
+    "key": "hospital-daily-cash",
+    "productName": "Hospital Daily Cash Insurance Policy",
+    "description": "The daily hospital cash benefit offers a fixed amount for each day that you are hospitalised. The amount paid is fixed at the time of taking the policy and would remain fixed. This benefit cover can be taken as a rider to your regular health insurance policy or also as a standalone cover."
+  },
+  {
+    "key": "critical-illness-insurance",
+    "productName": "Critical Illness Insurance Policy",
+    "description": "Our critical illness policy offers you a wide coverage starting from Rs 2 lakh to Rs 50 lakh."
+  },
+  {
+    "key": "arogya-plus-policy",
+    "productName": "Arogya Plus Policy",
+    "description": "Perfect for individuals and nuclear families, Arogya Plus Policy offers multiple sum insured options from Rs 1 lakh to Rs 3 lakh. "
+  },
+  {
+    "key": "arogya-topup-policy",
+    "productName": "Arogya Top Up Policy",
+    "description": "Our Arogya Top up Policy lets you add extra protection at low premium. Over your existing health policy,  you can buy additional coverage to meet rising expenses."
+  },
+  {
+    "key": "arogya-sanjeevani-policy",
+    "productName": "Arogya Sanjeevani Policy",
+    "description": "Arogya Sanjeevani Health Insurance is a new, standard health insurance policy set by the IRDAI. This standard plan provides for a basic health insurance cover of between Rs 1 lakh to Rs 5 lakh."
+  },
+  {
+    "key": "group-health-insurance",
+    "productName": "Group Health Insurance - SBI",
+    "description": "Our group health insurance plans are one of the most preferred benefits that companies can offer to their employees. Offering health plans to your employees not only help you save taxes but it also helps you retaining good talent. "
+  },
+  {
+    "key": "group-health-insurance",
+    "productName": "Group Health Insurance - SBI",
+    "description":"Our loan insurance policy is designed to cover your monthly payouts in case of critical illness, accidental death or permanent disablement and loss of job."
+  }
+]

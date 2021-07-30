@@ -1,0 +1,19 @@
+<svg id="Page-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72" height="72" viewBox="0 0 72 72">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0.13" stop-color="#00a9ed"/>
+      <stop offset="1" stop-color="#65106b"/>
+    </linearGradient>
+  </defs>
+  <g id="_006---Gems" data-name="006---Gems">
+    <path id="Shape" d="M33.453,59.537a1.2,1.2,0,0,0,1.894,0l25.2-32.4a1.2,1.2,0,0,0,.131-1.264,1,1,0,0,0-.074-.112h.01l-8.4-13.2a1.187,1.187,0,0,0-1.013-.524V12H17.6v.037a1.187,1.187,0,0,0-1.013.518l-8.4,13.2H8.2a1,1,0,0,0-.074.112,1.2,1.2,0,0,0,.131,1.264ZM36.586,14.4H49.014L42.8,24.164Zm4.027,10.8H28.186L34.4,15.436ZM26,24.164,19.786,14.4H32.214ZM11.654,27.6H25.08L32.188,54Zm25,26.344L40.52,39.96a1.2,1.2,0,0,0-2.312-.64L34.417,53.04,27.566,27.6h13.68l-1.481,5.7a1.2,1.2,0,1,0,2.322.6l1.64-6.3H57.146ZM57.414,25.2H44.986L51.2,15.436ZM17.6,15.436,23.814,25.2H11.386Z" transform="translate(1.6 2.4)" fill="url(#linear-gradient)"/>
+    <path id="Shape-2" data-name="Shape" d="M1.2,31.4H4.8a1.2,1.2,0,1,0,0-2.4H1.2a1.2,1.2,0,1,0,0,2.4Z" transform="translate(0 5.8)" fill="url(#linear-gradient)"/>
+    <path id="Shape-3" data-name="Shape" d="M56.2,31.4h3.6a1.2,1.2,0,0,0,0-2.4H56.2a1.2,1.2,0,1,0,0,2.4Z" transform="translate(11 5.8)" fill="url(#linear-gradient)"/>
+    <path id="Shape-4" data-name="Shape" d="M31.4,59.8V56.2a1.2,1.2,0,1,0-2.4,0v3.6a1.2,1.2,0,0,0,2.4,0Z" transform="translate(5.8 11)" fill="url(#linear-gradient)"/>
+    <path id="Shape-5" data-name="Shape" d="M30.2,6a1.2,1.2,0,0,0,1.2-1.2V1.2a1.2,1.2,0,1,0-2.4,0V4.8A1.2,1.2,0,0,0,30.2,6Z" transform="translate(5.8)" fill="url(#linear-gradient)"/>
+    <path id="Shape-6" data-name="Shape" d="M11.4,47.734,8.852,50.281a1.2,1.2,0,1,0,1.7,1.7l2.545-2.545a1.2,1.2,0,0,0-1.7-1.7Z" transform="translate(1.693 9.479)" fill="url(#linear-gradient)"/>
+    <path id="Shape-7" data-name="Shape" d="M48.585,13.445a1.2,1.2,0,0,0,.848-.352l2.545-2.546a1.2,1.2,0,1,0-1.7-1.7L47.738,11.4a1.2,1.2,0,0,0,.848,2.048Z" transform="translate(9.477 1.693)" fill="url(#linear-gradient)"/>
+    <path id="Shape-8" data-name="Shape" d="M51.128,52.328a1.2,1.2,0,0,0,.848-2.048l-2.545-2.545a1.2,1.2,0,0,0-1.7,1.7l2.546,2.545a1.2,1.2,0,0,0,.847.352Z" transform="translate(9.479 9.479)" fill="url(#linear-gradient)"/>
+    <path id="Shape-9" data-name="Shape" d="M11.4,13.094a1.2,1.2,0,0,0,1.7-1.7L10.547,8.852a1.2,1.2,0,1,0-1.7,1.7Z" transform="translate(1.693 1.693)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

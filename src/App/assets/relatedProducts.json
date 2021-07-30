@@ -1,0 +1,89 @@
+[
+    {
+        "key": "two-wheeler-insurance",
+        "category":"motor",
+        "productName" :"Motor Two Wheeler Insurance",
+        "productUrl":"/motor-insurance/two-wheeler-insurance",
+        "icon":"landing-page/MotorTwoWheeler.svg"      
+    },{
+        "key": "private-car-insurance",
+        "category":"motor",
+        "productName" :"Motor Private Car Insurance",
+        "productUrl":"/motor-insurance/private-car-insurance",
+        "icon":"landing-page/MotorPrivateCarInsurance.svg"      
+    },{
+        "key": "long-term-two-wheeler-insurance",
+        "category":"motor",
+        "productName" :"Long Term Two Wheeler Insurance Policy",
+        "productUrl":"/motor-insurance/long-term-two-wheeler-insurance",
+        "icon":"landing-page/MotorLongTermTwoWheeler.svg"      
+    },{
+        "key": "motor-act-only-two-wheeler-insurance",
+        "category":"motor",
+        "productName" :"Motor Act Only - Two Wheeler (Long Term)",
+        "productUrl":"/motor-insurance/motor-act-only-two-wheeler-insurance",
+        "icon":"landing-page/MotorActOnlyTwoWheelerLongTerm.svg"      
+    },{
+        "key": "motor-act-only-private-car-insurance",
+        "category":"motor",
+        "productName" :"Motor Act Only - Private Car (Long Term)",
+        "productUrl":"/motor-insurance/motor-act-only-private-car-insurance",
+        "icon":"landing-page/MotorActOnlyPrivateCarLongTerm.svg"      
+    },
+    {
+        "key": "retail-health",
+        "category":"health",
+        "productName" :"Health Insurance",
+        "productUrl":"/health-insurance/retail-health", 
+        "icon":"landing-page/HealthInsurance.svg"      
+    },
+    {
+        "key": "group-health-insurance",
+        "category":"health",
+        "productName" :"Group Health Insurance - SBI",
+        "productUrl":"/health-insurance/group-health-insurance", 
+        "icon":"landing-page/GroupHealthInsurance-SBI.svg"      
+    },
+    {
+        "key": "arogya-plus-policy",
+        "category":"health",
+        "productName" :"Arogya Plus",
+        "productUrl":"/health-insurance/arogya-plus-policy", 
+        "icon":"landing-page/ArogyaPlus.svg"      
+    },
+    {
+        "key": "arogya-topup-policy",
+        "category":"health",
+        "productName" :"Arogya Topup",
+        "productUrl":"/health-insurance/arogya-topup-policy", 
+        "icon":"landing-page/ArogyaTopupPolicy.svg"     
+    },
+    {
+        "key": "arogya-premier-policy",
+        "category":"health",
+        "productName" :"Arogya Premier",
+        "productUrl":"/health-insurance/arogya-premier-policy", 
+        "icon":"landing-page/ArogyaPremier.svg"    
+    },
+    {
+        "key": "critical-illness-insurance",
+        "category":"health",
+        "productName" :"Critical illness Insurance Policy",
+        "productUrl":"/health-insurance/critical-illness-insurance",
+        "icon":"landing-page/CriticalillnessInsurancePolicy.svg"     
+    },
+    {
+        "key": "hospital-daily-cash",
+        "category":"health",
+        "productName" :"Hospital Daily Cash",
+        "productUrl":"/health-insurance/hospital-daily-cash",
+        "icon":"landing-page/HospitalDailyCash.svg"     
+    },
+    {
+        "key": "loan-insurance",
+        "category":"health",
+        "productName" :"Loan Insurance",
+        "productUrl":"/health-insurance/loan-insurance",
+        "icon":"landing-page/LoanInsurance.svg"     
+    }
+]

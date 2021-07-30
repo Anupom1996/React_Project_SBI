@@ -1,0 +1,518 @@
+[
+    {
+        "key": "two-wheeler-insurance",
+        "productName" : "Motor Two Wheeler",
+        "crmProductName" : "Motor Two Wheeler",
+        "prodEventName" : "motor_two_wheeler"
+    },
+    {
+        "key": "motor-act-only-two-wheeler-insurance",
+        "productName" : "Privte Motor 2 wheeler Liablty",
+        "crmProductName" : "Privte Motor 2 wheeler Liablty",
+        "prodEventName" : "motor_acty_only_two_wheeler"
+    },
+    {
+        "key": "private-car-insurance",
+        "productName" : "Motor Four Wheeler",
+        "crmProductName" : "",
+        "prodEventName" : "private_car"
+    },
+    {
+        "key": "long-term-two-wheeler-insurance",
+        "productName" : "Long Term Two Wheeler Package",
+        "crmProductName" : "Long Term Two Wheeler Package",
+        "prodEventName" : "long_term_two_wheeler"
+    },
+    {
+        "key": "motor-act-only-private-car-insurance",
+        "productName" : "Privte Motr 3 and 4 whlr Liablty",
+        "crmProductName" : "Privte Motr 3 and 4 whlr Liablty",
+        "prodEventName" : "motot_act_only_private_car"
+    },
+    {
+        "key": "long-term-home-insurance",
+        "productName" : "Long Term Home Policy",
+        "crmProductName" : "Long Term Home Policy",
+        "prodEventName" : "long_term_home"
+    },
+    {
+        "key": "simple-home-insurance",
+        "productName" : "Simple Home Insurance Policy",
+        "crmProductName" : "Simple Home Insurance Policy",
+        "prodEventName" : "simple_home"
+    },
+    {
+        "key": "individual-pa-insurance",
+        "productName" : "Individual Personal Accident Customer",
+        "crmProductName" : "Individual Personal Accident Customer",
+        "prodEventName" : "individual_pa"
+    },
+    {
+        "key": "arogya-premier-policy",
+        "productName" : "Arogya Premier",
+        "crmProductName" : "Arogya Premier",
+        "prodEventName" : "arogya_premier"
+    },
+    {
+        "key": "retail-health",
+        "productName" : "Retail Health Customer",
+        "crmProductName" : "Retail Health Customer",
+        "prodEventName" : "health"
+    },
+    {
+        "key": "group-health-insurance-C",
+        "productName" : "Group Health Insurance",
+        "crmProductName" : "Group Health Insurance",
+        "prodEventName" : "group_health"
+    },
+    {
+        "key": "critical-illness-insurance",
+        "productName" : "Critical Illness",
+        "crmProductName" : "Critical Illness",
+        "prodEventName" : "critical_illness"
+    },
+    {
+        "key": "hospital-daily-cash",
+        "productName" : "Hospital Daily Cash",
+        "crmProductName" : "Hospital Daily Cash",
+        "prodEventName" : "hospital_daily_cash"
+    },
+    {
+        "key": "loan-insurance",
+        "productName" : "Loan Insurance",
+        "crmProductName" : "Loan Insurance",
+        "prodEventName" : "loan"
+    },
+    {
+        "key": "arogya-plus-policy",
+        "productName" : "Arogya Plus",
+        "crmProductName" : "Arogya Plus",
+        "prodEventName" : "arogya_plus"
+    },
+    {
+        "key": "arogya-topup-policy",
+        "productName" : "Arogya Topup",
+        "crmProductName" : "Arogya Topup",
+        "prodEventName" : "arogya_topup"
+    },
+    {
+        "key": "arogya-sanjeevani-policy",
+        "productName" : "Arogya Sanjeevani",
+        "crmProductName" : "Arogya Sanjeevani",
+        "prodEventName" : "sanjeevani"
+    },
+    {
+        "key": "travel-insurance",
+        "productName" : "Travel Insurance_Business and Holiday",
+        "crmProductName" : "",
+        "prodEventName" : "travel"
+    },
+    {
+        "key": "money-insurance",
+        "productName" : "Money Insurance",
+        "crmProductName" : "",
+        "prodEventName" : "money"
+    },
+    {
+        "key": "plate-glass-insurance",
+        "productName" : "Plate Glass Insurance",
+        "crmProductName" : "",
+        "prodEventName" : "plate_glass"
+    },
+    {
+        "key": "burglary-insurance",
+        "productName" : "Burglary Insurance",
+        "crmProductName" : "",
+        "prodEventName" : "burglary"
+    },
+    {
+        "key": "commercial-motor-insurance",
+        "productName" : "Commercial Motor Insurance",
+        "crmProductName" : "",
+        "prodEventName" : "commercial_motor"
+    },
+    {
+        "key": "tractor-and-other-farm-vehicle-insurance",
+        "productName" : "Tractor and Other Farm Vehicles Insurance",
+        "crmProductName" : "",
+        "prodEventName" : "tractor"
+    },
+    {
+        "key": "group-personal-accident-insurance",
+        "productName" : "Group Personal Accident Insurance",
+        "crmProductName" : "",
+        "prodEventName" : "group_pa"
+    },
+    {
+        "key": "standard-fire-and-special-perils-insurances",
+        "productName" : "Standard Fire and Special Perils Insurances",
+        "crmProductName" : "",
+        "prodEventName" : "standard_fire"
+    },
+    {
+        "key": "group-health-insurance",
+        "productName" : "Health Insurance",
+        "crmProductName" : "Health Insurance",
+        "prodEventName" : "group_health"
+    },
+    {
+        "key": "consequential-loss-fire-insurance",
+        "productName" : "Consequential Loss (Fire) Insurance",
+        "crmProductName" : "",
+        "prodEventName" : "consequential_loss_fire"
+    },
+    {
+        "key": "marine-cargo-insurance",
+        "productName" : "Marine Cargo Insurance",
+        "crmProductName" : "",
+        "prodEventName" : "marine_cargo"
+    },
+    {
+        "key": "industrial-all-risks-insurance",
+        "productName" : "Industrial All Risks Insurance",
+        "crmProductName" : "",
+        "prodEventName" : "all_risk"
+    },
+    {
+        "key": "business-package-insurance",
+        "productName" : "Business Package Insurance",
+        "crmProductName" : "",
+        "prodEventName" : "business_package"
+    },
+    {
+        "key": "latent-defects-insurance-policy",
+        "productName" : "Latent Defects Insurance Policy",
+        "crmProductName" : "",
+        "prodEventName" : "latent_defect"
+    },
+    {
+        "key": "electronic-equipment-insurance",
+        "productName" : "Electronic Equipment Insurance",
+        "crmProductName" : "",
+        "prodEventName" : "electronic_equipment"
+    },
+    {
+        "key": "contractors-all-risk-insurance",
+        "productName" : "Contractors All Risk Insurance",
+        "crmProductName" : "",
+        "prodEventName" : "contractors_all_risk"
+    },
+    {
+        "key": "erection-all-risks-insurance",
+        "productName" : "Erection All Risks Insurance",
+        "crmProductName" : "",
+        "prodEventName" : "erection_all_risk"
+    },
+    {
+        "key": "contractors-plant-machinery",
+        "productName" : "Contractors Plant And Machinery",
+        "crmProductName" : "",
+        "prodEventName" : "contractors_plant_machinary"
+    },
+    {
+        "key": "machinery-breakdown-insurance",
+        "productName" : "Machinery Breakdown Insurance",
+        "crmProductName" : "",
+        "prodEventName" : "breakdown"
+    },
+    {
+        "key": "boiler-pressure-plant-insurance",
+        "productName" : "Boiler And Pressure Plant Insurance",
+        "crmProductName" : "",
+        "prodEventName" : "boiler_pressure_plant"
+    },
+    {
+        "key": "consequential-loss-machinery-breakdown",
+        "productName" : "Consequential Loss (Machinery Breakdown)",
+        "crmProductName" : "",
+        "prodEventName" : "consequential_loss_machinary"
+    },
+    {
+        "key": "directors-and-officers",
+        "productName" : "Directors and Officers",
+        "crmProductName" : "",
+        "prodEventName" : "directors"
+    },
+    {
+        "key": "motor-commercial-trailer",
+        "productName" : "Motor Commercial (Trailer)",
+        "crmProductName" : "",
+        "prodEventName" : "commercial_trailor"
+    },
+    {
+        "key": "errors-and-omissions",
+        "productName" : "Errors and Omissions",
+        "crmProductName" : "",
+        "prodEventName" : "errors"
+    },
+    {
+        "key": "pradhan-mantri-fasal-bima-yojna",
+        "productName" : "Pradhan Mantri Fasal Bima Yojna",
+        "crmProductName" : "",
+        "prodEventName" : "pm_fasal_bima"
+    },
+    {
+        "key": "sign-board",
+        "productName" : "Sign Board",
+        "crmProductName" : "",
+        "prodEventName" : "signboard"
+    },
+    {
+        "key": "national-agriculture-insurance",
+        "productName" : "National Agriculture Insurance",
+        "crmProductName" : "",
+        "prodEventName" : "national_agriculture"
+    },
+    {
+        "key": "event-cancellation",
+        "productName" : "Event Cancellation",
+        "crmProductName" : "",
+        "prodEventName" : "event"
+    },
+    {
+        "key": "motor-act-only",
+        "productName" : "Motor Act Only",
+        "crmProductName" : "",
+        "prodEventName" : "motor_act"
+    },
+    {
+        "key": "trade-credit-insurance",
+        "productName" : "Trade Credit Insurance",
+        "crmProductName" : "",
+        "prodEventName" : "trade_credit"
+    },
+    {
+        "key": "aviation-hull-package",
+        "productName" : "Aviation Hull Package",
+        "crmProductName" : "",
+        "prodEventName" : "aviation_hull"
+    },
+    {
+        "key": "sme-package",
+        "productName" : "SME Package",
+        "crmProductName" : "",
+        "prodEventName" : "sme"
+    },
+    {
+        "key": "broadform-liability",
+        "productName" : "Broadform Liability",
+        "crmProductName" : "",
+        "prodEventName" : "broadform_liability"
+    },
+    {
+        "key": "product-liability",
+        "productName" : "Product Liability",
+        "crmProductName" : "",
+        "prodEventName" : "product_liability"
+    },
+    {
+        "key": "cellular-network",
+        "productName" : "Cellular Network",
+        "crmProductName" : "",
+        "prodEventName" : "cellular_network"
+    },
+    {
+        "key": "advance-lossof-profit",
+        "productName" : "Advance Loss of Profit",
+        "crmProductName" : "",
+        "prodEventName" : "advance_lossof_profit"
+    },
+    {
+        "key": "clinical-trial-professional-liability",
+        "productName" : "Clinical Trial (Professional liability)",
+        "crmProductName" : "",
+        "prodEventName" : "clinical_trial_professional_liability"
+    },
+    {
+        "key": "cyber-defense-insurance",
+        "productName" : "Cyber Defense Insurance",
+        "crmProductName" : "",
+        "prodEventName" : "cyber_defense"
+    },
+    {
+        "key": "public-liability",
+        "productName" : "Public Liability",
+        "crmProductName" : "",
+        "prodEventName" : "public_liability"
+    },
+    {
+        "key": "baggage-insurance",
+        "productName" : "Baggage Insurance",
+        "crmProductName" : "",
+        "prodEventName" : "baggage"
+    },
+    {
+        "key": "portable-electronic-equipment",
+        "productName" : "Portable Electronic Equipment",
+        "crmProductName" : "",
+        "prodEventName" : "electronic"
+    },
+    {
+        "key": "weather-insurance",
+        "productName" : "Weather Insurance",
+        "crmProductName" : "",
+        "prodEventName" : "weather"
+    },
+    {
+        "key": "mega-risk",
+        "productName" : "Mega Risk",
+        "crmProductName" : "",
+        "prodEventName" : "megarisk"
+    },
+    {
+        "key": "port-package",
+        "productName" : "Port Package",
+        "crmProductName" : "",
+        "prodEventName" : "port_package"
+    },
+    {
+        "key": "marine-delay-start",
+        "productName" : "Marine - Delay in Start up",
+        "crmProductName" : "",
+        "prodEventName" : "marine_delay"
+    },
+    {
+        "key": "motor-trade-transit-risks",
+        "productName" : "Motor Trade (Transit Risks)",
+        "crmProductName" : "",
+        "prodEventName" : "transit_risk"
+    },
+    {
+        "key": "all-risk-insurance",
+        "productName" : "All Risk Insurance",
+        "crmProductName" : "",
+        "prodEventName" : "all_risk"
+    },
+    {
+        "key": "clinical-trial-no-fault",
+        "productName" : "Clinical Trial (No Fault)",
+        "crmProductName" : "",
+        "prodEventName" : "clinical_trial_no_fault"
+    },
+    {
+        "key": "employees-compensation-ec",
+        "productName" : "Employees Compensation (EC)",
+        "crmProductName" : "",
+        "prodEventName" : "ec"
+    },
+    {
+        "key": "motor-trade-road-risks",
+        "productName" : "Motor Trade (Road Risks)",
+        "crmProductName" : "",
+        "prodEventName" : "road_risk"
+    },
+    {
+        "key": "public-liability-act",
+        "productName" : "Public Liability (Act)",
+        "crmProductName" : "",
+        "prodEventName" : "public_liability"
+    },
+    {
+        "key": "kidnap-ransom-and-extortion",
+        "productName" : "Kidnap Ransom and Extortion",
+        "crmProductName" : "",
+        "prodEventName" : "kidnap"
+    },
+    {
+        "key": "commercial-general-liability",
+        "productName" : "Commercial General Liability",
+        "crmProductName" : "",
+        "prodEventName" : "commercial_general_liability"
+    },
+    {
+        "key": "motor-trade-internal-risks",
+        "productName" : "Motor Trade (Internal Risks)",
+        "crmProductName" : "",
+        "prodEventName" : "motor_trade_risk"
+    },
+    {
+        "key": "fidelity-guarantee",
+        "productName" : "Fidelity Guarantee",
+        "crmProductName" : "",
+        "prodEventName" : "fidelity"
+    },
+    {
+        "key": "oil-energy",
+        "productName" : "Oil & Energy",
+        "crmProductName" : "",
+        "prodEventName" : "oil_energy"
+    },
+    {
+        "key": "agriculture-pumpset-insurance-policy",
+        "productName" : "Agriculture Pumpset Insurance Policy",
+        "crmProductName" : "",
+        "prodEventName" : "agriculture_pumpset"
+    },
+    {
+        "key": "cattle-insurance-policy",
+        "productName" : "Cattle Insurance Policy",
+        "crmProductName" : "",
+        "prodEventName" : "cattle"
+    },
+    {
+        "key": "micro-insurance-policy",
+        "productName" : "Micro Insurance Policy",
+        "crmProductName" : "",
+        "prodEventName" : "micro"
+    },
+    {
+        "key": "sheep-goat-insurance-policy",
+        "productName" : "Sheep & Goat Insurance Policy",
+        "crmProductName" : "",
+        "prodEventName" : "sheep_goat"
+    },
+    {
+        "key": "jewellers-block",
+        "productName" : "Jewellers Block",
+        "crmProductName" : "",
+        "prodEventName" : "jwellers_block"
+    },
+    {
+        "key": "shagun",
+        "productName" : "Shagun",
+        "crmProductName" : "",
+        "prodEventName" : "shagun"
+    },
+    {
+        "key": "covid-kavach",
+        "productName" : "Corona Kavach",
+        "crmProductName" : "",
+        "prodEventName" : "Corona Kavach"
+    },
+    {
+        "key": "gramin-samriddhi-bima",
+        "productName" : "Gramin Samriddhi Bima",
+        "crmProductName" : "Gramin Samriddhi Bima",
+        "prodEventName" : "gramin_samriddhi_bima"
+    },
+    {
+        "key": "saral-suraksha-bima",
+        "productName" : "Saral Suraksha Bima",
+        "crmProductName" : "Saral Suraksha Bima",
+        "prodEventName" : "saral_suraksha_bima"
+    },
+    {
+        "key": "arogya-supreme",
+        "productName" : "Arogya Supreme",
+        "crmProductName" : "Arogya Supreme",
+        "prodEventName" : "arogya_supreme"
+    },
+    {
+        "key": "bharat-laghu-udyam-suraksha",
+        "productName" : "Bharat Laghu Udyam Suraksha",
+        "crmProductName" : "Bharat Laghu Udyam Suraksha",
+        "prodEventName" : "bharat_laghu_udyam_suraksha"
+    },
+    {
+        "key": "bharat-sookshma-udyam-suraksha",
+        "productName" : "Bharat Sookshma Udyam Suraksha",
+        "crmProductName" : "Bharat Sookshma Udyam Suraksha",
+        "prodEventName" : "bharat_sookshma_udyam_suraksha"
+    },
+    {
+        "key": "bharat-griha-raksha",
+        "productName" : "Bharat Griha Raksha",
+        "crmProductName" : "Bharat Griha Raksha",
+        "prodEventName" : "bharat_griha_raksha"
+    }
+]

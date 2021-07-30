@@ -1,0 +1,2670 @@
+[
+    {
+        "key": "two-wheeler-insurance",
+        "product_disclaimer": "<ul><li>Two Wheeler Insurance Policy – Package (UIN: IRDAN144RP0006V02201112)</li><li>Bundled Two-Wheeler Insurance Policy (UIN: IRDAN144RP0007V02201819)</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "prod_brochure.png",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/e4b074f6f1604577952b9ad36e294751.PDF"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/6f0f82b141784b99a01b62fb17c96388.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/ae091f806ecc48a1922cd2a7fe288eab.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Bundled Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/3e95bd1b751640939085ce7bcd8bfa9d.pdf"
+            },
+            {
+                "resource_icon": "motor_tp_revised_rate.png",
+                "label": "Motor TP Revised Rate",
+                "is_media": true,
+                "file_url": "/uploads/6e3a45168e6946c48b14f5207745e6e4.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/86e13c2ae2d74ca696ffd9b6087a3f02.pdf"
+            }
+        ]
+    },
+    {
+        "key": "motor-act-only-two-wheeler-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144RP0003V01201819</li><li><strong> Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/4a17aac9d0f045dbbfdf8aab0b990178.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/afcf677283c44dea8e4aea32d4d7916a.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/91a23a09ca6b44ec8befa8228927d89c.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/4776bf39e3b240e385a6e19577fa14c6.pdf"
+            },
+            {
+                "resource_icon": "5_year_tp_premium.png",
+                "label": "5 Years TP Premium",
+                "is_media": true,
+                "file_url": "/uploads/82b98a39cdc540f7958ed2aeaa09726d.pdf"
+            }
+        ]
+    },
+    {
+        "key": "private-car-insurance",
+        "product_disclaimer": "<ul><li>Private Car Insurance Policy - Package (UIN: IRDAN144RP0005V03201112)</li><li>Bundled Private Car Insurance Policy (UIN: RDAN144RP0006V02201819)</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "prod_brochure.png",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/9ea454caee784a58b8314bab3b464656.PDF"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/e1904ff17d084f6582d5cc43bb6e059e.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/d8610f69e852404d8101262e552de523.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Bundled Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/95fe6abf7ddf4c8db94e1e2f1ce2e607.pdf"
+            },
+            {
+                "resource_icon": "motor_claim_form.png",
+                "label": "Motor Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/3db378eebd054eb7ae38d13a03749c43.pdf"
+            },
+            {
+                "resource_icon": "motor_tp_revised_rate.png",
+                "label": "Motor TP Revised Rate",
+                "is_media": true,
+                "file_url": "/uploads/36a036c86606476cbc050f8594fb78b6.pdf"
+            }
+        ]
+    },
+    {
+        "key": "long-term-two-wheeler-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144RP0001V002201516</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage, terms and conditions, please contact our nearest office. Also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/9ab2d0512325418d88d95e3bdf25c03d.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/c36bf09cf2ed438a8e5b476b50429a2f.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/f1d857f0b54345c9995b72240c09ee47.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/01dfcf0743a545e984dcd4b9c7b21fc1.pdf"
+            }
+        ]
+    },
+    {
+        "key": "motor-act-only-private-car-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144RP0002V01201819</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/977a0221854541568202d09c125ea51c.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/3b193b6873bb4a19b6accb4419707fb6.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/8d872a2f04f646448322a6238cc950f7.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/d813fb8d063f47028b6dae0fd1b45028.pdf"
+            },
+            {
+                "resource_icon": "3_year_tp_premium.png",
+                "label": "3 Years TP Premium",
+                "is_media": true,
+                "file_url": "/uploads/ecbed8e3fbb24dce9e0c35b410344965.pdf"
+            }
+        ]
+    },
+    {
+        "key": "long-term-home-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144RP0010V03201112</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "prod_brochure.png",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/9b517dd4a6a240bf96a2388cacfe7379.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/d8baf9fd477041eea244fa7e79645f4f.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/f105541ddb8946e08e2b15d88754e2e1.pdf"
+            },
+            {
+                "resource_icon": "lth_cf.png",
+                "label": "LTH CF",
+                "is_media": true,
+                "file_url": "/uploads/13512f69e7734d0980ce61e66f1e5875.pdf"
+            }
+        ]
+    },
+    {
+        "key": "simple-home-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144RP0002V01201617</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "prod_brochure.png",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/efe9cef236d0463bb988e67fe92073cd.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/45333bfcd0c849b68f4523e1324e90d6.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/f1bc87f53cd542e09151a1903c423916.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/659437ef87a541bb81ac9a18fb1d6a11.pdf"
+            }
+        ]
+    },
+    {
+        "key": "individual-pa-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - SBIPAIP12002V011112</li><li><strong>Disclaimer:</strong> The above information is indicative in nature. For full details of the coverage & exclusions please contact our nearest office and refer to the policy documents and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "prod_brochure.png",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/3fbb74d2fc4d40559ccfabbe95e5c640.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/aafb69335a76460bb6a28627b4184780.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/63cbad0c394b4bf6831f57b984392507.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/e6f3a815a6414e6288a381ec38ff2156.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/017446decbc24eadb6d189a884a385ff.pdf"
+            }
+        ]
+    },
+    {
+        "key": "arogya-premier-policy",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - SBIHLIP14007V011314</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "prod_brochure.png",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/0120814f17ca49909180a4ac3d8f1d78.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/dd496bedbab6403d84e7a113a1dfa575.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/400de66b06be4b1b85aca56d29387879.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Arogya Premier Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/65f9183851a34febb8052ebe664b6283.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/f2e8421ab57741a692bfe2c59dae7a0e.pdf"
+            }
+        ]
+    },
+    {
+        "key": "retail-health",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - SBIHLIP11002V021011</li><li><strong> Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "prod_brochure.png",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/c79e65c0d36744198f0575bb196fce96.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/cd9d301ce29d4fe5bd9025fae07c5027.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/22bb439bc6864a05aec8adf69a47fdd8.pdf"
+            },
+            {
+                "resource_icon": "health_retail_claim_form.png",
+                "label": "Health Retail Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/65f9183851a34febb8052ebe664b6283.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/c7366cd7ceab4615a9a6993187db1bf3.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Health Insurance Portability Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/f8004a07c18d44b9aaf79a733c47dd25.pdf"
+            }
+        ]
+    },
+    {
+        "key": "group-health-insurance-C",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - SBIHLGP11001V011011</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/787bd65f215f4d3b8e342d4ccd5d2999.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Health IRDA Form Version 1.1 Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/c4583458ca0242dbac880e52581d8900.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/86d8866fc1144153a734571bc2dff522.pdf"
+            }
+        ]
+    },
+    {
+        "key": "critical-illness-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - SBIHLIP11004V011011</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "prod_brochure.png",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/81f1ea0c921840aeb9e34fdb359b0fc1.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/82e612b194ed4910bcb92a392660a1c5.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "CI Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/65f9183851a34febb8052ebe664b6283.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/bcd9b17a8664424da5235d27d9c4f782.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/470578d99deb462ba0c898afdae5a51c.pdf"
+            }
+        ]
+    },
+    {
+        "key": "hospital-daily-cash",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - SBIHLIP11003V011011</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "prod_brochure.png",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/d4aa7bead194477bacd5caddf444eb93.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/df3d5a9393c64a2a848069489b2981c7.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/e65e2368e2154de2a0fbecbbf66223c1.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "HDC Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/65f9183851a34febb8052ebe664b6283.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/ff3d94bf4f494170b67f9ba2d2b97322.pdf"
+            }
+        ]
+    },
+    {
+        "key": "loan-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - SBIPAIP11006V011011</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "prod_brochure.png",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/736f0172fcd64cbe9c55420612150422.PDF"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/abf39e1ff5784048a49cc27fe92db9b3.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/a94f5869f7464f2098343c0ccdb7a7e6.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/6adb1c14b8a74a708fca81fcfe4ffb76.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/487ba354bb724c5f977cb710a7cec3e8.pdf"
+            }
+        ]
+    },
+    {
+        "key": "group-loan-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - SBIPAGP20092V011920</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</br>* subject to terms and conditions of the policy</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "prod_brochure.png",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/b81d4baf538f4b0c9cc4c15b23d169dc.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Enrollment Form",
+                "is_media": true,
+                "file_url": "/uploads/27675142e2f1489abee5c50670488c12.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/3d7358b33b4f42f09f3b91246bcfec19.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/3c40dda4d2da490a92b5a9348dc83382.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/40e7f26d723d46a68352e6d6be23c436.pdf"
+            }
+        ]
+    },
+    {
+        "key": "arogya-plus-policy",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - SBIHLIP14006V011314</li><li><strong>Disclaimer:</strong> The above information is only indicative in nature. For full details of the coverage & exclusions please contact our nearest office and refer to the policy documents and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "prod_brochure.png",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/fca3e869f6984b69995d38af53db85e9.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/ceda6518baeb45f2a387ef6dc37b0fed.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/bd578bd2c92948c387af3ec671616464.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Arogya Plus Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/65f9183851a34febb8052ebe664b6283.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/b40102b91d2a478d913d4c1a1b191fd9.pdf"
+            }
+        ]
+    },
+    {
+        "key": "arogya-topup-policy",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - SBIHLIP14005V011314</li><li><strong>Disclaimer:</strong> The above information is only indicative in nature. For full details of the coverage & exclusions please contact our nearest office and refer to the policy documents and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "prod_brochure.png",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/3efbcf49f3b84b39a47378aa1e6135ae.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/28fe8eece4d348c496b4d93243a06104.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/fb14cbc6af2a409c85f62dbe657435e4.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Arogya Topup Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/65f9183851a34febb8052ebe664b6283.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/2de8c0f5f8114aa6bc9c2560bd63fcab.pdf"
+            }
+        ]
+    },
+    {
+        "key": "travel-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - SBITIOP1401V011314</li><li><strong>Disclaimer:</strong> The above information is only indicative in nature. For full details of the coverage & exclusions please contact our nearest office and refer to the policy documents.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "prod_brochure.png",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/d3fa259634c74c0cbde4a60a78deda12.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/4bae62be5af048fc88181f0d7786f482.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/b9b320ab5352464092c22d27d03d0b96.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Travel Insurance CF",
+                "is_media": true,
+                "file_url": "/uploads/589d5b6737d0439e94a51ff40231b170.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/b20d451a87b34ac5aade33bba52e73b6.pdf"
+            }
+        ]
+    },
+    {
+        "key": "money-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0021V02201819</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "prod_brochure.png",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/a797ace8f40649d0871d9c9ee845a4ba.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/f4ded2ecfc8942a7ba3ebcb3cb6f6bcc.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/4b36bf1d80fd4bbdbda19061d0d2f969.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Money CF",
+                "is_media": true,
+                "file_url": "/uploads/0be3ed4ea2344252875689a9e104e36c.pdf"
+            }
+        ]
+    },
+    {
+        "key": "plate-glass-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0022V01201819</li><li><strong>Disclaimer:</strong>The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/33b19106eb4d4af99cb16d9bbed13f82.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/091be8e29ad24ce98e1b20568fe542a4.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/c7657b50052a4812b70b6855af98b8ba.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/68b7c647a0804c5e82a033af06bfdb9f.pdf"
+            }
+        ]
+    },
+    {
+        "key": "burglary-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0005V01201819</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "prod_brochure.png",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/401c40348b3447d881ba6c36b5613dad.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/1ff0e6fbe8034cfa97e506b3df84925e.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/3c1d87d152e44778bdca436ce54f6e65.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/60d20083f4e844aabb65bf401074654f.pdf"
+            }
+        ]
+    },
+    {
+        "key": "commercial-motor-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144RP0013V01201213</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/da06a869a87e42539b0cc69fc7d11b50.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/72e04644d1d4452d913bed8094f605e1.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/6346d5bbf7ad440594f656091fed8b0a.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/a69b0d0c9bc2413c859f44043649d91a.pdf"
+            }
+        ]
+    },
+    {
+        "key": "tractor-and-other-farm-vehicle-insurance",
+        "product_disclaimer": "<ul><li>Commercial Vehicle Insurance Policy - Package (Goods Carrying): UIN - IRDAN144RP0002V02201112</li><li>Commercial Vehicle Insurance Policy - Package (Passenger Carrying): UIN - IRDAN144RP0004V03201112</li><li>Commercial Vehicle Insurance Policy - Package (Miscellaneous  Carrying): UIN - IRDAN144RP0003V02201112</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "prod_brochure.png",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/75fec27884b14b68a0a9489e333b62d7.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/1acb48faf4d64cffb1e87cf572b06b08.pdf"
+            }
+        ]
+    },
+    {
+        "key": "group-personal-accident-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - SBIPAGP11005V011011</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "prod_brochure.png",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/aa29fdf9aecc4b4482fda5514d47beff.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/abf01f740d3c48e5b2f90bb8c4b57c74.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/0293d460ea864ffd9fbc51e3dfed9a91.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/a3bbd37ab4c447c5acbb76c11e86844d.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "GPA Common Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/c42a0d3c41b240b494d3276b58a33a59.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "GPA RRB Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/a3493b72322b4ce79b924b7700642808.pdf"
+            }
+        ]
+    },
+    {
+        "key": "standard-fire-and-special-perils-insurances",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0028V04201819</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "prod_brochure.png",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/2818a2a50b5a4e52a718a87aa832b718.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/96d446b1ed4b442983513601af39c4ed.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/97b5cdab9a4a49d7b2c8d476843fb175.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Std Fire Sp Perils CF",
+                "is_media": true,
+                "file_url": "/uploads/231674182c284e07a79a4f56459f1513.pdf"
+            }
+        ]
+    },
+    {
+        "key": "group-health-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - SBIHLGP11001V011011</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "prod_brochure.png",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/6248ea10ccff41c3981dbd0973787a63.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/058d2ca0c3f04d4a85826edf4486ce2c.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/4dd903e313174bfdbe1e433b44eebac4.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Group Health Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/4e1aabfd301b4827888167c2d72b705a.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Group RRB Health Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/649ebf566a594fc080e67303527a032b.pdf"
+            }
+        ]
+    },
+    {
+        "key": "consequential-loss-fire-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0007V01200910</li><li><strong>Disclaimer:</strong>The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/8cd7e33f78d74f9da73adbf222b949d0.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/bc7bea12f2a240cdb86edad72b0c1670.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "23 Consequential Loss (Fire) CLAIM FORM - Fire AND MBD (2)",
+                "is_media": true,
+                "file_url": "/uploads/fe27a20cd0154da5b5d04b8887f2a02b.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/afc06e5fee2d451fbc0b0761a810e9da.pdf"
+            }
+        ]
+    },
+    {
+        "key": "marine-cargo-insurance",
+        "product_disclaimer": "<ul><li><a href='https://secure.sbigeneral.in/MOPCustomer/faces/login' target='_blank'>Click here</a> to issue certificate against your SBI General Marine Cargo Insurance Policy.</li><li><strong>Product UIN</strong> - IRDAN144CP0018V01201819</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "prod_brochure.png",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/f1514a9e8c014e4e8e12b7117397c178.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Marine Cargo CF",
+                "is_media": true,
+                "file_url": "/uploads/b01340ef9a7b41c3b4fad837d0221aaf.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/f19ab02e39ed4de19989ee75b828a6c0.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording Clause A",
+                "is_media": true,
+                "file_url": "/uploads/a3c82d7c737741bf8b27fe36bfb13ce0.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording Clause B",
+                "is_media": true,
+                "file_url": "/uploads/0ea6e9856a8d4502b68b019a6f881c49.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording Clause C",
+                "is_media": true,
+                "file_url": "/uploads/def0279b82234a9496b1d25a57cfb5d9.pdf"
+            }
+        ]
+    },
+    {
+        "key": "industrial-all-risks-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0006V01201011</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/fd30949895c040348a93377a2a337d87.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/70129b6d4c984e85a29a1f83c8a33f89.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "IAR CF",
+                "is_media": true,
+                "file_url": "/uploads/ee8b764545a64f2aa1c800abc9c32d06.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/0d428bb1e344423d99a8afc0d81ef01f.pdf"
+            }
+        ]
+    },
+    {
+        "key": "business-package-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0006V02201819</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/8ca4a7c8dbbb468dba8a481993c7e5d9.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/ad7659ca9140421a810f142bc4c7d0cc.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/6739dd14580945268e029863cdb0a9e0.pdf"
+            }
+        ]
+    },
+    {
+        "key": "latent-defects-insurance-policy",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0001V01201819</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/5911f99ddb31482db3436d0ecc668bf4.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/7d3f0d111a4741e1936a0c5d3a9670ee.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/94eb5fbc3b194d1d9c8e918192a9106c.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/4d2f9639e8384210bda94f07bd5894f8.pdf"
+            }
+        ]
+    },
+    {
+        "key": "electronic-equipment-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0010V01201819</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/f5ab036c08ca42ad86667acc3e3df8ca.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Machinary Elec Equipment CF",
+                "is_media": true,
+                "file_url": "/uploads/e118910c0cf04a4d94db0bd3e00e0297.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/d4407132d30942cab0a93415e606e46d.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/93726724b53542c88667fa2d45661c23.pdf"
+            }
+        ]
+    },
+    {
+        "key": "contractors-all-risk-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0008V01201819</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/69f85954cf9c42ce8053f4bf4af5bfbd.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/e2a2cdfa57c742a5a194ec289b4977e2.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "CAR CF",
+                "is_media": true,
+                "file_url": "/uploads/c5f8310053e645e39db4ca5088b5f345.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/388324607e16461e985896130bec28d6.pdf"
+            }
+        ]
+    },
+    {
+        "key": "erection-all-risks-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0012V01201819</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/0058aa8c7136465d8a469ca9248b7df7.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/d4d3d1eae2ad4980bbf84683f02a8984.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/5d1b2fd984f04bd98f5df15e6af17e9f.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/93d2d141c2e54a44864f10ae9168d127.pdf"
+            }
+        ]
+    },
+    {
+        "key": "contractors-plant-machinery",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0009V01201819</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "claim_form.png",
+                "label": "CPM CF",
+                "is_media": true,
+                "file_url": "/uploads/19f48172e009424b974e962cb1ac3384.pdf"
+            },
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/ecf4169c77bc4a30a37405848a54b735.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/f37f1cf05fa8451d9583a31e500054ee.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/5614a88a8bd4424ab3a5d588aef073e2.pdf"
+            }
+        ]
+    },
+    {
+        "key": "machinery-breakdown-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0017V01201819 </li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/7462b12f01ab47089b7e3413b4ef3c77.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "24 Machinery Breakdown EEI CLAIM FORM (3)",
+                "is_media": true,
+                "file_url": "/uploads/6df025c7af9f4ae8aee7c85d86b01b5c.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/1080b680fb304f6bbc0de7a775bd18ec.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/82f02bd1020c4c638928c5e785c18876.pdf"
+            }
+        ]
+    },
+    {
+        "key": "boiler-pressure-plant-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0002V01201011 </li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/4c6768687d174c58a806c0fc992e7213.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/6c9ad9b5f3c3475e93b60e952481b5e8.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/2a7896cb2fdb4e2c9aa96a2e3e184651.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/bc83804062e740ce8d8fe37c31f48380.pdf"
+            }
+        ]
+    },
+    {
+        "key": "consequential-loss-machinery-breakdown",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0007V01201011</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/1cbc479cb17f4e25a5ea5d59e97aca7c.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/fba6cc4908c845afab5a4ab4f933f148.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/8c4261c1444d4287bc7ba09bd513acf7.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/0d1bf42a0ce8406daf636e6363d8b50a.pdf"
+            }
+        ]
+    },
+    {
+        "key": "directors-and-officers",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0012V01201112 </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/65f9b98519ec44b6a623a7f67cfe3aca.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/1eea9e6681e2401c8de4021656ab390e.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Directors and Officers - Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/0df0c356a15e42498799bb3fd10fcbe1.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/536b15d816bc480d9089f48bfb13d414.pdf"
+            }
+        ]
+    },
+    {
+        "key": "motor-commercial-trailer",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/8be71fec305946bcb605fee4096eea47.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/64d10f4935c849e498004a50c1af8da8.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/3e8ef226ac0248d1ada33835559111f7.PDF"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/482e94301d684894b19ff1a7255146a7.pdf"
+            }
+        ]
+    },
+    {
+        "key": "errors-and-omissions",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0013V01201112 </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/8c9a060434da495b84758914606ba869.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/687b79ca936f47c7b52900300d12dab4.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/47215aa46bfc42b79c3d94b0f22f1f6d.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/7f1286d5933e42eb841466ca0b6842f1.pdf"
+            }
+        ]
+    },
+    {
+        "key": "pradhan-mantri-fasal-bima-yojna",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0003V01201617 </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/76ffa39d9bd84a57b7bfab1d70f09bc3.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/cc877d2b36244e1583a5bf646d36e8a5.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/54661ee775454fc4a00463f297a27af3.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/7cd8c5ef03854811825113f054a592c3.pdf"
+            }
+        ]
+    },
+    {
+        "key": "sign-board",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0026V01201819 </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/81bb64f2700b4c8ca67d8e5508cb5f23.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/90a9e5d05ed74bc2804e066d2144cb6c.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/399a6e64d0da454e8741b04e4bd35e4f.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/8bbcc0de8a3b4a6fbcc5aef8ae35533d.pdf"
+            }
+        ]
+    },
+    {
+        "key": "national-agriculture-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0001V01201314 </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "MNAIS - Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/73ffbe76423a461db7d13a2b2e9e3e92.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form for Loanee Farmer",
+                "is_media": true,
+                "file_url": "/uploads/5bb851b20da34681a8903a05dc5c8846.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form - Non Loanee Farmer",
+                "is_media": true,
+                "file_url": "/uploads/5a5375d90d26468cbd805a3df06eb618.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/28472d989acc46a7accefc63d8c503c0.pdf"
+            }
+        ]
+    },
+    {
+        "key": "event-cancellation",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0013V01201819 </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/1da1c08d74ae456eb4bf84ecf05a3076.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/95aba701ba654fffbd12f52243d9c36d.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/a450d4aa8f7a44f5a829b4a4962f341e.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/017cc93c7fe8493a81e15a4c4c5b5bd3.pdf"
+            }
+        ]
+    },
+    {
+        "key": "motor-act-only",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/3d53a72dbb9b402189dacc9e245da9cd.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/39be670c79a7457cb511f8d12bfcdbf6.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/1256b73bddb04e698ca12b86c4857509.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/be7f58a1cfaa4ee7a92cbd8008bc8e4f.pdf"
+            },
+            {
+                "resource_icon": "5_year_tp_premium.png",
+                "label": "5 year TP Premium",
+                "is_media": true,
+                "file_url": "/uploads/901890eeee4045499e02b956a11a6eb7.pdf"
+            }
+        ]
+    },
+    {
+        "key": "trade-credit-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0004V01201213 </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/ee164d1a2a404e63a6f2e318e5fe4864.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/00eee52f6b3f4d1298fed31de87a216e.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/b18fbef3e8d04239b20585babe5caa98.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/4273d913d03f486386bd88d1d80bfcd6.pdf"
+            }
+        ]
+    },
+    {
+        "key": "aviation-hull-package",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0008V01201011 </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/6ec52b4561d54e74b164ab3657a85e7d.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/1e8f71811eee4cb98f30ed6dfca09829.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Product Brief",
+                "is_media": true,
+                "file_url": "/uploads/76aaff0b1da049668a15ea07985e6911.pdf"
+            }
+        ]
+    },
+    {
+        "key": "sme-package",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0027V02201819  <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/d593429e84cf4bedaca0cbe97cd7c281.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/f58d0c5253714a10ab599afa82cc5381.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/9719321cdde548acbd451cc353d981ec.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/cdf3557a619c411393fde6b93ff1dfbc.pdf"
+            }
+        ]
+    },
+    {
+        "key": "broadform-liability",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> -IRDAN144CP0001V01201617 </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/234c289632fc4c20b9307be4d5b2186b.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/fb3bfc9cca994d6a8cdf078974e2c467.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/3ffe3c5588374e90af50d403c6750f5c.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/f320addac4ce48c99ffa2c4ce4d3a891.pdf"
+            }
+        ]
+    },
+    {
+        "key": "product-liability",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0007V01201112 </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/c522d466874644d9b12146db0cda0c78.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/6918c21fd7664617ba5ea48b2c7aa022.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/29a7df326cfa4f44a20ae7f6c58d0e3c.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/46331d42de8740a6b2f2e47f70316d0b.pdf"
+            }
+        ]
+    },
+    {
+        "key": "cellular-network",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0001V01201213 </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/993f458df31e4297841a5f363c47124a.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/f229da536f784a8aa640dba594e85ca2.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/01d11fb5fd5e428480c70e3801ca58ff.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/a4def32236f84dfaa26ee33e87a5d9e9.pdf"
+            }
+        ]
+    },
+    {
+        "key": "advance-lossof-profit",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0016V01201011 </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/7b1522debb2b4a6086257674f3879a6c.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/45b3ce345f744619a73684b171bfc298.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Product Brief",
+                "is_media": true,
+                "file_url": "/uploads/a8dc43b9f2d349ada86a5496c71696ba.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/3d9ce4e6dd5c450ba0ca3251d46052aa.pdf"
+            }
+        ]
+    },
+    {
+        "key": "clinical-trial-professional-liability",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0008V01201213 </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/c618063aa49a49959b0dd4a09c94c20b.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/ee73c1af63194fb8ae2ff13a6f6bff5d.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/52984c814e1444ba89640201c3b548d6.pdf"
+            }
+        ]
+    },
+    {
+        "key": "cyber-defense-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0002V01201819 </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/bde32b9de2c44f28a23ed53b878d1fa2.pdf"
+            }
+        ]
+    },
+    {
+        "key": "public-liability",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0003V01201112</li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/9f65d50045e047e08b17054efd818a0b.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/172694a783704a479eabb0492f16bb52.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/2e01a2cbcb9a4e13bc587febc7e267dd.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/9b09bd7d1a8240648406fc23202710d6.pdf"
+            }
+        ]
+    },
+    {
+        "key": "baggage-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0004V01201819</li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/e997dabf1a394cae97ed5082eec0373f.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/5a2361cc793b472ea6f0b97cf53944a8.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/e63a411981d3436687f463676f0ec769.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/cbac3916f38a4af288340bc42ac0e59e.pdf"
+            }
+        ]
+    },
+    {
+        "key": "portable-electronic-equipment",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144RP0001V01201112 </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/da66967f99864ca7a663ab0de223ec10.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/5a2361cc793b472ea6f0b97cf53944a8.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/e63a411981d3436687f463676f0ec769.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/cbac3916f38a4af288340bc42ac0e59e.pdf"
+            }
+        ]
+    },
+    {
+        "key": "weather-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0010V01201213 </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/271f953f4f5d4b6f8a41875d1fa73d02.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/5c62952f69414ed18385e0d65827d07a.pdf"
+            }
+        ]
+    },
+    {
+        "key": "mega-risk",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0009V01201011 </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": []
+    },
+    {
+        "key": "port-package",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0014V01201112 </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/77245c4cbb19432891da4127445eabbf.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Product Brief",
+                "is_media": true,
+                "file_url": "/uploads/a6a6c1f475624494ba303d83872e2a01.pdf"
+            }
+        ]
+    },
+    {
+        "key": "marine-delay-start",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0010V01201112 </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/ff91ca45c81d4cd2a4a101b6465e831d.pdf"
+            },
+            {
+                "resource_icon": "prod_brochure.png",
+                "label": "Brochures",
+                "is_media": true,
+                "file_url": "/uploads/3f84772e7b1449cd977076505e8035fd.pdf"
+            }
+        ]
+    },
+    {
+        "key": "motor-trade-transit-risks",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0016V01201213 </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/c75eb57c562246e29b4b2f0b89ec0d15.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/c8c36ef1153f49269ae24bf0539500ac.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/3a4061eed26f44fe97e6ec04e7bf2b54.PDF"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/b99f24b09ad343879946f25184290a14.pdf"
+            }
+        ]
+    },
+    {
+        "key": "all-risk-insurance",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0003V01201819  </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/6d88fe8854ff4400af049c5c6cfbe375.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/cd436d99013244559318f84ed42c177c.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/9cf5a9a77e284f8da95e099b38335c5b.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/b01616728af64f1780377fd7971f8648.pdf"
+            }
+        ]
+    },
+    {
+        "key": "clinical-trial-no-fault",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0007V01201213 </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/d9da00b5e749462faa4d5ecb69ea7128.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/0140d573b09f41aeb5b2f1c2962eae43.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/5f07dc7b41424a32b3a14f387600dfc1.pdf"
+            }
+        ]
+    },
+    {
+        "key": "employees-compensation-ec",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0011V01201819 </li> <li><strong>Disclaimer:</strong> The above information is only indicative in nature. For full details of the coverage & exclusions please contact our nearest office and refer to the policy.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/1c3915703fce4ce392aee073f26ecc31.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/29fcfbc3fa25482ebda2c9b387f6d7aa.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/1a23c7a685e64646a9baf3a748de906d.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/935eaa8bb9d74b78a0ca913537d165be.pdf"
+            }
+        ]
+    },
+    {
+        "key": "motor-trade-road-risks",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0015V01201213</li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/5c2bbc7773234dc09594e65fe287379d.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/5d22498238ae48d48d05a6b9e916d0c6.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/e4da8a358f0b4bbe9ad50d98045b4de1.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/102324a1f6854f8cb604443cd461b475.pdf"
+            }
+        ]
+    },
+    {
+        "key": "public-liability-act",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144RP0009V01201112</li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/0bd2db9ea52040aeb546388931848c7e.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/853003ecad914cb7a040505856e7b0fc.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/93a717cdf806434085c585aa93341511.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/c9cb18044c0b454da19bc60384e1ea9f.pdf"
+            }
+        ]
+    },
+    {
+        "key": "kidnap-ransom-and-extortion",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0015V01201819 </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/ab0dd3c080c64bf594d150c81729ddfe.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/32a1205befea4cd2a42fce77d6036222.pdf"
+            }
+        ]
+    },
+    {
+        "key": "commercial-general-liability",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0011V01201112</li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/3f9e8fa4d5c34e2e8dec8b1c10acf8d5.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/868e8937f589418ea0392a7acf24f414.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/5a2de267bf3a434781364db188ac34cf.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/d58cbc306e9e4637b666841cfba45282.pdf"
+            }
+        ]
+    },
+    {
+        "key": "motor-trade-internal-risks",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0014V01201213</li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/e6b1aa1f9dab4147a1027253fe2771a6.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/b0b1c4f390864772b836b641c68d3555.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/f8c600057ece4474b8b7dec02494bb46.PDF"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/33595e5b4ebc46d691b830b1c7fa3bc7.pdf"
+            }
+        ]
+    },
+    {
+        "key": "fidelity-guarantee",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0014V01201819 </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/58f00d8632ce4f5cb2b59e3f347fc0e1.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/5173c9cd3aff42cb8521c512c49c3d2a.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/cbe585a9676542b68ee410c7692cfecc.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/cd8a496119e3457f94dd2658eadd1529.pdf"
+            }
+        ]
+    },
+    {
+        "key": "oil-energy",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144CP0004V01201112 </li> <li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/ba17a23f78c7482f960fea4f35463851.pdf"
+            }
+        ]
+    },
+    {
+        "key": "agriculture-pumpset-insurance-policy",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144RP0011V01201213</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/ef9556f943ad4a568798b33a96d65d19.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/46f96d5f5dd349a1aeaefc7b825ae524.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/99d453f29874497fab63b0532eb034b0.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/edb8bc0855694fd48dd1c380c5fa9632.pdf"
+            }
+        ]
+    },
+    {
+        "key": "cattle-insurance-policy",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144RP0012V01201213</li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/3505e87a41104f0fb1f2dc8024f0e042.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/dbfed36a43e74fa09367a5a4c3a7b487.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/38d1f61d4aee4421b7f349eed15e876d.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/37a6f29b9f8e4171bbac3525afb1aba9.pdf"
+            }
+        ]
+    },
+    {
+        "key": "micro-insurance-policy",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - SBIPAGP12001V011112</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/193cc0adeb774dd9b501571a15ab8e28.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/c93018a9c88649f58d9ffa8a9c4310cd.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/be4746362dd4485494f2b140fc853c81.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Micro Ins Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/d55cdf91adb14bb8840606d4f56a15be.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Micro IND & Family Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/fac339b26e0341e29a99f0dbcce8de91.pdf"
+            }
+        ]
+    },
+    {
+        "key": "sheep-goat-insurance-policy",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144RP0017V01201213</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/9dd6e43276d44ff2b742ba5b9d8e12ad.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/ea35c200b2c243d094f80d20ae110270.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/60b2af7b44004aae83459bfd32b1178b.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/59163371721e4545a78d416c2b577d25.pdf"
+            }
+        ]
+    },
+    {
+        "key": "jewellers-block",
+        "product_disclaimer": "<ul><li><strong>PRODUCT UIN </strong> - IRDAN144RP0001V01201415</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms & conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/cc03109089fa437886c4d2cf1c79b893.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/93329e8df4ca43b3adcd7c1c27b80dd0.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/4f9edf6eccb5452e9b41205e40ac2fa7.pdf"
+            },
+            {
+                "resource_icon": "claim_form.png",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/3529270f03cc4ac999dfb722475e2017.pdf"
+            }
+        ]
+    },
+    {
+        "key": "arogya-sanjeevani-policy",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - SBIHLIP20180V011920</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.png",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/3f2a5458f1284f88813496e04e5c98b0.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.png",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/b7b98d12c9da4f44b7f5e372945fbf7f.pdf"
+            },
+            {
+                "resource_icon": "prospectus.png",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/a14af141ba9745dcba0c4822b9d7cb8f.pdf"
+            },
+            {
+                "resource_icon": "prod_brochure.png",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/49c81ae8e31d44eea53126d71ab81d0b.pdf"
+            }
+        ]
+    },
+    {
+        "key": "shagun",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - 441/IRDAI/HLT/GEN/SBI-SB/2019-20</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</br>* subject to terms and conditions of the policy</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "prod_brochure.svg",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/1abe6c3b753342d1bc2215cde92a27a3.pdf"
+            }
+        ]
+    },
+    {
+        "key": "covid-kavach",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - SBIHLIP21090V012021</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</br>* subject to terms and conditions of the policy</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.svg",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/01bb45cd89ec462a8b6288325539bc81.pdf"
+            },
+            {
+                "resource_icon": "prod_brochure.svg",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/9379b1e7b9424c42ad2be7ae8fe779d8.pdf"
+            },
+            {
+                "resource_icon": "prod_brochure.svg",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/13b7f352efe54c41b464602d2b21bc95.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.svg",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/29f8214f8b83404bab0e9bda58634fbf.pdf"
+            }
+
+        ]
+    },
+    {
+        "key": "corona-rakshak",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong>-SBIHLIP21120V012021</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</li></ul>",
+        "related_data": [ ]
+    },
+    {
+        "key": "arogya-sanjeevani-group-policy",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - SBIHLIP20180V011920</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</br>* subject to terms and conditions of the policy</li></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.svg",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/83bedcf5e03e41b0bf81e4d22e85600c.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.svg",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/b7b98d12c9da4f44b7f5e372945fbf7f.pdf"
+            },
+            {
+                "resource_icon": "prod_brochure.svg",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/f909e7e2f8e4446db06bcaf7a5959c56.pdf"
+            },
+            {
+                "resource_icon": "prod_brochure.svg",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/977fc90ab12640b8bb0d4ed3b600d819.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.svg",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/65f9183851a34febb8052ebe664b6283.pdf"
+            }
+        ]
+    },
+    {
+        "key": "vector-borne-disease-cover",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong>-SBIHLGP21122V012021</li></ul>",
+        "related_data": [ ]
+    },
+    {
+        "key": "gramin-samriddhi-bima",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong>-IRDAN144RP0001V01202021</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</br>* subject to terms and conditions of the policy</li></ul></ul>",
+        "related_data": [
+            {
+                "resource_icon": "policy_wording.svg",
+                "label": "Policy Wording",
+                "is_media": true,
+                "file_url": "/uploads/0e833c5ee71a49318baacedf505b5edf.pdf"
+            },
+            {
+                "resource_icon": "proposal_form.svg",
+                "label": "Proposal Form",
+                "is_media": true,
+                "file_url": "/uploads/d04adca8aa00460499b56033ec196f06.pdf"
+            },
+            {
+                "resource_icon": "prod_brochure.svg",
+                "label": "Prospectus",
+                "is_media": true,
+                "file_url": "/uploads/d7b585e8a69d44cfbbc56da6f83117d4.pdf"
+            },
+            {
+                "resource_icon": "prod_brochure.svg",
+                "label": "Product Brochure",
+                "is_media": true,
+                "file_url": "/uploads/90cac89460284c759338c93ebe1905e3.pdf"
+            },
+            {
+                "resource_icon": "prod_brochure.svg",
+                "label": "Customer info Sheet",
+                "is_media": true,
+                "file_url": "/uploads/a22ca566e05a43d787616b497c56f973.pdf"
+            },
+            {
+                "resource_icon": "prod_brochure.svg",
+                "label": "Claim Form",
+                "is_media": true,
+                "file_url": "/uploads/f03bfbeb196c4048b784117059cf3dad.pdf"
+            }
+         ]
+    } ,
+    {
+      "key": "arogya-supreme",
+      "product_disclaimer": "<ul><li><strong>Product UIN</strong> - XXXXXXX1111111111</li><li><strong>Disclaimer:</strong>  The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</br>* subject to terms and conditions of the policy</li></ul>",
+      "related_data": [
+        {
+          "resource_icon": "policy_wording.svg",
+          "label": " Policy Wording",
+          "is_media": true,
+          "file_url": "/uploads/83bedcf5e03e41b0bf81e4d22e85600c.pdf"
+        },
+        {
+          "resource_icon": "proposal_form.svg",
+          "label": " Proposal Form",
+          "is_media": true,
+          "file_url": "/uploads/4b712d51ef67450fbf1dae834141c5e5.pdf"
+        },
+        {
+          "resource_icon": "prod_brochure.svg",
+          "label": " Prospectus",
+          "is_media": true,
+          "file_url": "/uploads/f909e7e2f8e4446db06bcaf7a5959c56.pdf"
+        },
+        {
+          "resource_icon": "prod_brochure.svg",
+          "label": " Product Brochure",
+          "is_media": true,
+          "file_url": "/uploads/977fc90ab12640b8bb0d4ed3b600d819.pdf"
+        }
+      ]
+    },
+    {
+      "key": "bharat-griha-raksha",
+      "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144RP0032V01202021</li><li><strong>Disclaimer:</strong>  The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</br>* subject to terms and conditions of the policy</li></ul>",
+      "related_data": [
+        {
+            "resource_icon": "proposal_form.png",
+            "label": "Claim Form",
+            "is_media": true,
+            "file_url": "/uploads/1b4c0af66e2b4418bbccbb41aa7fa33d.pdf"
+        },
+        {
+            "resource_icon": "prod_brochure.svg",
+            "label": "Prospectus",
+            "is_media": true,
+            "file_url": "/uploads/141fc431c8da4bf793084c63c321bbc9.pdf"
+        },
+        {
+          "resource_icon": "policy_wording.svg",
+          "label": "Policy Wording",
+          "is_media": true,
+          "file_url": "/uploads/f2c3f1a6e5184f11b4ac6323912a90dd.pdf"
+        },  
+        {
+          "resource_icon": "proposal_form.svg",
+          "label": "Key Feature Doc",
+          "is_media": true,
+          "file_url": "/uploads/6e7c3f3071f342efb7638c7c1da42134.pdf"
+        },
+        {
+          "resource_icon": "proposal_form.svg",
+          "label": "Proposal Form",
+          "is_media": true,
+          "file_url": "/uploads/7d79cb1da1d14f5ba10fa5cc8e29e217.pdf"
+        }
+      ]
+    },
+    {
+      "key": "bharat-laghu-udyam-suraksha",
+      "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144RP0030V01202021</li><li><strong>Disclaimer:</strong>  The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</br>* subject to terms and conditions of the policy</li></ul>",
+      "related_data": [
+        {
+            "resource_icon": "proposal_form.svg", 
+            "label": "Claim Form",
+            "is_media": true,
+            "file_url": "/uploads/71e1afb1b27849118a697c14a555d25f.pdf"
+        },
+        {
+            "resource_icon": "policy_wording.svg",
+            "label": "Policy Wording",
+            "is_media": true,
+            "file_url": "/uploads/9a7670f8fac04144bd5cb4658fe57394.pdf"
+        },
+        {
+          "resource_icon": "prod_brochure.svg",
+          "label": "Prospectus",
+          "is_media": true,
+          "file_url": "/uploads/8da57ee1030443dbafd67372752f6061.pdf"
+        },
+        {
+          "resource_icon": "proposal_form.svg",
+          "label": "Key Feature Doc",
+          "is_media": true,
+          "file_url": "/uploads/008789f545f64f8aab4788438f60d848.pdf"
+        },
+        {
+          "resource_icon": "proposal_form.svg",
+          "label": "Proposal Form",
+          "is_media": true,
+          "file_url": "/uploads/c3677d14bc7745dc85d12f42e88ca7d4.pdf"
+        },
+        {
+          "resource_icon": "prod_brochure.svg",
+          "label": " Product Brochure",
+          "is_media": true,
+          "file_url": "/uploads/8bb1cfbbd517494ab4dfc5cf65e225b7.pdf"
+        }
+      ]
+    },
+    {
+      "key": "bharat-sookshma-udyam-suraksha",
+      "product_disclaimer": "<ul><li><strong>Product UIN</strong> - IRDAN144RP0031V01202021</li><li><strong>Disclaimer:</strong>  The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</br>* subject to terms and conditions of the policy</li></ul>",
+      "related_data": [
+        {
+            "resource_icon": "proposal_form.svg",
+            "label": "Claim Form",
+            "is_media": true,
+            "file_url": "/uploads/5eb38a8ca8b749fa91ace322dff026a6.pdf.pdf"
+        },
+        {
+            "resource_icon": "policy_wording.svg",
+            "label": "Policy Wording",
+            "is_media": true,
+            "file_url": "/uploads/42f4e08174ed45938889b3284c6e0076.pdf"
+        },
+        {
+          "resource_icon": "prod_brochure.svg",
+          "label": "Prospectus",
+          "is_media": true,
+          "file_url": "/uploads/9e38dbd1077f44bba2c2863d1640f174.pdf"
+        },
+        {
+          "resource_icon": "proposal_form.svg",
+          "label": "Key Feature Doc",
+          "is_media": true,
+          "file_url": "/uploads/95a12de151cb4ee087729ee4aab6cb50.pdf"
+        },
+        {
+          "resource_icon": "proposal_form.svg",
+          "label": "Proposal Form",
+          "is_media": true,
+          "file_url": "/uploads/347ad0d57180457c955b992e21897bb6.pdf"
+        },
+        {
+          "resource_icon": "prod_brochure.svg",
+          "label": " Product Brochure",
+          "is_media": true,
+          "file_url": "/uploads/e11c8244ff3c443b8b9452c7da91aac8.pdf"
+        }
+
+      ]
+    },
+    { "key": "saral-suraksha-bima",
+        "product_disclaimer": "<ul><li><strong>Product UIN</strong> - SBIPAIP21639V012021</li><li><strong>Disclaimer:</strong> The above information is indicative in nature, for more details on complete coverage and terms and conditions, please contact our nearest office and also read the policy document and sales brochure carefully before concluding a sale.</br>* subject to terms and conditions of the policy</li></ul>",
+        "related_data": [
+          {
+            "resource_icon": "policy_wording.svg",
+            "label": " Policy Wording",
+            "is_media": true,
+            "file_url": "/uploads/814fd7929e9a4b5b8fa9833e7e218359.pdf"
+          },
+          {
+            "resource_icon": "prod_brochure.svg",
+            "label": " Prospectus",
+            "is_media": true,
+            "file_url": "/uploads/6565c1488799436fa4aabf4fbd0a8b66.pdf"
+          },
+          {
+              "resource_icon": "prod_brochure.svg",
+              "label": "Customer info Sheet",
+              "is_media": true,
+              "file_url": "/uploads/a04362d7313445ea88b4ad7853d726f5.pdf"
+          }
+        ]
+    }
+]
